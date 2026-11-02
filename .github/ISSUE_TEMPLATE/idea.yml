@@ -1,0 +1,10 @@
+name: Idea or suggestion
+description: A feature, a plant, or anything that would make Plot Twist better
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+    validations:
+      required: true

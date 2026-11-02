@@ -1,0 +1,12 @@
+.superpowers/
+node_modules/
+dist/
+.vercel/
+.env*
+scripts/climate/cache/
+__pycache__/
+.pytest_cache/
+.vercel
+scripts/water/cache/
+Garden Planner App Research.pdf
+docs/

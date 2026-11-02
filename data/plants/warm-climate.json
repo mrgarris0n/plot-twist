@@ -1,0 +1,2399 @@
+[
+  {
+    "id": "fig",
+    "commonNames": [
+      "Common fig",
+      "Fig"
+    ],
+    "commonNamesHu": [
+      "Füge",
+      "Közönséges füge"
+    ],
+    "latinName": "Ficus carica",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 6.1,
+        "matureWidthM": 6.1,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -17.7,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "early-winter",
+        "to": "late-winter"
+      },
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Ficus+carica",
+    "water": {
+      "level": "high"
+    },
+    "sources": [
+      {
+        "id": "ncsu-ficus-carica",
+        "title": "Ficus carica (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/ficus-carica/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-fruit-figs-guide",
+        "title": "How to grow figs (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/fruit/figs/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-kozonseges-fuge",
+        "title": "Közönséges füge (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Közönséges_füge",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-ficus-carica"
+      ],
+      "commonNamesHu": [
+        "huwiki-kozonseges-fuge"
+      ],
+      "latinName": [
+        "ncsu-ficus-carica"
+      ],
+      "layer": [
+        "ncsu-ficus-carica"
+      ],
+      "sunNeed": [
+        "ncsu-ficus-carica"
+      ],
+      "variants.standard": [
+        "ncsu-ficus-carica"
+      ],
+      "minWinterC": [
+        "ncsu-ficus-carica"
+      ],
+      "edibleParts": [
+        "ncsu-ficus-carica"
+      ],
+      "calendar": [
+        "ncsu-ficus-carica"
+      ],
+      "leafHabit": [
+        "ncsu-ficus-carica"
+      ],
+      "grownIn": [
+        "rhs-fruit-figs-guide"
+      ],
+      "water": [
+        "rhs-fruit-figs-guide",
+        "ncsu-ficus-carica"
+      ]
+    },
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "olive",
+    "commonNames": [
+      "Olive",
+      "Common olive",
+      "European olive"
+    ],
+    "commonNamesHu": [
+      "Olajfa",
+      "Európai olajfa",
+      "Olíva"
+    ],
+    "latinName": "Olea europaea",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 7.6,
+        "matureWidthM": 6.1,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -12.2,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Olea+europaea",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-olea-europaea",
+        "title": "Olea europaea (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/olea-europaea/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "huwiki-olajfa-novenyfaj",
+        "title": "Olajfa (növényfaj) (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Olajfa_(növényfaj)",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-olea-europaea"
+      ],
+      "commonNamesHu": [
+        "huwiki-olajfa-novenyfaj"
+      ],
+      "latinName": [
+        "ncsu-olea-europaea"
+      ],
+      "layer": [
+        "ncsu-olea-europaea"
+      ],
+      "sunNeed": [
+        "ncsu-olea-europaea"
+      ],
+      "variants.standard": [
+        "ncsu-olea-europaea"
+      ],
+      "minWinterC": [
+        "ncsu-olea-europaea"
+      ],
+      "edibleParts": [
+        "ncsu-olea-europaea"
+      ],
+      "calendar": [
+        "ncsu-olea-europaea"
+      ],
+      "leafHabit": [
+        "ncsu-olea-europaea"
+      ],
+      "origin": [
+        "ncsu-olea-europaea"
+      ],
+      "water": [
+        "ncsu-olea-europaea"
+      ]
+    },
+    "origin": [
+      "europe",
+      "africa",
+      "asia"
+    ]
+  },
+  {
+    "id": "pomegranate",
+    "commonNames": [
+      "Pomegranate"
+    ],
+    "commonNamesHu": [
+      "Gránátalma"
+    ],
+    "latinName": "Punica granatum",
+    "family": null,
+    "layer": "shrub",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 3.4,
+        "matureWidthM": 2.7,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -12.2,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Punica+granatum",
+    "water": {
+      "minRainMm": 762
+    },
+    "sources": [
+      {
+        "id": "ncsu-punica-granatum",
+        "title": "Punica granatum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/punica-granatum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "usda-plants-pugr2",
+        "title": "Punica granatum (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/PUGR2",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-granatalma",
+        "title": "Gránátalma (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Gránátalma",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-punica-granatum"
+      ],
+      "commonNamesHu": [
+        "huwiki-granatalma"
+      ],
+      "latinName": [
+        "ncsu-punica-granatum"
+      ],
+      "layer": [
+        "ncsu-punica-granatum"
+      ],
+      "sunNeed": [
+        "ncsu-punica-granatum"
+      ],
+      "variants.standard": [
+        "ncsu-punica-granatum"
+      ],
+      "minWinterC": [
+        "ncsu-punica-granatum"
+      ],
+      "edibleParts": [
+        "ncsu-punica-granatum"
+      ],
+      "calendar": [
+        "ncsu-punica-granatum"
+      ],
+      "leafHabit": [
+        "ncsu-punica-granatum"
+      ],
+      "origin": [
+        "ncsu-punica-granatum"
+      ],
+      "water": [
+        "usda-plants-pugr2"
+      ]
+    },
+    "origin": [
+      "asia"
+    ]
+  },
+  {
+    "id": "feijoa",
+    "commonNames": [
+      "Feijoa",
+      "Pineapple guava"
+    ],
+    "commonNamesHu": [
+      "Mirtuszdió"
+    ],
+    "latinName": "Acca sellowiana",
+    "family": null,
+    "layer": "shrub",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 3.8,
+        "matureWidthM": 1.7,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -12.2,
+    "roles": null,
+    "edibleParts": [
+      "fruit",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Acca+sellowiana",
+    "sources": [
+      {
+        "id": "ncsu-acca-sellowiana",
+        "title": "Acca sellowiana (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/acca-sellowiana/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "ufgs-pineapple-guava",
+        "title": "Pineapple guava (UF/IFAS Gardening Solutions)",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/edibles/fruits/pineapple-guava/",
+        "licence": "Facts cited; © University of Florida / IFAS"
+      },
+      {
+        "id": "gardener-hu-2026-10-27",
+        "title": "Hungarian name chosen by the Plot Twist gardener (no published source)",
+        "url": "https://github.com/mrgarris0n/plot-twist/blob/main/data/plants/SOURCES.md#gardener-hungarian-names-2026-10-27",
+        "licence": "Project decision; no third-party text"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-acca-sellowiana"
+      ],
+      "latinName": [
+        "ncsu-acca-sellowiana"
+      ],
+      "layer": [
+        "ncsu-acca-sellowiana"
+      ],
+      "sunNeed": [
+        "ufgs-pineapple-guava"
+      ],
+      "variants.standard": [
+        "ncsu-acca-sellowiana"
+      ],
+      "minWinterC": [
+        "ncsu-acca-sellowiana",
+        "ufgs-pineapple-guava"
+      ],
+      "edibleParts": [
+        "ncsu-acca-sellowiana"
+      ],
+      "calendar": [
+        "ufgs-pineapple-guava"
+      ],
+      "leafHabit": [
+        "ncsu-acca-sellowiana"
+      ],
+      "origin": [
+        "ncsu-acca-sellowiana"
+      ],
+      "commonNamesHu": [
+        "gardener-hu-2026-10-27"
+      ]
+    },
+    "origin": [
+      "south-america"
+    ]
+  },
+  {
+    "id": "loquat",
+    "commonNames": [
+      "Loquat",
+      "Japanese plum"
+    ],
+    "commonNamesHu": [
+      "Japánnaspolya"
+    ],
+    "latinName": "Eriobotrya japonica",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 5.3,
+        "matureWidthM": 5.3,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -12.2,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-spring",
+        "to": "late-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Eriobotrya+japonica",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-eriobotrya-japonica",
+        "title": "Eriobotrya japonica (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/eriobotrya-japonica/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "huwiki-japannaspolya",
+        "title": "Japánnaspolya (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Japánnaspolya",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-eriobotrya-japonica"
+      ],
+      "commonNamesHu": [
+        "huwiki-japannaspolya"
+      ],
+      "latinName": [
+        "ncsu-eriobotrya-japonica"
+      ],
+      "layer": [
+        "ncsu-eriobotrya-japonica"
+      ],
+      "sunNeed": [
+        "ncsu-eriobotrya-japonica"
+      ],
+      "variants.standard": [
+        "ncsu-eriobotrya-japonica"
+      ],
+      "minWinterC": [
+        "ncsu-eriobotrya-japonica"
+      ],
+      "edibleParts": [
+        "ncsu-eriobotrya-japonica"
+      ],
+      "calendar": [
+        "ncsu-eriobotrya-japonica"
+      ],
+      "leafHabit": [
+        "ncsu-eriobotrya-japonica"
+      ],
+      "roles": [
+        "ncsu-eriobotrya-japonica"
+      ],
+      "origin": [
+        "ncsu-eriobotrya-japonica"
+      ],
+      "water": [
+        "ncsu-eriobotrya-japonica"
+      ]
+    },
+    "origin": [
+      "asia"
+    ]
+  },
+  {
+    "id": "banana",
+    "commonNames": [
+      "Banana",
+      "Plantain"
+    ],
+    "commonNamesHu": [
+      "Banán",
+      "Étkezési banán"
+    ],
+    "latinName": "Musa x paradisiaca",
+    "family": null,
+    "layer": "shrub",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 4.9,
+        "matureWidthM": 2.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -2.2,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "fruit",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Musa+paradisiaca",
+    "water": {
+      "level": "high"
+    },
+    "sources": [
+      {
+        "id": "ncsu-musa-x-paradisiaca",
+        "title": "Musa x paradisiaca (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/musa-x-paradisiaca/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "ufedis-mg040",
+        "title": "HS10/MG040: Banana Growing in the Florida Home Landscape (UF/IFAS EDIS)",
+        "url": "https://edis.ifas.ufl.edu/mg040",
+        "licence": "Facts cited; © University of Florida / IFAS"
+      },
+      {
+        "id": "huwiki-banan",
+        "title": "Banán (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Banán",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-musa-x-paradisiaca"
+      ],
+      "commonNamesHu": [
+        "huwiki-banan"
+      ],
+      "latinName": [
+        "ncsu-musa-x-paradisiaca"
+      ],
+      "layer": [
+        "ncsu-musa-x-paradisiaca"
+      ],
+      "sunNeed": [
+        "ncsu-musa-x-paradisiaca"
+      ],
+      "variants.standard": [
+        "ncsu-musa-x-paradisiaca"
+      ],
+      "minWinterC": [
+        "ufedis-mg040"
+      ],
+      "edibleParts": [
+        "ncsu-musa-x-paradisiaca"
+      ],
+      "calendar": [
+        "ncsu-musa-x-paradisiaca"
+      ],
+      "leafHabit": [
+        "ncsu-musa-x-paradisiaca"
+      ],
+      "roles": [
+        "ncsu-musa-x-paradisiaca"
+      ],
+      "water": [
+        "ncsu-musa-x-paradisiaca",
+        "ufedis-mg040"
+      ]
+    }
+  },
+  {
+    "id": "lemon",
+    "commonNames": [
+      "Lemon"
+    ],
+    "commonNamesHu": [
+      "Citrom",
+      "Közönséges citrom"
+    ],
+    "latinName": "Citrus x limon",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 4.6,
+        "matureWidthM": 3.8,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -2.2,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-spring",
+        "to": "late-winter"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Citrus+limon",
+    "water": {
+      "level": "high"
+    },
+    "sources": [
+      {
+        "id": "ncsu-citrus-x-limon",
+        "title": "Citrus x limon (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/citrus-x-limon/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "uc-placer-citrus",
+        "title": "Growing Citrus in the Sierra Nevada Foothills, publication 31-018C (UC Cooperative Extension, Placer & Nevada Counties)",
+        "url": "https://ucanr.edu/sites/default/files/2020-10/63813.pdf",
+        "licence": "Facts cited; © Regents of the University of California"
+      },
+      {
+        "id": "huwiki-citrom",
+        "title": "Citrom (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Citrom",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-citrus-x-limon"
+      ],
+      "commonNamesHu": [
+        "huwiki-citrom"
+      ],
+      "latinName": [
+        "ncsu-citrus-x-limon"
+      ],
+      "layer": [
+        "ncsu-citrus-x-limon"
+      ],
+      "sunNeed": [
+        "ncsu-citrus-x-limon"
+      ],
+      "variants.standard": [
+        "ncsu-citrus-x-limon"
+      ],
+      "minWinterC": [
+        "uc-placer-citrus"
+      ],
+      "edibleParts": [
+        "ncsu-citrus-x-limon"
+      ],
+      "calendar": [
+        "ncsu-citrus-x-limon"
+      ],
+      "leafHabit": [
+        "ncsu-citrus-x-limon"
+      ],
+      "water": [
+        "ncsu-citrus-x-limon"
+      ]
+    }
+  },
+  {
+    "id": "meyer-lemon",
+    "commonNames": [
+      "Meyer lemon"
+    ],
+    "commonNamesHu": [
+      "Meyer-citrom"
+    ],
+    "latinName": "Citrus x limon 'Meyer'",
+    "family": null,
+    "layer": "shrub",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 2.4,
+        "matureWidthM": 1.8,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -5.6,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Citrus+limon",
+    "sources": [
+      {
+        "id": "ncsu-citrus-x-limon-meyer",
+        "title": "Citrus x limon 'Meyer' (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/citrus-x-limon-meyer/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "uc-placer-citrus",
+        "title": "Growing Citrus in the Sierra Nevada Foothills, publication 31-018C (UC Cooperative Extension, Placer & Nevada Counties)",
+        "url": "https://ucanr.edu/sites/default/files/2020-10/63813.pdf",
+        "licence": "Facts cited; © Regents of the University of California"
+      },
+      {
+        "id": "uc-citrus-cold",
+        "title": "Avoiding Cold Damage to Home Citrus (UC Cooperative Extension)",
+        "url": "https://ucanr.edu/sites/default/files/2012-01/134971.pdf",
+        "licence": "Facts cited; © Regents of the University of California"
+      },
+      {
+        "id": "gardener-hu-2026-10-27",
+        "title": "Hungarian name chosen by the Plot Twist gardener (no published source)",
+        "url": "https://github.com/mrgarris0n/plot-twist/blob/main/data/plants/SOURCES.md#gardener-hungarian-names-2026-10-27",
+        "licence": "Project decision; no third-party text"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-citrus-x-limon-meyer"
+      ],
+      "latinName": [
+        "ncsu-citrus-x-limon-meyer"
+      ],
+      "layer": [
+        "ncsu-citrus-x-limon-meyer"
+      ],
+      "sunNeed": [
+        "ncsu-citrus-x-limon-meyer"
+      ],
+      "variants.standard": [
+        "ncsu-citrus-x-limon-meyer"
+      ],
+      "minWinterC": [
+        "uc-placer-citrus",
+        "uc-citrus-cold"
+      ],
+      "edibleParts": [
+        "ncsu-citrus-x-limon-meyer"
+      ],
+      "calendar": [
+        "ncsu-citrus-x-limon-meyer"
+      ],
+      "leafHabit": [
+        "ncsu-citrus-x-limon-meyer"
+      ],
+      "commonNamesHu": [
+        "gardener-hu-2026-10-27"
+      ]
+    }
+  },
+  {
+    "id": "orange",
+    "commonNames": [
+      "Sweet orange",
+      "Orange",
+      "Navel orange"
+    ],
+    "commonNamesHu": [
+      "Narancs"
+    ],
+    "latinName": "Citrus x sinensis",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 5.8,
+        "matureWidthM": 3.5,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -4.4,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-winter",
+        "to": "late-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Citrus+sinensis",
+    "sources": [
+      {
+        "id": "ncsu-citrus-x-sinensis",
+        "title": "Citrus x sinensis (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/citrus-x-sinensis/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "uc-placer-citrus",
+        "title": "Growing Citrus in the Sierra Nevada Foothills, publication 31-018C (UC Cooperative Extension, Placer & Nevada Counties)",
+        "url": "https://ucanr.edu/sites/default/files/2020-10/63813.pdf",
+        "licence": "Facts cited; © Regents of the University of California"
+      },
+      {
+        "id": "uc-citrus-cold",
+        "title": "Avoiding Cold Damage to Home Citrus (UC Cooperative Extension)",
+        "url": "https://ucanr.edu/sites/default/files/2012-01/134971.pdf",
+        "licence": "Facts cited; © Regents of the University of California"
+      },
+      {
+        "id": "huwiki-narancs",
+        "title": "Narancs (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Narancs",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-citrus-x-sinensis"
+      ],
+      "commonNamesHu": [
+        "huwiki-narancs"
+      ],
+      "latinName": [
+        "ncsu-citrus-x-sinensis"
+      ],
+      "layer": [
+        "ncsu-citrus-x-sinensis"
+      ],
+      "sunNeed": [
+        "ncsu-citrus-x-sinensis"
+      ],
+      "variants.standard": [
+        "ncsu-citrus-x-sinensis"
+      ],
+      "minWinterC": [
+        "uc-placer-citrus",
+        "uc-citrus-cold"
+      ],
+      "edibleParts": [
+        "ncsu-citrus-x-sinensis"
+      ],
+      "calendar": [
+        "ncsu-citrus-x-sinensis"
+      ],
+      "leafHabit": [
+        "ncsu-citrus-x-sinensis"
+      ]
+    }
+  },
+  {
+    "id": "grapefruit",
+    "commonNames": [
+      "Grapefruit"
+    ],
+    "commonNamesHu": [
+      "Grépfrút",
+      "Citrancs"
+    ],
+    "latinName": "Citrus x paradisi",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 6.9,
+        "matureWidthM": 6.9,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -3.3,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-winter"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Citrus+paradisi",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-citrus-x-paradisi",
+        "title": "Citrus x paradisi (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/citrus-x-paradisi/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "uc-placer-citrus",
+        "title": "Growing Citrus in the Sierra Nevada Foothills, publication 31-018C (UC Cooperative Extension, Placer & Nevada Counties)",
+        "url": "https://ucanr.edu/sites/default/files/2020-10/63813.pdf",
+        "licence": "Facts cited; © Regents of the University of California"
+      },
+      {
+        "id": "uc-citrus-cold",
+        "title": "Avoiding Cold Damage to Home Citrus (UC Cooperative Extension)",
+        "url": "https://ucanr.edu/sites/default/files/2012-01/134971.pdf",
+        "licence": "Facts cited; © Regents of the University of California"
+      },
+      {
+        "id": "huwiki-grepfrut",
+        "title": "Grépfrút (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Grépfrút",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-citrus-x-paradisi"
+      ],
+      "commonNamesHu": [
+        "huwiki-grepfrut"
+      ],
+      "latinName": [
+        "ncsu-citrus-x-paradisi"
+      ],
+      "layer": [
+        "ncsu-citrus-x-paradisi"
+      ],
+      "sunNeed": [
+        "ncsu-citrus-x-paradisi"
+      ],
+      "variants.standard": [
+        "ncsu-citrus-x-paradisi"
+      ],
+      "minWinterC": [
+        "uc-placer-citrus",
+        "uc-citrus-cold"
+      ],
+      "edibleParts": [
+        "ncsu-citrus-x-paradisi"
+      ],
+      "calendar": [
+        "ncsu-citrus-x-paradisi"
+      ],
+      "leafHabit": [
+        "ncsu-citrus-x-paradisi"
+      ],
+      "water": [
+        "ncsu-citrus-x-paradisi"
+      ]
+    }
+  },
+  {
+    "id": "key-lime",
+    "commonNames": [
+      "Key lime",
+      "Mexican lime"
+    ],
+    "commonNamesHu": [
+      "Lime",
+      "Savanyú citrom",
+      "Zöldcitrom"
+    ],
+    "latinName": "Citrus x aurantiifolia",
+    "family": null,
+    "layer": "shrub",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 2.9,
+        "matureWidthM": 3.0,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -1.1,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-spring",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Citrus+aurantiifolia",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-citrus-x-aurantiifolia",
+        "title": "Citrus x aurantiifolia (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/citrus-x-aurantiifolia/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "uc-placer-citrus",
+        "title": "Growing Citrus in the Sierra Nevada Foothills, publication 31-018C (UC Cooperative Extension, Placer & Nevada Counties)",
+        "url": "https://ucanr.edu/sites/default/files/2020-10/63813.pdf",
+        "licence": "Facts cited; © Regents of the University of California"
+      },
+      {
+        "id": "huwiki-lime",
+        "title": "Lime (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Lime",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-citrus-x-aurantiifolia"
+      ],
+      "commonNamesHu": [
+        "huwiki-lime"
+      ],
+      "latinName": [
+        "ncsu-citrus-x-aurantiifolia"
+      ],
+      "layer": [
+        "ncsu-citrus-x-aurantiifolia"
+      ],
+      "sunNeed": [
+        "ncsu-citrus-x-aurantiifolia"
+      ],
+      "variants.standard": [
+        "ncsu-citrus-x-aurantiifolia"
+      ],
+      "minWinterC": [
+        "uc-placer-citrus"
+      ],
+      "edibleParts": [
+        "ncsu-citrus-x-aurantiifolia"
+      ],
+      "calendar": [
+        "ncsu-citrus-x-aurantiifolia"
+      ],
+      "leafHabit": [
+        "ncsu-citrus-x-aurantiifolia"
+      ],
+      "origin": [
+        "ncsu-citrus-x-aurantiifolia"
+      ],
+      "water": [
+        "ncsu-citrus-x-aurantiifolia"
+      ]
+    },
+    "origin": [
+      "asia"
+    ]
+  },
+  {
+    "id": "persian-lime",
+    "commonNames": [
+      "Persian lime",
+      "Tahiti lime",
+      "Lime"
+    ],
+    "commonNamesHu": [
+      "Perzsa lime"
+    ],
+    "latinName": "Citrus x latifolia",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 4.3,
+        "matureWidthM": 4.3,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -1.1,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-spring",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Citrus+latifolia",
+    "water": {
+      "level": "high"
+    },
+    "sources": [
+      {
+        "id": "ncsu-citrus-x-latifolia",
+        "title": "Citrus x latifolia (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/citrus-x-latifolia/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "uc-placer-citrus",
+        "title": "Growing Citrus in the Sierra Nevada Foothills, publication 31-018C (UC Cooperative Extension, Placer & Nevada Counties)",
+        "url": "https://ucanr.edu/sites/default/files/2020-10/63813.pdf",
+        "licence": "Facts cited; © Regents of the University of California"
+      },
+      {
+        "id": "gardener-hu-2026-10-27",
+        "title": "Hungarian name chosen by the Plot Twist gardener (no published source)",
+        "url": "https://github.com/mrgarris0n/plot-twist/blob/main/data/plants/SOURCES.md#gardener-hungarian-names-2026-10-27",
+        "licence": "Project decision; no third-party text"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-citrus-x-latifolia"
+      ],
+      "latinName": [
+        "ncsu-citrus-x-latifolia"
+      ],
+      "layer": [
+        "ncsu-citrus-x-latifolia"
+      ],
+      "sunNeed": [
+        "ncsu-citrus-x-latifolia"
+      ],
+      "variants.standard": [
+        "ncsu-citrus-x-latifolia"
+      ],
+      "minWinterC": [
+        "uc-placer-citrus"
+      ],
+      "edibleParts": [
+        "ncsu-citrus-x-latifolia"
+      ],
+      "calendar": [
+        "ncsu-citrus-x-latifolia"
+      ],
+      "leafHabit": [
+        "ncsu-citrus-x-latifolia"
+      ],
+      "water": [
+        "ncsu-citrus-x-latifolia"
+      ],
+      "commonNamesHu": [
+        "gardener-hu-2026-10-27"
+      ]
+    }
+  },
+  {
+    "id": "calamondin",
+    "commonNames": [
+      "Calamondin",
+      "Calamansi"
+    ],
+    "commonNamesHu": [
+      "Kalamondin"
+    ],
+    "latinName": "Citrus x microcarpa",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 4.6,
+        "matureWidthM": 2.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -5.6,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Citrus+madurensis",
+    "water": {
+      "level": "medium"
+    },
+    "sources": [
+      {
+        "id": "ncsu-citrus-x-microcarpa",
+        "title": "Citrus x microcarpa (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/citrus-x-microcarpa/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "ufgs-cold-hardy-citrus",
+        "title": "Cold-Hardy Citrus (UF/IFAS Gardening Solutions)",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/edibles/fruits/cold-hardy-citrus/",
+        "licence": "Facts cited; © University of Florida / IFAS"
+      },
+      {
+        "id": "huwiki-kalamondin",
+        "title": "Kalamondin (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Kalamondin",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-citrus-x-microcarpa"
+      ],
+      "commonNamesHu": [
+        "huwiki-kalamondin"
+      ],
+      "latinName": [
+        "ncsu-citrus-x-microcarpa"
+      ],
+      "layer": [
+        "ncsu-citrus-x-microcarpa"
+      ],
+      "sunNeed": [
+        "ncsu-citrus-x-microcarpa"
+      ],
+      "variants.standard": [
+        "ncsu-citrus-x-microcarpa"
+      ],
+      "minWinterC": [
+        "ufgs-cold-hardy-citrus"
+      ],
+      "edibleParts": [
+        "ncsu-citrus-x-microcarpa"
+      ],
+      "calendar": [
+        "ncsu-citrus-x-microcarpa"
+      ],
+      "leafHabit": [
+        "ncsu-citrus-x-microcarpa"
+      ],
+      "roles": [
+        "ncsu-citrus-x-microcarpa"
+      ],
+      "origin": [
+        "ncsu-citrus-x-microcarpa"
+      ],
+      "water": [
+        "ncsu-citrus-x-microcarpa"
+      ]
+    },
+    "origin": [
+      "asia"
+    ]
+  },
+  {
+    "id": "avocado",
+    "commonNames": [
+      "Avocado"
+    ],
+    "commonNamesHu": [
+      "Avokádó"
+    ],
+    "latinName": "Persea americana",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 13.7,
+        "matureWidthM": 7.6,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -1.1,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-spring",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Persea+americana",
+    "sources": [
+      {
+        "id": "ncsu-persea-americana",
+        "title": "Persea americana (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/persea-americana/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "ufedis-mg213",
+        "title": "CIR1034/MG213: Avocado Growing in the Florida Home Landscape (UF/IFAS EDIS)",
+        "url": "https://edis.ifas.ufl.edu/mg213",
+        "licence": "Facts cited; © University of Florida / IFAS"
+      },
+      {
+        "id": "rhs-gg-avocado",
+        "title": "How to grow avocados (RHS growing guide)",
+        "url": "https://www.rhs.org.uk/plants/avocado/growing-guide",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-avokado",
+        "title": "Avokádó (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Avokádó",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-persea-americana"
+      ],
+      "commonNamesHu": [
+        "huwiki-avokado"
+      ],
+      "latinName": [
+        "ncsu-persea-americana"
+      ],
+      "layer": [
+        "ncsu-persea-americana"
+      ],
+      "sunNeed": [
+        "ncsu-persea-americana"
+      ],
+      "variants.standard": [
+        "ncsu-persea-americana"
+      ],
+      "minWinterC": [
+        "ufedis-mg213"
+      ],
+      "edibleParts": [
+        "ncsu-persea-americana"
+      ],
+      "calendar": [
+        "ncsu-persea-americana"
+      ],
+      "leafHabit": [
+        "ncsu-persea-americana"
+      ],
+      "origin": [
+        "ncsu-persea-americana"
+      ],
+      "grownIn": [
+        "rhs-gg-avocado"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "mango",
+    "commonNames": [
+      "Mango"
+    ],
+    "commonNamesHu": [
+      "Mangó"
+    ],
+    "latinName": "Mangifera indica",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 13.7,
+        "matureWidthM": 12.2,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -1.1,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "late-spring",
+        "to": "early-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Mangifera+indica",
+    "water": {
+      "minRainMm": 1524
+    },
+    "sources": [
+      {
+        "id": "ufgs-mango",
+        "title": "Mango (UF/IFAS Gardening Solutions)",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/edibles/fruits/mango/",
+        "licence": "Facts cited; © University of Florida / IFAS"
+      },
+      {
+        "id": "usda-plants-main3",
+        "title": "Mangifera indica (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/MAIN3",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-mango",
+        "title": "Mangó (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Mangó",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ufgs-mango"
+      ],
+      "commonNamesHu": [
+        "huwiki-mango"
+      ],
+      "latinName": [
+        "ufgs-mango"
+      ],
+      "layer": [
+        "ufgs-mango"
+      ],
+      "sunNeed": [
+        "ufgs-mango"
+      ],
+      "variants.standard": [
+        "ufgs-mango"
+      ],
+      "minWinterC": [
+        "ufgs-mango"
+      ],
+      "edibleParts": [
+        "ufgs-mango"
+      ],
+      "calendar": [
+        "ufgs-mango"
+      ],
+      "leafHabit": [
+        "ufgs-mango"
+      ],
+      "origin": [
+        "ufgs-mango"
+      ],
+      "water": [
+        "usda-plants-main3"
+      ]
+    },
+    "origin": [
+      "asia"
+    ]
+  },
+  {
+    "id": "lychee",
+    "commonNames": [
+      "Lychee",
+      "Litchi"
+    ],
+    "commonNamesHu": [
+      "Licsi"
+    ],
+    "latinName": "Litchi chinensis",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 12.2,
+        "matureWidthM": 12.2,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -1.1,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "late-spring",
+        "to": "mid-summer"
+      }
+    ],
+    "firstHarvestYears": 3,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Litchi+chinensis",
+    "sources": [
+      {
+        "id": "ufgs-lychee",
+        "title": "Lychee (UF/IFAS Gardening Solutions)",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/edibles/fruits/lychee/",
+        "licence": "Facts cited; © University of Florida / IFAS"
+      },
+      {
+        "id": "huwiki-licsi",
+        "title": "Licsi (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Licsi",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ufgs-lychee"
+      ],
+      "commonNamesHu": [
+        "huwiki-licsi"
+      ],
+      "latinName": [
+        "ufgs-lychee"
+      ],
+      "layer": [
+        "ufgs-lychee"
+      ],
+      "sunNeed": [
+        "ufgs-lychee"
+      ],
+      "variants.standard": [
+        "ufgs-lychee"
+      ],
+      "minWinterC": [
+        "ufgs-lychee"
+      ],
+      "edibleParts": [
+        "ufgs-lychee"
+      ],
+      "calendar": [
+        "ufgs-lychee"
+      ],
+      "leafHabit": [
+        "ufgs-lychee"
+      ],
+      "firstHarvestYears": [
+        "ufgs-lychee"
+      ],
+      "origin": [
+        "ufgs-lychee"
+      ]
+    },
+    "origin": [
+      "asia"
+    ]
+  },
+  {
+    "id": "sweet-potato",
+    "commonNames": [
+      "Sweet potato"
+    ],
+    "commonNamesHu": [
+      "Édesburgonya",
+      "Batáta"
+    ],
+    "latinName": "Ipomoea batatas",
+    "family": null,
+    "layer": "root",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 2.4,
+        "matureWidthM": 2.7,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -6.6,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "tuberous roots",
+      "leaves",
+      "stems"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Ipomoea+batatas",
+    "annual": true,
+    "sources": [
+      {
+        "id": "ncsu-ipomoea-batatas",
+        "title": "Ipomoea batatas (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/ipomoea-batatas/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "ufgs-sweet-potato",
+        "title": "Sweet Potatoes (UF/IFAS Gardening Solutions)",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/edibles/vegetables/sweet-potatoes/",
+        "licence": "Facts cited; © University of Florida / IFAS"
+      },
+      {
+        "id": "rhs-vegetables-sweet-potatoes-guide",
+        "title": "How to grow Sweet Potatoes (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/sweet-potatoes/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-edesburgonya",
+        "title": "Édesburgonya (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Édesburgonya",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-ipomoea-batatas"
+      ],
+      "commonNamesHu": [
+        "huwiki-edesburgonya"
+      ],
+      "latinName": [
+        "ncsu-ipomoea-batatas"
+      ],
+      "layer": [
+        "ncsu-ipomoea-batatas"
+      ],
+      "sunNeed": [
+        "ncsu-ipomoea-batatas"
+      ],
+      "variants.standard": [
+        "ncsu-ipomoea-batatas"
+      ],
+      "minWinterC": [
+        "ncsu-ipomoea-batatas"
+      ],
+      "edibleParts": [
+        "ncsu-ipomoea-batatas"
+      ],
+      "calendar": [
+        "ncsu-ipomoea-batatas",
+        "ufgs-sweet-potato"
+      ],
+      "roles": [
+        "ncsu-ipomoea-batatas"
+      ],
+      "grownIn": [
+        "rhs-vegetables-sweet-potatoes-guide"
+      ],
+      "annual": [
+        "ncsu-ipomoea-batatas"
+      ]
+    },
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "lemon-verbena",
+    "commonNames": [
+      "Lemon verbena",
+      "Lemon beebrush"
+    ],
+    "commonNamesHu": [
+      "Citromverbéna"
+    ],
+    "latinName": "Aloysia citriodora",
+    "family": null,
+    "layer": "shrub",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 2.1,
+        "matureWidthM": 2.1,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -12.2,
+    "roles": null,
+    "edibleParts": [
+      "leaves",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "early-spring",
+        "to": "early-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Aloysia+triphylla",
+    "water": {
+      "level": "medium"
+    },
+    "sources": [
+      {
+        "id": "ncsu-aloysia-citriodora",
+        "title": "Aloysia citriodora (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/aloysia-citriodora/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "huwiki-citromverbena",
+        "title": "Citromverbéna (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Citromverbéna",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-aloysia-citriodora"
+      ],
+      "commonNamesHu": [
+        "huwiki-citromverbena"
+      ],
+      "latinName": [
+        "ncsu-aloysia-citriodora"
+      ],
+      "layer": [
+        "ncsu-aloysia-citriodora"
+      ],
+      "sunNeed": [
+        "ncsu-aloysia-citriodora"
+      ],
+      "variants.standard": [
+        "ncsu-aloysia-citriodora"
+      ],
+      "minWinterC": [
+        "ncsu-aloysia-citriodora"
+      ],
+      "edibleParts": [
+        "ncsu-aloysia-citriodora"
+      ],
+      "calendar": [
+        "ncsu-aloysia-citriodora"
+      ],
+      "origin": [
+        "ncsu-aloysia-citriodora"
+      ],
+      "water": [
+        "ncsu-aloysia-citriodora"
+      ]
+    },
+    "origin": [
+      "south-america"
+    ]
+  },
+  {
+    "id": "ginger",
+    "commonNames": [
+      "Ginger"
+    ],
+    "commonNamesHu": [
+      "Gyömbér",
+      "Közönséges gyömbér"
+    ],
+    "latinName": "Zingiber officinale",
+    "family": null,
+    "layer": "root",
+    "sunNeed": "part",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 0.9,
+        "matureWidthM": 0.8,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -6.6,
+    "roles": null,
+    "edibleParts": [
+      "rhizomes",
+      "young shoots"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Zingiber+officinale",
+    "water": {
+      "level": "high"
+    },
+    "sources": [
+      {
+        "id": "ncsu-zingiber-officinale",
+        "title": "Zingiber officinale (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/zingiber-officinale/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "ufgs-ginger",
+        "title": "Ginger (UF/IFAS Gardening Solutions)",
+        "url": "https://gardeningsolutions.ifas.ufl.edu/plants/edibles/vegetables/ginger/",
+        "licence": "Facts cited; © University of Florida / IFAS"
+      },
+      {
+        "id": "huwiki-kozonseges-gyomber",
+        "title": "Közönséges gyömbér (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Közönséges_gyömbér",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-zingiber-officinale"
+      ],
+      "commonNamesHu": [
+        "huwiki-kozonseges-gyomber"
+      ],
+      "latinName": [
+        "ncsu-zingiber-officinale"
+      ],
+      "layer": [
+        "ncsu-zingiber-officinale"
+      ],
+      "sunNeed": [
+        "ufgs-ginger"
+      ],
+      "variants.standard": [
+        "ncsu-zingiber-officinale"
+      ],
+      "minWinterC": [
+        "ncsu-zingiber-officinale"
+      ],
+      "edibleParts": [
+        "ncsu-zingiber-officinale"
+      ],
+      "calendar": [
+        "ufgs-ginger"
+      ],
+      "origin": [
+        "ncsu-zingiber-officinale"
+      ],
+      "water": [
+        "ncsu-zingiber-officinale"
+      ]
+    },
+    "origin": [
+      "asia"
+    ]
+  },
+  {
+    "id": "common-myrtle",
+    "commonNames": [
+      "Common myrtle",
+      "Myrtle"
+    ],
+    "commonNamesHu": [
+      "Közönséges mirtusz"
+    ],
+    "latinName": "Myrtus communis",
+    "family": null,
+    "layer": "shrub",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 3.0,
+        "matureWidthM": 3.0,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -12.2,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Myrtus+communis",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-myrtus-communis",
+        "title": "Myrtus communis (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/myrtus-communis/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "huwiki-kozonseges-mirtusz",
+        "title": "Közönséges mirtusz (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Közönséges_mirtusz",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-myrtus-communis"
+      ],
+      "commonNamesHu": [
+        "huwiki-kozonseges-mirtusz"
+      ],
+      "latinName": [
+        "ncsu-myrtus-communis"
+      ],
+      "layer": [
+        "ncsu-myrtus-communis"
+      ],
+      "sunNeed": [
+        "ncsu-myrtus-communis"
+      ],
+      "variants.standard": [
+        "ncsu-myrtus-communis"
+      ],
+      "minWinterC": [
+        "ncsu-myrtus-communis"
+      ],
+      "edibleParts": [
+        "ncsu-myrtus-communis"
+      ],
+      "calendar": [
+        "ncsu-myrtus-communis"
+      ],
+      "leafHabit": [
+        "ncsu-myrtus-communis"
+      ],
+      "origin": [
+        "ncsu-myrtus-communis"
+      ],
+      "water": [
+        "ncsu-myrtus-communis"
+      ]
+    },
+    "origin": [
+      "africa",
+      "asia",
+      "europe"
+    ]
+  },
+  {
+    "id": "strawberry-tree",
+    "commonNames": [
+      "Strawberry tree",
+      "Killarney strawberry tree"
+    ],
+    "commonNamesHu": [
+      "Nyugati szamócafa"
+    ],
+    "latinName": "Arbutus unedo",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 6.9,
+        "matureWidthM": 4.3,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -17.7,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Arbutus+unedo",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-arbutus-unedo",
+        "title": "Arbutus unedo (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/arbutus-unedo/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "huwiki-nyugati-szamocafa",
+        "title": "Nyugati szamócafa (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Nyugati_szamócafa",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-arbutus-unedo"
+      ],
+      "commonNamesHu": [
+        "huwiki-nyugati-szamocafa"
+      ],
+      "latinName": [
+        "ncsu-arbutus-unedo"
+      ],
+      "layer": [
+        "ncsu-arbutus-unedo"
+      ],
+      "sunNeed": [
+        "ncsu-arbutus-unedo"
+      ],
+      "variants.standard": [
+        "ncsu-arbutus-unedo"
+      ],
+      "minWinterC": [
+        "ncsu-arbutus-unedo"
+      ],
+      "edibleParts": [
+        "ncsu-arbutus-unedo"
+      ],
+      "calendar": [
+        "ncsu-arbutus-unedo"
+      ],
+      "leafHabit": [
+        "ncsu-arbutus-unedo"
+      ],
+      "roles": [
+        "ncsu-arbutus-unedo"
+      ],
+      "origin": [
+        "ncsu-arbutus-unedo"
+      ],
+      "water": [
+        "ncsu-arbutus-unedo"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia",
+      "africa"
+    ]
+  },
+  {
+    "id": "malabar-spinach",
+    "commonNames": [
+      "Malabar spinach",
+      "Ceylon spinach"
+    ],
+    "latinName": "Basella alba",
+    "family": null,
+    "layer": "climber",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 1.4,
+        "matureWidthM": 0.8,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -6.6,
+    "roles": null,
+    "edibleParts": [
+      "leaves"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 2.5
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Basella+alba",
+    "annual": true,
+    "water": {
+      "level": "high"
+    },
+    "sources": [
+      {
+        "id": "ncsu-basella-alba",
+        "title": "Basella alba (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/basella-alba/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "agrovoc-c_834",
+        "title": "Basella alba (AGROVOC, FAO)",
+        "url": "https://agrovoc.fao.org/browse/agrovoc/en/page/c_834",
+        "licence": "Facts cited; name only, no text copied; AGROVOC © FAO and contributing institutions"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-basella-alba"
+      ],
+      "latinName": [
+        "ncsu-basella-alba"
+      ],
+      "layer": [
+        "ncsu-basella-alba"
+      ],
+      "sunNeed": [
+        "ncsu-basella-alba"
+      ],
+      "variants.standard": [
+        "ncsu-basella-alba"
+      ],
+      "minWinterC": [
+        "ncsu-basella-alba"
+      ],
+      "edibleParts": [
+        "ncsu-basella-alba"
+      ],
+      "calendar": [
+        "ncsu-basella-alba"
+      ],
+      "origin": [
+        "ncsu-basella-alba"
+      ],
+      "annual": [
+        "ncsu-basella-alba"
+      ],
+      "water": [
+        "ncsu-basella-alba"
+      ],
+      "commonNamesHu": [
+        "agrovoc-c_834"
+      ]
+    },
+    "origin": [
+      "asia",
+      "africa"
+    ],
+    "commonNamesHu": [
+      "Malabári spenót",
+      "Fehér bazella"
+    ]
+  }
+]

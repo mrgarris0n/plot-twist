@@ -1,0 +1,1857 @@
+[
+  {
+    "id": "common-sorrel",
+    "commonNames": [
+      "Common sorrel",
+      "Garden sorrel"
+    ],
+    "commonNamesHu": [
+      "Sóska",
+      "Mezei sóska",
+      "Réti sóska",
+      "Kerti sóska"
+    ],
+    "latinName": "Rumex acetosa",
+    "family": "Polygonaceae",
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.75,
+        "matureWidthM": 0.3,
+        "yearsToMaturity": 3.5,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": null,
+    "edibleParts": [
+      "leaves"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "early-summer"
+      },
+      {
+        "task": "harvest",
+        "from": "early-spring",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Rumex+acetosa",
+    "sources": [
+      {
+        "id": "rhs-common-sorrel",
+        "title": "Rumex acetosa (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/41751/rumex-acetosa/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-sorrel-guide",
+        "title": "How to grow sorrel (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/sorrel/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "mbg-rumex-acetosa",
+        "title": "Rumex acetosa (Missouri Botanical Garden Plant Finder)",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285455",
+        "licence": "Facts cited; © Missouri Botanical Garden"
+      },
+      {
+        "id": "huwiki-mezei-soska",
+        "title": "Mezei sóska (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Mezei_sóska",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-common-sorrel"
+      ],
+      "commonNamesHu": [
+        "huwiki-mezei-soska"
+      ],
+      "latinName": [
+        "rhs-common-sorrel"
+      ],
+      "layer": [
+        "rhs-common-sorrel"
+      ],
+      "sunNeed": [
+        "rhs-sorrel-guide"
+      ],
+      "leafHabit": [
+        "rhs-common-sorrel"
+      ],
+      "textures": [
+        "rhs-common-sorrel"
+      ],
+      "drainage": [
+        "rhs-common-sorrel"
+      ],
+      "variants.standard": [
+        "rhs-common-sorrel"
+      ],
+      "minWinterC": [
+        "mbg-rumex-acetosa"
+      ],
+      "calendar": [
+        "rhs-sorrel-guide"
+      ],
+      "family": [
+        "rhs-common-sorrel"
+      ],
+      "origin": [
+        "rhs-common-sorrel"
+      ],
+      "edibleParts": [
+        "rhs-common-sorrel"
+      ],
+      "grownIn": [
+        "rhs-sorrel-guide"
+      ]
+    },
+    "origin": [
+      "europe"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "sea-kale",
+    "commonNames": [
+      "Sea kale",
+      "Seakale"
+    ],
+    "commonNamesHu": [
+      "Tengerparti tátorján",
+      "Heringkél"
+    ],
+    "latinName": "Crambe maritima",
+    "family": "Brassicaceae",
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.75,
+        "matureWidthM": 0.3,
+        "yearsToMaturity": 3.5,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": null,
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Crambe+maritima",
+    "sources": [
+      {
+        "id": "rhs-sea-kale",
+        "title": "Crambe maritima (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/4710/crambe-maritima/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "mbg-crambe-maritima",
+        "title": "Crambe maritima (Missouri Botanical Garden Plant Finder)",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=278036",
+        "licence": "Facts cited; © Missouri Botanical Garden"
+      },
+      {
+        "id": "huwiki-tengerparti-tatorjan",
+        "title": "Tengerparti tátorján (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Tengerparti_tátorján",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-sea-kale"
+      ],
+      "commonNamesHu": [
+        "huwiki-tengerparti-tatorjan"
+      ],
+      "latinName": [
+        "rhs-sea-kale"
+      ],
+      "layer": [
+        "rhs-sea-kale"
+      ],
+      "sunNeed": [
+        "rhs-sea-kale"
+      ],
+      "leafHabit": [
+        "rhs-sea-kale"
+      ],
+      "textures": [
+        "rhs-sea-kale"
+      ],
+      "drainage": [
+        "rhs-sea-kale"
+      ],
+      "variants.standard": [
+        "rhs-sea-kale"
+      ],
+      "minWinterC": [
+        "mbg-crambe-maritima"
+      ],
+      "calendar": [
+        "rhs-sea-kale"
+      ],
+      "family": [
+        "rhs-sea-kale"
+      ],
+      "origin": [
+        "rhs-sea-kale"
+      ]
+    },
+    "origin": [
+      "europe"
+    ]
+  },
+  {
+    "id": "wild-garlic",
+    "commonNames": [
+      "Wild garlic",
+      "Ramsons",
+      "Bear's garlic"
+    ],
+    "commonNamesHu": [
+      "Medvehagyma"
+    ],
+    "latinName": "Allium ursinum",
+    "family": "Amaryllidaceae",
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.3,
+        "matureWidthM": 0.75,
+        "yearsToMaturity": 3.5,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": [
+      "leaves"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-spring",
+        "to": "late-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Allium+ursinum",
+    "sources": [
+      {
+        "id": "rhs-wild-garlic",
+        "title": "Allium ursinum (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/879/allium-ursinum/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-wild-garlic-advice",
+        "title": "Wild garlic and crow garlic (RHS advice)",
+        "url": "https://www.rhs.org.uk/weeds/wild-garlic-and-crow-garlic",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "mbg-allium-ursinum",
+        "title": "Allium ursinum (Missouri Botanical Garden Plant Finder)",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281739",
+        "licence": "Facts cited; © Missouri Botanical Garden"
+      },
+      {
+        "id": "huwiki-medvehagyma",
+        "title": "Medvehagyma (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Medvehagyma",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-wild-garlic"
+      ],
+      "commonNamesHu": [
+        "huwiki-medvehagyma"
+      ],
+      "latinName": [
+        "rhs-wild-garlic"
+      ],
+      "layer": [
+        "rhs-wild-garlic"
+      ],
+      "sunNeed": [
+        "rhs-wild-garlic"
+      ],
+      "leafHabit": [
+        "rhs-wild-garlic"
+      ],
+      "textures": [
+        "rhs-wild-garlic"
+      ],
+      "drainage": [
+        "rhs-wild-garlic"
+      ],
+      "variants.standard": [
+        "rhs-wild-garlic"
+      ],
+      "minWinterC": [
+        "mbg-allium-ursinum"
+      ],
+      "calendar": [
+        "rhs-wild-garlic-advice"
+      ],
+      "family": [
+        "rhs-wild-garlic"
+      ],
+      "origin": [
+        "rhs-wild-garlic"
+      ],
+      "edibleParts": [
+        "rhs-wild-garlic"
+      ]
+    },
+    "origin": [
+      "europe"
+    ]
+  },
+  {
+    "id": "lovage",
+    "commonNames": [
+      "Lovage"
+    ],
+    "commonNamesHu": [
+      "Lestyán",
+      "Orvosi lestyán"
+    ],
+    "latinName": "Levisticum officinale",
+    "family": "Apiaceae",
+    "layer": "herbaceous",
+    "sunNeed": "part",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 2.0,
+        "matureWidthM": 0.75,
+        "yearsToMaturity": 3.5,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "leaves"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "late-spring",
+        "to": "early-summer"
+      },
+      {
+        "task": "harvest",
+        "from": "early-spring",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Levisticum+officinale",
+    "sources": [
+      {
+        "id": "rhs-lovage",
+        "title": "Levisticum officinale (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/10030/levisticum-officinale/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-lovage-guide",
+        "title": "How to grow lovage (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/lovage/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "ncsu-levisticum-officinale",
+        "title": "Levisticum officinale (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/levisticum-officinale/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "huwiki-orvosi-lestyan",
+        "title": "Orvosi lestyán (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Orvosi_lestyán",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-lovage"
+      ],
+      "commonNamesHu": [
+        "huwiki-orvosi-lestyan",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "rhs-lovage"
+      ],
+      "layer": [
+        "rhs-lovage"
+      ],
+      "sunNeed": [
+        "rhs-lovage-guide"
+      ],
+      "leafHabit": [
+        "rhs-lovage"
+      ],
+      "textures": [
+        "rhs-lovage"
+      ],
+      "drainage": [
+        "rhs-lovage"
+      ],
+      "variants.standard": [
+        "rhs-lovage"
+      ],
+      "minWinterC": [
+        "ncsu-levisticum-officinale"
+      ],
+      "calendar": [
+        "rhs-lovage-guide"
+      ],
+      "family": [
+        "rhs-lovage"
+      ],
+      "edibleParts": [
+        "rhs-lovage-guide"
+      ],
+      "grownIn": [
+        "rhs-lovage-guide"
+      ]
+    },
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "rosemary",
+    "commonNames": [
+      "Rosemary"
+    ],
+    "commonNamesHu": [
+      "Rozmaring"
+    ],
+    "latinName": "Salvia rosmarinus",
+    "family": "Lamiaceae",
+    "layer": "shrub",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 2.0,
+        "matureWidthM": 2.0,
+        "yearsToMaturity": 7.5,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -8.0,
+    "roles": null,
+    "edibleParts": [
+      "leaves"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "late-spring"
+      },
+      {
+        "task": "harvest",
+        "from": "early-spring",
+        "to": "late-winter"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Salvia+rosmarinus",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "rhs-rosemary",
+        "title": "Salvia rosmarinus (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/384211/salvia-rosmarinus-ro/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-rosemary-guide",
+        "title": "How to grow rosemary (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/rosemary/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-rozmaring",
+        "title": "Rozmaring (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Rozmaring",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-rosemary"
+      ],
+      "commonNamesHu": [
+        "huwiki-rozmaring"
+      ],
+      "latinName": [
+        "rhs-rosemary"
+      ],
+      "layer": [
+        "rhs-rosemary"
+      ],
+      "sunNeed": [
+        "rhs-rosemary"
+      ],
+      "leafHabit": [
+        "rhs-rosemary"
+      ],
+      "textures": [
+        "rhs-rosemary"
+      ],
+      "drainage": [
+        "rhs-rosemary"
+      ],
+      "variants.standard": [
+        "rhs-rosemary"
+      ],
+      "minWinterC": [
+        "rhs-rosemary-guide"
+      ],
+      "calendar": [
+        "rhs-rosemary-guide"
+      ],
+      "family": [
+        "rhs-rosemary"
+      ],
+      "edibleParts": [
+        "rhs-rosemary-guide"
+      ],
+      "grownIn": [
+        "rhs-rosemary-guide"
+      ],
+      "water": [
+        "rhs-rosemary-guide"
+      ]
+    },
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "roman-chamomile",
+    "commonNames": [
+      "Roman chamomile",
+      "Chamomile"
+    ],
+    "commonNamesHu": [
+      "Római kamilla",
+      "Nemes pipitér"
+    ],
+    "latinName": "Chamaemelum nobile",
+    "family": "Asteraceae",
+    "layer": "ground-cover",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.3,
+        "matureWidthM": 0.3,
+        "yearsToMaturity": 3.5,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "late-spring",
+        "to": "early-summer"
+      },
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Chamaemelum+nobile",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "rhs-roman-chamomile",
+        "title": "Chamaemelum nobile (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/29189/chamaemelum-nobile/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-chamomile-guide",
+        "title": "How to grow chamomile (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/chamomile/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "ncsu-chamaemelum-nobile",
+        "title": "Chamaemelum nobile (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/chamaemelum-nobile/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "huwiki-romai-kamilla",
+        "title": "Római kamilla (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Római_kamilla",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-roman-chamomile"
+      ],
+      "commonNamesHu": [
+        "huwiki-romai-kamilla"
+      ],
+      "latinName": [
+        "rhs-roman-chamomile"
+      ],
+      "layer": [
+        "rhs-roman-chamomile"
+      ],
+      "sunNeed": [
+        "rhs-roman-chamomile"
+      ],
+      "leafHabit": [
+        "rhs-roman-chamomile"
+      ],
+      "textures": [
+        "rhs-roman-chamomile"
+      ],
+      "drainage": [
+        "rhs-roman-chamomile"
+      ],
+      "variants.standard": [
+        "rhs-roman-chamomile"
+      ],
+      "minWinterC": [
+        "ncsu-chamaemelum-nobile"
+      ],
+      "calendar": [
+        "rhs-chamomile-guide"
+      ],
+      "family": [
+        "rhs-roman-chamomile"
+      ],
+      "origin": [
+        "rhs-roman-chamomile"
+      ],
+      "edibleParts": [
+        "rhs-chamomile-guide"
+      ],
+      "grownIn": [
+        "rhs-chamomile-guide"
+      ],
+      "water": [
+        "ncsu-chamaemelum-nobile"
+      ]
+    },
+    "origin": [
+      "europe",
+      "africa"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "daubentons-kale",
+    "commonNames": [
+      "Daubenton's kale",
+      "Perpetual kale"
+    ],
+    "commonNamesHu": [
+      "Zöld évelő káposzta"
+    ],
+    "latinName": "Brassica oleracea 'Daubenton's'",
+    "family": "Brassicaceae",
+    "layer": "shrub",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 1.25,
+        "matureWidthM": 0.75,
+        "yearsToMaturity": 3.5,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -20.0,
+    "roles": null,
+    "edibleParts": null,
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-spring",
+        "to": "late-winter"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Brassica+oleracea",
+    "water": {
+      "level": "medium"
+    },
+    "sources": [
+      {
+        "id": "rhs-daubentons-kale",
+        "title": "Brassica oleracea 'Daubenton's' (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/351825/brassica-oleracea-daubentons/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "gardener-hu-2026-10-27",
+        "title": "Hungarian name chosen by the Plot Twist gardener (no published source)",
+        "url": "https://github.com/mrgarris0n/plot-twist/blob/main/data/plants/SOURCES.md#gardener-hungarian-names-2026-10-27",
+        "licence": "Project decision; no third-party text"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-daubentons-kale"
+      ],
+      "latinName": [
+        "rhs-daubentons-kale"
+      ],
+      "layer": [
+        "rhs-daubentons-kale"
+      ],
+      "sunNeed": [
+        "rhs-daubentons-kale"
+      ],
+      "leafHabit": [
+        "rhs-daubentons-kale"
+      ],
+      "textures": [
+        "rhs-daubentons-kale"
+      ],
+      "drainage": [
+        "rhs-daubentons-kale"
+      ],
+      "variants.standard": [
+        "rhs-daubentons-kale"
+      ],
+      "minWinterC": [
+        "rhs-daubentons-kale"
+      ],
+      "calendar": [
+        "rhs-daubentons-kale"
+      ],
+      "family": [
+        "rhs-daubentons-kale"
+      ],
+      "water": [
+        "rhs-daubentons-kale"
+      ],
+      "commonNamesHu": [
+        "gardener-hu-2026-10-27"
+      ]
+    }
+  },
+  {
+    "id": "sweet-cicely",
+    "commonNames": [
+      "Sweet cicely"
+    ],
+    "commonNamesHu": [
+      "Illatos mirhafű"
+    ],
+    "latinName": "Myrrhis odorata",
+    "family": "Apiaceae",
+    "layer": "herbaceous",
+    "sunNeed": "part",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 1.25,
+        "matureWidthM": 0.75,
+        "yearsToMaturity": 3.5,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "loamy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": null,
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "late-spring"
+      },
+      {
+        "task": "plant",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Myrrhis+odorata",
+    "water": {
+      "level": "medium"
+    },
+    "sources": [
+      {
+        "id": "rhs-sweet-cicely",
+        "title": "Myrrhis odorata (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/11303/myrrhis-odorata/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "mbg-myrrhis-odorata",
+        "title": "Myrrhis odorata (Missouri Botanical Garden Plant Finder)",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=276029",
+        "licence": "Facts cited; © Missouri Botanical Garden"
+      },
+      {
+        "id": "gardener-hu-2026-10-27",
+        "title": "Hungarian name chosen by the Plot Twist gardener (no published source)",
+        "url": "https://github.com/mrgarris0n/plot-twist/blob/main/data/plants/SOURCES.md#gardener-hungarian-names-2026-10-27",
+        "licence": "Project decision; no third-party text"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-sweet-cicely"
+      ],
+      "latinName": [
+        "rhs-sweet-cicely"
+      ],
+      "layer": [
+        "rhs-sweet-cicely"
+      ],
+      "sunNeed": [
+        "rhs-sweet-cicely"
+      ],
+      "leafHabit": [
+        "rhs-sweet-cicely"
+      ],
+      "textures": [
+        "rhs-sweet-cicely"
+      ],
+      "drainage": [
+        "rhs-sweet-cicely"
+      ],
+      "variants.standard": [
+        "rhs-sweet-cicely"
+      ],
+      "minWinterC": [
+        "mbg-myrrhis-odorata"
+      ],
+      "calendar": [
+        "rhs-sweet-cicely"
+      ],
+      "family": [
+        "rhs-sweet-cicely"
+      ],
+      "origin": [
+        "rhs-sweet-cicely"
+      ],
+      "water": [
+        "rhs-sweet-cicely"
+      ],
+      "commonNamesHu": [
+        "gardener-hu-2026-10-27"
+      ]
+    },
+    "origin": [
+      "europe"
+    ]
+  },
+  {
+    "id": "lingonberry",
+    "commonNames": [
+      "Lingonberry",
+      "Cowberry"
+    ],
+    "commonNamesHu": [
+      "Vörös áfonya"
+    ],
+    "latinName": "Vaccinium vitis-idaea",
+    "family": "Ericaceae",
+    "layer": "ground-cover",
+    "sunNeed": "full",
+    "leafHabit": "evergreen",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.3,
+        "matureWidthM": 1.25,
+        "yearsToMaturity": 15,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "mid-summer",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Vaccinium+vitis-idaea",
+    "water": {
+      "minRainMm": 254
+    },
+    "sources": [
+      {
+        "id": "rhs-lingonberry",
+        "title": "Vaccinium vitis-idaea (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/18734/vaccinium-vitis-idaea/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "mbg-vaccinium-vitis-idaea",
+        "title": "Vaccinium vitis-idaea (Missouri Botanical Garden Plant Finder)",
+        "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279945",
+        "licence": "Facts cited; © Missouri Botanical Garden"
+      },
+      {
+        "id": "usda-plants-vavi",
+        "title": "Vaccinium vitis-idaea (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/VAVI",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-voros-afonya",
+        "title": "Vörös áfonya (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Vörös_áfonya",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-lingonberry"
+      ],
+      "commonNamesHu": [
+        "huwiki-voros-afonya"
+      ],
+      "latinName": [
+        "rhs-lingonberry"
+      ],
+      "layer": [
+        "rhs-lingonberry"
+      ],
+      "sunNeed": [
+        "mbg-vaccinium-vitis-idaea"
+      ],
+      "leafHabit": [
+        "rhs-lingonberry"
+      ],
+      "textures": [
+        "rhs-lingonberry"
+      ],
+      "drainage": [
+        "rhs-lingonberry"
+      ],
+      "variants.standard": [
+        "rhs-lingonberry"
+      ],
+      "minWinterC": [
+        "mbg-vaccinium-vitis-idaea"
+      ],
+      "calendar": [
+        "rhs-lingonberry"
+      ],
+      "family": [
+        "rhs-lingonberry"
+      ],
+      "origin": [
+        "rhs-lingonberry"
+      ],
+      "edibleParts": [
+        "rhs-lingonberry"
+      ],
+      "water": [
+        "usda-plants-vavi"
+      ]
+    },
+    "origin": [
+      "europe"
+    ]
+  },
+  {
+    "id": "blackthorn",
+    "commonNames": [
+      "Blackthorn",
+      "Sloe"
+    ],
+    "commonNamesHu": [
+      "Kökény"
+    ],
+    "latinName": "Prunus spinosa",
+    "family": "Rosaceae",
+    "layer": "shrub",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 3.25,
+        "matureWidthM": 3.25,
+        "yearsToMaturity": 35,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -20.0,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Prunus+spinosa",
+    "water": {
+      "level": "medium"
+    },
+    "sources": [
+      {
+        "id": "rhs-blackthorn",
+        "title": "Prunus spinosa (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/14041/prunus-spinosa/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-hedgerow-fruit",
+        "title": "Hedgerow fruit (RHS advice)",
+        "url": "https://www.rhs.org.uk/fruit/hedgerow",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-kokeny-novenyfaj",
+        "title": "Kökény (növényfaj) (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Kökény_(növényfaj)",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-blackthorn"
+      ],
+      "commonNamesHu": [
+        "huwiki-kokeny-novenyfaj"
+      ],
+      "latinName": [
+        "rhs-blackthorn"
+      ],
+      "layer": [
+        "rhs-blackthorn"
+      ],
+      "sunNeed": [
+        "rhs-blackthorn"
+      ],
+      "leafHabit": [
+        "rhs-blackthorn"
+      ],
+      "textures": [
+        "rhs-blackthorn"
+      ],
+      "drainage": [
+        "rhs-blackthorn"
+      ],
+      "variants.standard": [
+        "rhs-blackthorn"
+      ],
+      "minWinterC": [
+        "rhs-blackthorn"
+      ],
+      "calendar": [
+        "rhs-hedgerow-fruit"
+      ],
+      "family": [
+        "rhs-blackthorn"
+      ],
+      "origin": [
+        "rhs-blackthorn"
+      ],
+      "edibleParts": [
+        "rhs-hedgerow-fruit"
+      ],
+      "water": [
+        "rhs-blackthorn"
+      ]
+    },
+    "origin": [
+      "europe"
+    ]
+  },
+  {
+    "id": "hawthorn",
+    "commonNames": [
+      "Hawthorn",
+      "Common hawthorn",
+      "May"
+    ],
+    "commonNamesHu": [
+      "Egybibés galagonya"
+    ],
+    "latinName": "Crataegus monogyna",
+    "family": "Rosaceae",
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 6.0,
+        "matureWidthM": 6.0,
+        "yearsToMaturity": 15,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "mid-autumn",
+        "to": "late-winter"
+      },
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Crataegus+monogyna",
+    "water": {
+      "minRainMm": 610
+    },
+    "sources": [
+      {
+        "id": "rhs-hawthorn",
+        "title": "Crataegus monogyna (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/4775/crataegus-monogyna/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-hawthorn-guide",
+        "title": "How to grow hawthorn (RHS Growing Guide)",
+        "url": "https://www.rhs.org.uk/plants/hawthorn/growing-guide",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-hedgerow-fruit",
+        "title": "Hedgerow fruit (RHS advice)",
+        "url": "https://www.rhs.org.uk/fruit/hedgerow",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "osu-crataegus-monogyna",
+        "title": "Crataegus monogyna (Oregon State University Landscape Plants)",
+        "url": "https://landscapeplants.oregonstate.edu/plants/crataegus-monogyna",
+        "licence": "Facts cited; © Oregon State University"
+      },
+      {
+        "id": "usda-plants-crmo3",
+        "title": "Crataegus monogyna (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/CRMO3",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-egybibes-galagonya",
+        "title": "Egybibés galagonya (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Egybibés_galagonya",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-hawthorn"
+      ],
+      "commonNamesHu": [
+        "huwiki-egybibes-galagonya"
+      ],
+      "latinName": [
+        "rhs-hawthorn"
+      ],
+      "layer": [
+        "rhs-hawthorn"
+      ],
+      "sunNeed": [
+        "rhs-hawthorn"
+      ],
+      "leafHabit": [
+        "rhs-hawthorn"
+      ],
+      "textures": [
+        "rhs-hawthorn"
+      ],
+      "drainage": [
+        "rhs-hawthorn"
+      ],
+      "variants.standard": [
+        "rhs-hawthorn"
+      ],
+      "minWinterC": [
+        "osu-crataegus-monogyna"
+      ],
+      "calendar": [
+        "rhs-hawthorn-guide",
+        "rhs-hedgerow-fruit"
+      ],
+      "family": [
+        "rhs-hawthorn"
+      ],
+      "origin": [
+        "rhs-hawthorn"
+      ],
+      "edibleParts": [
+        "rhs-hedgerow-fruit"
+      ],
+      "water": [
+        "usda-plants-crmo3"
+      ]
+    },
+    "origin": [
+      "europe",
+      "africa",
+      "asia"
+    ]
+  },
+  {
+    "id": "crab-apple",
+    "commonNames": [
+      "Crab apple",
+      "Wild crab apple",
+      "European crab apple"
+    ],
+    "commonNamesHu": [
+      "Vadalma",
+      "Erdei vadalma"
+    ],
+    "latinName": "Malus sylvestris",
+    "family": "Rosaceae",
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 10.0,
+        "matureWidthM": 6.0,
+        "yearsToMaturity": 35,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Malus+sylvestris",
+    "water": {
+      "minRainMm": 762
+    },
+    "sources": [
+      {
+        "id": "rhs-crab-apple",
+        "title": "Malus sylvestris (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/42329/malus-sylvestris/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-hedgerow-fruit",
+        "title": "Hedgerow fruit (RHS advice)",
+        "url": "https://www.rhs.org.uk/fruit/hedgerow",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "ncsu-malus-sylvestris",
+        "title": "Malus sylvestris (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/malus-sylvestris/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "usda-plants-masy2",
+        "title": "Malus sylvestris (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/MASY2",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-vadalma",
+        "title": "Vadalma (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Vadalma",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-crab-apple"
+      ],
+      "commonNamesHu": [
+        "huwiki-vadalma"
+      ],
+      "latinName": [
+        "rhs-crab-apple"
+      ],
+      "layer": [
+        "rhs-crab-apple"
+      ],
+      "sunNeed": [
+        "rhs-crab-apple"
+      ],
+      "leafHabit": [
+        "rhs-crab-apple"
+      ],
+      "textures": [
+        "rhs-crab-apple"
+      ],
+      "drainage": [
+        "rhs-crab-apple"
+      ],
+      "variants.standard": [
+        "rhs-crab-apple"
+      ],
+      "minWinterC": [
+        "ncsu-malus-sylvestris"
+      ],
+      "calendar": [
+        "rhs-hedgerow-fruit"
+      ],
+      "family": [
+        "rhs-crab-apple"
+      ],
+      "origin": [
+        "rhs-crab-apple"
+      ],
+      "edibleParts": [
+        "rhs-hedgerow-fruit"
+      ],
+      "water": [
+        "usda-plants-masy2"
+      ]
+    },
+    "origin": [
+      "europe"
+    ]
+  },
+  {
+    "id": "damson",
+    "commonNames": [
+      "Damson",
+      "Bullace"
+    ],
+    "latinName": "Prunus insititia",
+    "family": "Rosaceae",
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 3.25,
+        "matureWidthM": 3.25,
+        "yearsToMaturity": 15,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "late-autumn",
+        "to": "early-spring"
+      },
+      {
+        "task": "prune",
+        "from": "early-summer",
+        "to": "late-summer"
+      },
+      {
+        "task": "harvest",
+        "from": "late-summer",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Prunus+insititia",
+    "water": {
+      "level": "medium"
+    },
+    "sources": [
+      {
+        "id": "rhs-damson",
+        "title": "Prunus insititia (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/57371/prunus-insititia-f/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-damson-guide",
+        "title": "How to grow damsons (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/fruit/damsons/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "ncsu-damson-shropshire-prune",
+        "title": "Prunus domestica subsp. insititia 'Shropshire Prune' (damson) (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/prunus-domestica-subsp-insititia-shropshire-prune/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      },
+      {
+        "id": "agrovoc-c_6286",
+        "title": "Prunus insititia (AGROVOC, FAO)",
+        "url": "https://agrovoc.fao.org/browse/agrovoc/en/page/c_6286",
+        "licence": "Facts cited; name only, no text copied; AGROVOC © FAO and contributing institutions"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-damson"
+      ],
+      "latinName": [
+        "rhs-damson"
+      ],
+      "layer": [
+        "rhs-damson"
+      ],
+      "sunNeed": [
+        "rhs-damson"
+      ],
+      "leafHabit": [
+        "rhs-damson"
+      ],
+      "textures": [
+        "rhs-damson"
+      ],
+      "drainage": [
+        "rhs-damson"
+      ],
+      "variants.standard": [
+        "rhs-damson"
+      ],
+      "minWinterC": [
+        "ncsu-damson-shropshire-prune"
+      ],
+      "calendar": [
+        "rhs-damson-guide"
+      ],
+      "family": [
+        "rhs-damson"
+      ],
+      "origin": [
+        "rhs-damson"
+      ],
+      "edibleParts": [
+        "rhs-damson"
+      ],
+      "grownIn": [
+        "rhs-damson-guide"
+      ],
+      "water": [
+        "rhs-damson",
+        "ncsu-damson-shropshire-prune"
+      ],
+      "commonNamesHu": [
+        "nebih-nfj-2019-fruit",
+        "agrovoc-c_6286"
+      ]
+    },
+    "origin": [
+      "europe",
+      "africa"
+    ],
+    "grownIn": [
+      "europe"
+    ],
+    "commonNamesHu": [
+      "Kökényszilva"
+    ]
+  },
+  {
+    "id": "dog-rose",
+    "commonNames": [
+      "Dog rose"
+    ],
+    "commonNamesHu": [
+      "Vadrózsa",
+      "Gyepűrózsa",
+      "Csipkerózsa"
+    ],
+    "latinName": "Rosa canina",
+    "family": "Rosaceae",
+    "layer": "shrub",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 3.25,
+        "matureWidthM": 2.0,
+        "yearsToMaturity": 7.5,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": null,
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Rosa+canina",
+    "sources": [
+      {
+        "id": "rhs-dog-rose",
+        "title": "Rosa canina (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/16017/rosa-canina-s/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-hedgerow-fruit",
+        "title": "Hedgerow fruit (RHS advice)",
+        "url": "https://www.rhs.org.uk/fruit/hedgerow",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "cbg-rosa-canina",
+        "title": "Rosa canina (Chicago Botanic Garden Plant Finder)",
+        "url": "https://www.chicagobotanic.org/plant-information/plant-finder/rosa-canina-dog-rose",
+        "licence": "Facts cited; © Chicago Botanic Garden"
+      },
+      {
+        "id": "huwiki-vadrozsa",
+        "title": "Vadrózsa (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Vadrózsa",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-dog-rose"
+      ],
+      "commonNamesHu": [
+        "huwiki-vadrozsa"
+      ],
+      "latinName": [
+        "rhs-dog-rose"
+      ],
+      "layer": [
+        "rhs-dog-rose"
+      ],
+      "sunNeed": [
+        "rhs-dog-rose"
+      ],
+      "leafHabit": [
+        "rhs-dog-rose"
+      ],
+      "textures": [
+        "rhs-dog-rose"
+      ],
+      "drainage": [
+        "rhs-dog-rose"
+      ],
+      "variants.standard": [
+        "rhs-dog-rose"
+      ],
+      "minWinterC": [
+        "cbg-rosa-canina"
+      ],
+      "calendar": [
+        "rhs-hedgerow-fruit"
+      ],
+      "family": [
+        "rhs-dog-rose"
+      ],
+      "origin": [
+        "rhs-dog-rose"
+      ]
+    },
+    "origin": [
+      "europe",
+      "africa",
+      "asia"
+    ]
+  }
+]

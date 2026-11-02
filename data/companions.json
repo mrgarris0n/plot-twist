@@ -1,0 +1,410 @@
+[
+  {
+    "a": "onion",
+    "b": "bush-bean",
+    "effect": "bad",
+    "reason": "Onions and garlic can stunt the growth of beans, so keep them apart.",
+    "reasonHu": "A hagyma és a fokhagyma visszavetheti a bab fejlődését, ezért tartsd őket távol egymástól.",
+    "sources": [
+      {
+        "id": "wvu-companion-planting",
+        "title": "Companion Planting (West Virginia University Extension)",
+        "url": "https://extension.wvu.edu/lawn-gardening-pests/gardening/garden-management/companion-planting",
+        "licence": "Facts cited; © West Virginia University"
+      },
+      {
+        "id": "uw-kenosha-companion-plants",
+        "title": "Companion Plants for the Vegetable Garden (University of Wisconsin Extension, Kenosha County; list by North Dakota State Extension)",
+        "url": "https://kenosha.extension.wisc.edu/files/2020/05/Companion-plants-article.pdf",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      }
+    ]
+  },
+  {
+    "a": "onion",
+    "b": "runner-bean",
+    "effect": "bad",
+    "reason": "Onions and garlic can stunt the growth of beans, so keep them apart.",
+    "reasonHu": "A hagyma és a fokhagyma visszavetheti a bab fejlődését, ezért tartsd őket távol egymástól.",
+    "sources": [
+      {
+        "id": "wvu-companion-planting",
+        "title": "Companion Planting (West Virginia University Extension)",
+        "url": "https://extension.wvu.edu/lawn-gardening-pests/gardening/garden-management/companion-planting",
+        "licence": "Facts cited; © West Virginia University"
+      },
+      {
+        "id": "uw-kenosha-companion-plants",
+        "title": "Companion Plants for the Vegetable Garden (University of Wisconsin Extension, Kenosha County; list by North Dakota State Extension)",
+        "url": "https://kenosha.extension.wisc.edu/files/2020/05/Companion-plants-article.pdf",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      }
+    ]
+  },
+  {
+    "a": "garlic",
+    "b": "bush-bean",
+    "effect": "bad",
+    "reason": "Onions and garlic can stunt the growth of beans, so keep them apart.",
+    "reasonHu": "A hagyma és a fokhagyma visszavetheti a bab fejlődését, ezért tartsd őket távol egymástól.",
+    "sources": [
+      {
+        "id": "wvu-companion-planting",
+        "title": "Companion Planting (West Virginia University Extension)",
+        "url": "https://extension.wvu.edu/lawn-gardening-pests/gardening/garden-management/companion-planting",
+        "licence": "Facts cited; © West Virginia University"
+      },
+      {
+        "id": "uw-kenosha-companion-plants",
+        "title": "Companion Plants for the Vegetable Garden (University of Wisconsin Extension, Kenosha County; list by North Dakota State Extension)",
+        "url": "https://kenosha.extension.wisc.edu/files/2020/05/Companion-plants-article.pdf",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      }
+    ]
+  },
+  {
+    "a": "garlic",
+    "b": "runner-bean",
+    "effect": "bad",
+    "reason": "Onions and garlic can stunt the growth of beans, so keep them apart.",
+    "reasonHu": "A hagyma és a fokhagyma visszavetheti a bab fejlődését, ezért tartsd őket távol egymástól.",
+    "sources": [
+      {
+        "id": "wvu-companion-planting",
+        "title": "Companion Planting (West Virginia University Extension)",
+        "url": "https://extension.wvu.edu/lawn-gardening-pests/gardening/garden-management/companion-planting",
+        "licence": "Facts cited; © West Virginia University"
+      },
+      {
+        "id": "uw-kenosha-companion-plants",
+        "title": "Companion Plants for the Vegetable Garden (University of Wisconsin Extension, Kenosha County; list by North Dakota State Extension)",
+        "url": "https://kenosha.extension.wisc.edu/files/2020/05/Companion-plants-article.pdf",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      }
+    ]
+  },
+  {
+    "a": "onion",
+    "b": "pea",
+    "effect": "bad",
+    "reason": "Onions can stunt the growth of peas, so keep them apart.",
+    "reasonHu": "A hagyma visszavetheti a borsó fejlődését, ezért tartsd őket távol egymástól.",
+    "sources": [
+      {
+        "id": "uw-kenosha-companion-plants",
+        "title": "Companion Plants for the Vegetable Garden (University of Wisconsin Extension, Kenosha County; list by North Dakota State Extension)",
+        "url": "https://kenosha.extension.wisc.edu/files/2020/05/Companion-plants-article.pdf",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      }
+    ]
+  },
+  {
+    "a": "tomato",
+    "b": "potato",
+    "effect": "bad",
+    "reason": "Tomatoes and potatoes catch the same blight, so growing them together spreads it.",
+    "reasonHu": "A paradicsomot és a burgonyát ugyanaz a betegség, a fitoftóra (burgonyavész) támadja, ezért egymás mellett könnyen átterjed egyikről a másikra.",
+    "sources": [
+      {
+        "id": "uw-kenosha-companion-plants",
+        "title": "Companion Plants for the Vegetable Garden (University of Wisconsin Extension, Kenosha County; list by North Dakota State Extension)",
+        "url": "https://kenosha.extension.wisc.edu/files/2020/05/Companion-plants-article.pdf",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      },
+      {
+        "id": "ucanr-companion-planting-chart",
+        "title": "Companion planting in the vegetable garden (UC Master Gardener Program, UC ANR)",
+        "url": "https://ucanr.edu/sites/default/files/2023-09/388577.pdf",
+        "licence": "Facts cited; © Regents of the University of California"
+      }
+    ]
+  },
+  {
+    "a": "tomato",
+    "b": "sweetcorn",
+    "effect": "bad",
+    "reason": "Tomatoes and sweetcorn are attacked by the same worm.",
+    "reasonHu": "A paradicsomot és a csemegekukoricát ugyanaz a hernyó támadja.",
+    "sources": [
+      {
+        "id": "uw-kenosha-companion-plants",
+        "title": "Companion Plants for the Vegetable Garden (University of Wisconsin Extension, Kenosha County; list by North Dakota State Extension)",
+        "url": "https://kenosha.extension.wisc.edu/files/2020/05/Companion-plants-article.pdf",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      },
+      {
+        "id": "ucanr-companion-planting-chart",
+        "title": "Companion planting in the vegetable garden (UC Master Gardener Program, UC ANR)",
+        "url": "https://ucanr.edu/sites/default/files/2023-09/388577.pdf",
+        "licence": "Facts cited; © Regents of the University of California"
+      }
+    ]
+  },
+  {
+    "a": "tomato",
+    "b": "bush-bean",
+    "effect": "bad",
+    "reason": "Tall tomatoes can shade out bush beans, which need full sun.",
+    "reasonHu": "A magas paradicsom beárnyékolhatja a bokorbabot, amely teljes napfényt igényel.",
+    "sources": [
+      {
+        "id": "arizona-art-of-companion-planting",
+        "title": "The Art of Companion Planting (University of Arizona Cooperative Extension, Yavapai County)",
+        "url": "https://extension.arizona.edu/sites/extension.arizona.edu/files/attachment/CompanionPlantingApr2023.pdf",
+        "licence": "Facts cited; © The University of Arizona"
+      }
+    ]
+  },
+  {
+    "a": "sweetcorn",
+    "b": "runner-bean",
+    "effect": "good",
+    "reason": "Sweetcorn gives climbing beans something to grow up.",
+    "reasonHu": "A csemegekukorica támaszt ad a futóbabnak, amelyen felkúszhat.",
+    "sources": [
+      {
+        "id": "rhs-companion-planting",
+        "title": "Three ways to use companion planting (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/advice/grow-your-own/features/companion-planting",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "wvu-companion-planting",
+        "title": "Companion Planting (West Virginia University Extension)",
+        "url": "https://extension.wvu.edu/lawn-gardening-pests/gardening/garden-management/companion-planting",
+        "licence": "Facts cited; © West Virginia University"
+      }
+    ]
+  },
+  {
+    "a": "sweetcorn",
+    "b": "winter-squash",
+    "effect": "good",
+    "reason": "Squash fills the space between sweetcorn plants, shading the soil and holding back weeds.",
+    "reasonHu": "A tök kitölti a csemegekukorica-tövek közötti helyet, árnyékolja a talajt és visszaszorítja a gyomokat.",
+    "sources": [
+      {
+        "id": "rhs-companion-planting",
+        "title": "Three ways to use companion planting (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/advice/grow-your-own/features/companion-planting",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "wvu-companion-planting",
+        "title": "Companion Planting (West Virginia University Extension)",
+        "url": "https://extension.wvu.edu/lawn-gardening-pests/gardening/garden-management/companion-planting",
+        "licence": "Facts cited; © West Virginia University"
+      }
+    ]
+  },
+  {
+    "a": "sweetcorn",
+    "b": "lettuce",
+    "effect": "good",
+    "reason": "Quick lettuce can be grown between slower sweetcorn and picked before it is shaded.",
+    "reasonHu": "A gyorsan növő saláta a lassabb csemegekukorica között is termeszthető, és leszedhető, mielőtt beárnyékolná a kukorica.",
+    "sources": [
+      {
+        "id": "rhs-companion-planting",
+        "title": "Three ways to use companion planting (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/advice/grow-your-own/features/companion-planting",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      }
+    ]
+  },
+  {
+    "a": "sweetcorn",
+    "b": "radish",
+    "effect": "good",
+    "reason": "Quick radish can be grown between slower sweetcorn and picked before it is shaded.",
+    "reasonHu": "A gyorsan növő retek a lassabb csemegekukorica között is termeszthető, és leszedhető, mielőtt beárnyékolná a kukorica.",
+    "sources": [
+      {
+        "id": "rhs-companion-planting",
+        "title": "Three ways to use companion planting (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/advice/grow-your-own/features/companion-planting",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      }
+    ]
+  },
+  {
+    "a": "white-clover",
+    "b": "cabbage",
+    "effect": "good",
+    "reason": "Low clover under cabbage hides it from cabbage root fly.",
+    "reasonHu": "A káposzta alatt növő alacsony here elrejti a káposztát a káposztalégy elől.",
+    "sources": [
+      {
+        "id": "rhs-companion-planting",
+        "title": "Three ways to use companion planting (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/advice/grow-your-own/features/companion-planting",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      }
+    ]
+  },
+  {
+    "a": "white-clover",
+    "b": "cauliflower",
+    "effect": "good",
+    "reason": "Low clover under cauliflower hides it from cabbage root fly.",
+    "reasonHu": "A karfiol alatt növő alacsony here elrejti a karfiolt a káposztalégy elől.",
+    "sources": [
+      {
+        "id": "rhs-companion-planting",
+        "title": "Three ways to use companion planting (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/advice/grow-your-own/features/companion-planting",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      }
+    ]
+  },
+  {
+    "a": "white-clover",
+    "b": "kale",
+    "effect": "good",
+    "reason": "Low clover under kale hides it from cabbage root fly.",
+    "reasonHu": "A fodros kel alatt növő alacsony here elrejti a fodros kelt a káposztalégy elől.",
+    "sources": [
+      {
+        "id": "rhs-companion-planting",
+        "title": "Three ways to use companion planting (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/advice/grow-your-own/features/companion-planting",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      }
+    ]
+  },
+  {
+    "a": "white-clover",
+    "b": "broccoli",
+    "effect": "good",
+    "reason": "Low clover under broccoli hides it from cabbage root fly.",
+    "reasonHu": "A brokkoli alatt növő alacsony here elrejti a brokkolit a káposztalégy elől.",
+    "sources": [
+      {
+        "id": "rhs-companion-planting",
+        "title": "Three ways to use companion planting (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/advice/grow-your-own/features/companion-planting",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      }
+    ]
+  },
+  {
+    "a": "coriander",
+    "b": "basil",
+    "effect": "good",
+    "reason": "Coriander has sometimes kept unwanted insects off basil.",
+    "reasonHu": "A koriander esetenként távol tartja a kártevő rovarokat a bazsalikomtól.",
+    "sources": [
+      {
+        "id": "rhs-companion-planting",
+        "title": "Three ways to use companion planting (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/advice/grow-your-own/features/companion-planting",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      }
+    ]
+  },
+  {
+    "a": "coriander",
+    "b": "parsley",
+    "effect": "good",
+    "reason": "Coriander has sometimes kept unwanted insects off parsley.",
+    "reasonHu": "A koriander esetenként távol tartja a kártevő rovarokat a petrezselyemtől.",
+    "sources": [
+      {
+        "id": "rhs-companion-planting",
+        "title": "Three ways to use companion planting (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/advice/grow-your-own/features/companion-planting",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      }
+    ]
+  },
+  {
+    "a": "lettuce",
+    "b": "tomato",
+    "effect": "good",
+    "reason": "Lettuce can grow in the gaps between tomatoes and is shaded by it once it is big.",
+    "reasonHu": "A saláta elfér a paradicsomtövek közötti hézagokban, és amikor a paradicsom megnő, árnyékot ad neki.",
+    "sources": [
+      {
+        "id": "wvu-companion-planting",
+        "title": "Companion Planting (West Virginia University Extension)",
+        "url": "https://extension.wvu.edu/lawn-gardening-pests/gardening/garden-management/companion-planting",
+        "licence": "Facts cited; © West Virginia University"
+      }
+    ]
+  },
+  {
+    "a": "lettuce",
+    "b": "sweet-pepper",
+    "effect": "good",
+    "reason": "Lettuce can grow in the gaps between peppers and is shaded by it once it is big.",
+    "reasonHu": "A saláta elfér a paprikatövek közötti hézagokban, és amikor a paprika megnő, árnyékot ad neki.",
+    "sources": [
+      {
+        "id": "wvu-companion-planting",
+        "title": "Companion Planting (West Virginia University Extension)",
+        "url": "https://extension.wvu.edu/lawn-gardening-pests/gardening/garden-management/companion-planting",
+        "licence": "Facts cited; © West Virginia University"
+      }
+    ]
+  },
+  {
+    "a": "spinach",
+    "b": "tomato",
+    "effect": "good",
+    "reason": "Spinach can grow in the gaps between tomatoes and is shaded by it once it is big.",
+    "reasonHu": "A spenót elfér a paradicsomtövek közötti hézagokban, és amikor a paradicsom megnő, árnyékot ad neki.",
+    "sources": [
+      {
+        "id": "wvu-companion-planting",
+        "title": "Companion Planting (West Virginia University Extension)",
+        "url": "https://extension.wvu.edu/lawn-gardening-pests/gardening/garden-management/companion-planting",
+        "licence": "Facts cited; © West Virginia University"
+      }
+    ]
+  },
+  {
+    "a": "spinach",
+    "b": "sweet-pepper",
+    "effect": "good",
+    "reason": "Spinach can grow in the gaps between peppers and is shaded by it once it is big.",
+    "reasonHu": "A spenót elfér a paprikatövek közötti hézagokban, és amikor a paprika megnő, árnyékot ad neki.",
+    "sources": [
+      {
+        "id": "wvu-companion-planting",
+        "title": "Companion Planting (West Virginia University Extension)",
+        "url": "https://extension.wvu.edu/lawn-gardening-pests/gardening/garden-management/companion-planting",
+        "licence": "Facts cited; © West Virginia University"
+      }
+    ]
+  },
+  {
+    "a": "beetroot",
+    "b": "tomato",
+    "effect": "good",
+    "reason": "Beetroot can grow in the gaps between tomatoes and is shaded by it once it is big.",
+    "reasonHu": "A cékla elfér a paradicsomtövek közötti hézagokban, és amikor a paradicsom megnő, árnyékot ad neki.",
+    "sources": [
+      {
+        "id": "wvu-companion-planting",
+        "title": "Companion Planting (West Virginia University Extension)",
+        "url": "https://extension.wvu.edu/lawn-gardening-pests/gardening/garden-management/companion-planting",
+        "licence": "Facts cited; © West Virginia University"
+      }
+    ]
+  },
+  {
+    "a": "beetroot",
+    "b": "sweet-pepper",
+    "effect": "good",
+    "reason": "Beetroot can grow in the gaps between peppers and is shaded by it once it is big.",
+    "reasonHu": "A cékla elfér a paprikatövek közötti hézagokban, és amikor a paprika megnő, árnyékot ad neki.",
+    "sources": [
+      {
+        "id": "wvu-companion-planting",
+        "title": "Companion Planting (West Virginia University Extension)",
+        "url": "https://extension.wvu.edu/lawn-gardening-pests/gardening/garden-management/companion-planting",
+        "licence": "Facts cited; © West Virginia University"
+      }
+    ]
+  }
+]

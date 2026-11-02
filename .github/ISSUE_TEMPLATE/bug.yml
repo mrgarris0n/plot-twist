@@ -1,0 +1,24 @@
+name: Bug report
+description: Something is broken or behaves oddly
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. If you came from the "Send feedback" link in the app, the version and browser are already filled in.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Shown in the app's About dialog.
+  - type: input
+    id: browser
+    attributes:
+      label: Browser
+      description: For example Firefox 130 on Android.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true

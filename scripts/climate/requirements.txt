@@ -1,0 +1,5 @@
+numpy==2.2.6
+xarray==2025.6.1
+netCDF4==1.7.4
+cdsapi==0.7.7
+pytest==9.1.1

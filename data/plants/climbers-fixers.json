@@ -1,0 +1,1199 @@
+[
+  {
+    "id": "kiwifruit",
+    "commonNames": [
+      "Kiwifruit",
+      "Fuzzy kiwi"
+    ],
+    "commonNamesHu": [
+      "Kivi"
+    ],
+    "latinName": "Actinidia deliciosa",
+    "family": null,
+    "layer": "climber",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 6.9,
+        "matureWidthM": 2.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -12.2,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "early-winter",
+        "to": "late-winter"
+      },
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "early-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Actinidia+deliciosa",
+    "sources": [
+      {
+        "id": "ncsu-actinidia-deliciosa",
+        "title": "Actinidia deliciosa (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/actinidia-deliciosa/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "uw-kiwifruit",
+        "title": "Kiwifruit, Actinidia spp. (University of Wisconsin Extension Horticulture)",
+        "url": "https://hort.extension.wisc.edu/articles/kiwifruit-actinidia-spp/",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      },
+      {
+        "id": "rhs-fruit-kiwi-guide",
+        "title": "How to grow kiwi fruit (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/fruit/kiwi/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-kullofolyondar",
+        "title": "Küllőfolyondár (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Küllőfolyondár",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-actinidia-deliciosa"
+      ],
+      "commonNamesHu": [
+        "huwiki-kullofolyondar"
+      ],
+      "latinName": [
+        "ncsu-actinidia-deliciosa"
+      ],
+      "layer": [
+        "ncsu-actinidia-deliciosa"
+      ],
+      "variants.standard": [
+        "ncsu-actinidia-deliciosa"
+      ],
+      "sunNeed": [
+        "ncsu-actinidia-deliciosa"
+      ],
+      "leafHabit": [
+        "ncsu-actinidia-deliciosa"
+      ],
+      "minWinterC": [
+        "uw-kiwifruit"
+      ],
+      "calendar": [
+        "uw-kiwifruit",
+        "ncsu-actinidia-deliciosa"
+      ],
+      "edibleParts": [
+        "ncsu-actinidia-deliciosa"
+      ],
+      "drainage": [
+        "ncsu-actinidia-deliciosa"
+      ],
+      "origin": [
+        "ncsu-actinidia-deliciosa"
+      ],
+      "grownIn": [
+        "rhs-fruit-kiwi-guide"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "hardy-kiwi",
+    "commonNames": [
+      "Hardy kiwi",
+      "Kiwi berry"
+    ],
+    "commonNamesHu": [
+      "Kopasz kivi",
+      "Minikivi"
+    ],
+    "latinName": "Actinidia arguta",
+    "family": null,
+    "layer": "climber",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 8.4,
+        "matureWidthM": 4.1,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -31.7,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "early-winter",
+        "to": "late-winter"
+      },
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Actinidia+arguta",
+    "sources": [
+      {
+        "id": "ncsu-actinidia-arguta",
+        "title": "Actinidia arguta (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/actinidia-arguta/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "uw-kiwifruit",
+        "title": "Kiwifruit, Actinidia spp. (University of Wisconsin Extension Horticulture)",
+        "url": "https://hort.extension.wisc.edu/articles/kiwifruit-actinidia-spp/",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      },
+      {
+        "id": "rhs-fruit-kiwi-guide",
+        "title": "How to grow kiwi fruit (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/fruit/kiwi/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-kopasz-kivi",
+        "title": "Kopasz kivi (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Kopasz_kivi",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-actinidia-arguta"
+      ],
+      "commonNamesHu": [
+        "huwiki-kopasz-kivi"
+      ],
+      "latinName": [
+        "ncsu-actinidia-arguta"
+      ],
+      "layer": [
+        "ncsu-actinidia-arguta"
+      ],
+      "variants.standard": [
+        "ncsu-actinidia-arguta"
+      ],
+      "sunNeed": [
+        "ncsu-actinidia-arguta"
+      ],
+      "leafHabit": [
+        "ncsu-actinidia-arguta"
+      ],
+      "minWinterC": [
+        "uw-kiwifruit"
+      ],
+      "roles": [
+        "ncsu-actinidia-arguta"
+      ],
+      "calendar": [
+        "ncsu-actinidia-arguta"
+      ],
+      "edibleParts": [
+        "ncsu-actinidia-arguta"
+      ],
+      "drainage": [
+        "ncsu-actinidia-arguta"
+      ],
+      "origin": [
+        "ncsu-actinidia-arguta"
+      ],
+      "grownIn": [
+        "rhs-fruit-kiwi-guide"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "arctic-kiwi",
+    "commonNames": [
+      "Arctic kiwi",
+      "Super-hardy kiwi"
+    ],
+    "commonNamesHu": [
+      "Mandzsu küllőfolyondár",
+      "Törpe kivi"
+    ],
+    "latinName": "Actinidia kolomikta",
+    "family": null,
+    "layer": "climber",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 5.3,
+        "matureWidthM": 2.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -37.2,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "early-winter",
+        "to": "early-spring"
+      },
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Actinidia+kolomikta",
+    "water": {
+      "level": "high"
+    },
+    "sources": [
+      {
+        "id": "ncsu-actinidia-kolomikta",
+        "title": "Actinidia kolomikta (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/actinidia-kolomikta/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "uw-kiwifruit",
+        "title": "Kiwifruit, Actinidia spp. (University of Wisconsin Extension Horticulture)",
+        "url": "https://hort.extension.wisc.edu/articles/kiwifruit-actinidia-spp/",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      },
+      {
+        "id": "huwiki-kullofolyondar",
+        "title": "Küllőfolyondár (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Küllőfolyondár",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-actinidia-kolomikta"
+      ],
+      "commonNamesHu": [
+        "huwiki-kullofolyondar"
+      ],
+      "latinName": [
+        "ncsu-actinidia-kolomikta"
+      ],
+      "layer": [
+        "ncsu-actinidia-kolomikta"
+      ],
+      "variants.standard": [
+        "ncsu-actinidia-kolomikta"
+      ],
+      "sunNeed": [
+        "ncsu-actinidia-kolomikta"
+      ],
+      "leafHabit": [
+        "ncsu-actinidia-kolomikta"
+      ],
+      "minWinterC": [
+        "uw-kiwifruit"
+      ],
+      "roles": [
+        "ncsu-actinidia-kolomikta"
+      ],
+      "calendar": [
+        "ncsu-actinidia-kolomikta"
+      ],
+      "edibleParts": [
+        "ncsu-actinidia-kolomikta"
+      ],
+      "drainage": [
+        "ncsu-actinidia-kolomikta"
+      ],
+      "origin": [
+        "ncsu-actinidia-kolomikta"
+      ],
+      "water": [
+        "ncsu-actinidia-kolomikta",
+        "uw-kiwifruit"
+      ]
+    },
+    "origin": [
+      "asia"
+    ]
+  },
+  {
+    "id": "hops",
+    "commonNames": [
+      "Hops",
+      "Common hop"
+    ],
+    "commonNamesHu": [
+      "Közönséges komló"
+    ],
+    "latinName": "Humulus lupulus",
+    "family": null,
+    "layer": "climber",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 5.3,
+        "matureWidthM": 1.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": null,
+    "edibleParts": [
+      "cones"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Humulus+lupulus",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-humulus-lupulus",
+        "title": "Humulus lupulus (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/humulus-lupulus/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "usu-hops",
+        "title": "How to Grow Hops in Your Garden (Utah State University Extension)",
+        "url": "https://extension.usu.edu/yardandgarden/research/hops-in-the-garden",
+        "licence": "Facts cited; © Utah State University"
+      },
+      {
+        "id": "il-hops",
+        "title": "Hops in the Herb Garden (University of Illinois Extension)",
+        "url": "https://extension.illinois.edu/blogs/prairies-perennials/2017-06-28-hops-herb-garden",
+        "licence": "Facts cited; © University of Illinois"
+      },
+      {
+        "id": "huwiki-kozonseges-komlo",
+        "title": "Közönséges komló (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Közönséges_komló",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-humulus-lupulus"
+      ],
+      "commonNamesHu": [
+        "huwiki-kozonseges-komlo"
+      ],
+      "latinName": [
+        "ncsu-humulus-lupulus"
+      ],
+      "layer": [
+        "ncsu-humulus-lupulus"
+      ],
+      "variants.standard": [
+        "ncsu-humulus-lupulus"
+      ],
+      "sunNeed": [
+        "usu-hops"
+      ],
+      "minWinterC": [
+        "il-hops"
+      ],
+      "calendar": [
+        "usu-hops"
+      ],
+      "edibleParts": [
+        "ncsu-humulus-lupulus"
+      ],
+      "drainage": [
+        "ncsu-humulus-lupulus"
+      ],
+      "origin": [
+        "ncsu-humulus-lupulus"
+      ],
+      "water": [
+        "ncsu-humulus-lupulus"
+      ]
+    },
+    "origin": [
+      "north-america",
+      "europe",
+      "asia",
+      "africa"
+    ]
+  },
+  {
+    "id": "runner-bean",
+    "commonNames": [
+      "Runner bean",
+      "Scarlet runner bean"
+    ],
+    "commonNamesHu": [
+      "Tűzbab",
+      "Török paszuly"
+    ],
+    "latinName": "Phaseolus coccineus",
+    "family": null,
+    "layer": "climber",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 3.0,
+        "matureWidthM": 1.2,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -17.7,
+    "roles": null,
+    "edibleParts": [
+      "pods",
+      "flowers",
+      "young leaves"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Phaseolus+coccineus",
+    "annual": true,
+    "water": {
+      "level": "high"
+    },
+    "rotationGroup": "legumes",
+    "sources": [
+      {
+        "id": "ncsu-phaseolus-coccineus",
+        "title": "Phaseolus coccineus (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/phaseolus-coccineus/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-runner-beans",
+        "title": "How to grow runner beans (Royal Horticultural Society)",
+        "url": "https://www.rhs.org.uk/vegetables/runner-beans/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-mergezo-novenyek-listaja",
+        "title": "Mérgező növények listája (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Mérgező_növények_listája",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-phaseolus-coccineus"
+      ],
+      "commonNamesHu": [
+        "huwiki-mergezo-novenyek-listaja",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-phaseolus-coccineus"
+      ],
+      "layer": [
+        "ncsu-phaseolus-coccineus"
+      ],
+      "variants.standard": [
+        "ncsu-phaseolus-coccineus"
+      ],
+      "sunNeed": [
+        "ncsu-phaseolus-coccineus"
+      ],
+      "minWinterC": [
+        "ncsu-phaseolus-coccineus"
+      ],
+      "calendar": [
+        "rhs-runner-beans",
+        "umd-veg-planting"
+      ],
+      "edibleParts": [
+        "ncsu-phaseolus-coccineus"
+      ],
+      "drainage": [
+        "ncsu-phaseolus-coccineus"
+      ],
+      "origin": [
+        "ncsu-phaseolus-coccineus"
+      ],
+      "grownIn": [
+        "rhs-runner-beans"
+      ],
+      "annual": [
+        "ncsu-phaseolus-coccineus"
+      ],
+      "water": [
+        "ncsu-phaseolus-coccineus",
+        "rhs-runner-beans"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "hyacinth-bean",
+    "commonNames": [
+      "Hyacinth bean",
+      "Lablab"
+    ],
+    "latinName": "Lablab purpureus",
+    "family": null,
+    "layer": "climber",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 5.3,
+        "matureWidthM": 1.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -1.1,
+    "roles": [
+      "nitrogen-fixer"
+    ],
+    "edibleParts": [
+      "young pods",
+      "dried seeds (boiled)"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Lablab+purpureus",
+    "annual": true,
+    "water": {
+      "minRainMm": 610
+    },
+    "sources": [
+      {
+        "id": "ncsu-lablab-purpureus",
+        "title": "Lablab purpureus (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/lablab-purpureus/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "usda-plants-lapu6",
+        "title": "Lablab purpureus (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/LAPU6",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "agrovoc-c_4125",
+        "title": "Lablab purpureus (AGROVOC, FAO)",
+        "url": "https://agrovoc.fao.org/browse/agrovoc/en/page/c_4125",
+        "licence": "Facts cited; name only, no text copied; AGROVOC © FAO and contributing institutions"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-lablab-purpureus"
+      ],
+      "latinName": [
+        "ncsu-lablab-purpureus"
+      ],
+      "layer": [
+        "ncsu-lablab-purpureus"
+      ],
+      "variants.standard": [
+        "ncsu-lablab-purpureus"
+      ],
+      "sunNeed": [
+        "ncsu-lablab-purpureus"
+      ],
+      "minWinterC": [
+        "ncsu-lablab-purpureus"
+      ],
+      "roles": [
+        "ncsu-lablab-purpureus"
+      ],
+      "calendar": [
+        "ncsu-lablab-purpureus"
+      ],
+      "edibleParts": [
+        "ncsu-lablab-purpureus"
+      ],
+      "drainage": [
+        "ncsu-lablab-purpureus"
+      ],
+      "origin": [
+        "ncsu-lablab-purpureus"
+      ],
+      "annual": [
+        "ncsu-lablab-purpureus"
+      ],
+      "water": [
+        "usda-plants-lapu6"
+      ],
+      "commonNamesHu": [
+        "agrovoc-c_4125"
+      ]
+    },
+    "origin": [
+      "africa"
+    ],
+    "commonNamesHu": [
+      "Jácintbab",
+      "Sisakbab"
+    ]
+  },
+  {
+    "id": "pea",
+    "commonNames": [
+      "Garden pea",
+      "Pea"
+    ],
+    "commonNamesHu": [
+      "Borsó",
+      "Veteményborsó",
+      "Kerti borsó",
+      "Zöldborsó"
+    ],
+    "latinName": "Pisum sativum",
+    "family": null,
+    "layer": "climber",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 0.38,
+        "matureWidthM": 0.23,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": [
+      "nitrogen-fixer"
+    ],
+    "edibleParts": [
+      "seeds",
+      "pods",
+      "flowers",
+      "shoots"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -6
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Pisum+sativum",
+    "annual": true,
+    "water": {
+      "level": "medium"
+    },
+    "rotationGroup": "legumes",
+    "sources": [
+      {
+        "id": "ncsu-pisum-sativum",
+        "title": "Pisum sativum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/pisum-sativum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-vegetables-peas-guide",
+        "title": "How to grow peas (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/peas/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-borso",
+        "title": "Borsó (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Borsó",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-pisum-sativum"
+      ],
+      "commonNamesHu": [
+        "huwiki-borso",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-pisum-sativum"
+      ],
+      "layer": [
+        "ncsu-pisum-sativum"
+      ],
+      "variants.standard": [
+        "ncsu-pisum-sativum"
+      ],
+      "sunNeed": [
+        "ncsu-pisum-sativum"
+      ],
+      "minWinterC": [
+        "ncsu-pisum-sativum"
+      ],
+      "roles": [
+        "ncsu-pisum-sativum"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "edibleParts": [
+        "ncsu-pisum-sativum"
+      ],
+      "drainage": [
+        "ncsu-pisum-sativum"
+      ],
+      "origin": [
+        "ncsu-pisum-sativum"
+      ],
+      "grownIn": [
+        "rhs-vegetables-peas-guide"
+      ],
+      "annual": [
+        "ncsu-pisum-sativum"
+      ],
+      "water": [
+        "ncsu-pisum-sativum"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "maypop",
+    "commonNames": [
+      "Maypop"
+    ],
+    "commonNamesHu": [
+      "Észak-amerikai golgotavirág",
+      "Májusialma"
+    ],
+    "latinName": "Passiflora incarnata",
+    "family": null,
+    "layer": "climber",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 2.1,
+        "matureWidthM": 1.4,
+        "yearsToMaturity": 3.5,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Passiflora+incarnata",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-passiflora-incarnata",
+        "title": "Passiflora incarnata (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/passiflora-incarnata/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-passiflora-incarnata",
+        "title": "Passiflora incarnata (F) (Royal Horticultural Society plant profile)",
+        "url": "https://www.rhs.org.uk/plants/65975/passiflora-incarnata-f/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "mdc-passion-flower",
+        "title": "Passion flower, Passiflora incarnata (Missouri Department of Conservation field guide)",
+        "url": "https://mdc.mo.gov/discover-nature/field-guide/passion-flower",
+        "licence": "Facts cited; © Conservation Commission of Missouri"
+      },
+      {
+        "id": "huwiki-eszak-amerikai-golgotavirag",
+        "title": "Észak-amerikai golgotavirág (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Észak-amerikai_golgotavirág",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-passiflora-incarnata"
+      ],
+      "commonNamesHu": [
+        "huwiki-eszak-amerikai-golgotavirag"
+      ],
+      "latinName": [
+        "ncsu-passiflora-incarnata"
+      ],
+      "layer": [
+        "ncsu-passiflora-incarnata"
+      ],
+      "variants.standard": [
+        "mdc-passion-flower",
+        "rhs-passiflora-incarnata"
+      ],
+      "sunNeed": [
+        "ncsu-passiflora-incarnata",
+        "rhs-passiflora-incarnata"
+      ],
+      "leafHabit": [
+        "ncsu-passiflora-incarnata"
+      ],
+      "minWinterC": [
+        "ncsu-passiflora-incarnata"
+      ],
+      "roles": [
+        "ncsu-passiflora-incarnata"
+      ],
+      "calendar": [
+        "ncsu-passiflora-incarnata"
+      ],
+      "edibleParts": [
+        "ncsu-passiflora-incarnata"
+      ],
+      "drainage": [
+        "ncsu-passiflora-incarnata"
+      ],
+      "origin": [
+        "ncsu-passiflora-incarnata"
+      ],
+      "water": [
+        "ncsu-passiflora-incarnata"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ]
+  },
+  {
+    "id": "red-alder",
+    "commonNames": [
+      "Red alder",
+      "Oregon alder"
+    ],
+    "commonNamesHu": [
+      "Vörös éger"
+    ],
+    "latinName": "Alnus rubra",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard",
+        "labelHu": "Normál",
+        "matureHeightM": 25.0,
+        "matureWidthM": 13.0,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal",
+      "wet"
+    ],
+    "minWinterC": -28.9,
+    "roles": [
+      "nitrogen-fixer"
+    ],
+    "edibleParts": null,
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Alnus+rubra",
+    "water": {
+      "minRainMm": 610
+    },
+    "sources": [
+      {
+        "id": "ncsu-alnus-rubra",
+        "title": "Alnus rubra (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/alnus-rubra/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "usda-alru2",
+        "title": "Red alder, Alnus rubra (USDA NRCS Plant Guide)",
+        "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_alru2.pdf",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "usda-plants-alru2",
+        "title": "Alnus rubra (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/ALRU2",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-voros-eger",
+        "title": "Vörös éger (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Vörös_éger",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-alnus-rubra"
+      ],
+      "commonNamesHu": [
+        "huwiki-voros-eger"
+      ],
+      "latinName": [
+        "ncsu-alnus-rubra"
+      ],
+      "layer": [
+        "ncsu-alnus-rubra"
+      ],
+      "variants.standard": [
+        "ncsu-alnus-rubra"
+      ],
+      "sunNeed": [
+        "ncsu-alnus-rubra"
+      ],
+      "leafHabit": [
+        "ncsu-alnus-rubra"
+      ],
+      "minWinterC": [
+        "ncsu-alnus-rubra"
+      ],
+      "roles": [
+        "ncsu-alnus-rubra",
+        "usda-alru2"
+      ],
+      "calendar": [
+        "usda-alru2"
+      ],
+      "drainage": [
+        "ncsu-alnus-rubra"
+      ],
+      "origin": [
+        "ncsu-alnus-rubra"
+      ],
+      "water": [
+        "usda-plants-alru2"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ]
+  }
+]

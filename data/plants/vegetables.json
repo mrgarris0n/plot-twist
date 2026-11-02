@@ -1,0 +1,3328 @@
+[
+  {
+    "id": "tomato",
+    "commonNames": [
+      "Tomato"
+    ],
+    "commonNamesHu": [
+      "Paradicsom"
+    ],
+    "latinName": "Solanum lycopersicum",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 1.7,
+        "matureWidthM": 0.8,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.45
+      }
+    ],
+    "phMin": null,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": 5.0,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "fruits"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Solanum+lycopersicum",
+    "annual": true,
+    "water": {
+      "level": "high"
+    },
+    "rotationGroup": "potatoes",
+    "sources": [
+      {
+        "id": "ncsu-solanum-lycopersicum",
+        "title": "Solanum lycopersicum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/solanum-lycopersicum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-plant-solanum-lycopersicum",
+        "title": "Solanum lycopersicum (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/293619/solanum-lycopersicum/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-vegetables-tomatoes-guide",
+        "title": "How to grow tomatoes (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/tomatoes/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-paradicsom-novenyfaj",
+        "title": "Paradicsom (növényfaj) (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Paradicsom_(növényfaj)",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-solanum-lycopersicum"
+      ],
+      "commonNamesHu": [
+        "huwiki-paradicsom-novenyfaj"
+      ],
+      "latinName": [
+        "ncsu-solanum-lycopersicum"
+      ],
+      "layer": [
+        "ncsu-solanum-lycopersicum"
+      ],
+      "sunNeed": [
+        "ncsu-solanum-lycopersicum"
+      ],
+      "variants.standard": [
+        "ncsu-solanum-lycopersicum",
+        "rhs-vegetables-tomatoes-guide"
+      ],
+      "phMax": [
+        "ncsu-solanum-lycopersicum"
+      ],
+      "drainage": [
+        "ncsu-solanum-lycopersicum"
+      ],
+      "minWinterC": [
+        "rhs-plant-solanum-lycopersicum"
+      ],
+      "roles": [
+        "ncsu-solanum-lycopersicum"
+      ],
+      "edibleParts": [
+        "ncsu-solanum-lycopersicum"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "ncsu-solanum-lycopersicum"
+      ],
+      "water": [
+        "rhs-vegetables-tomatoes-guide"
+      ],
+      "origin": [
+        "ncsu-solanum-lycopersicum"
+      ],
+      "grownIn": [
+        "rhs-vegetables-tomatoes-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "south-america"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "sweet-pepper",
+    "commonNames": [
+      "Sweet pepper",
+      "Pepper"
+    ],
+    "commonNamesHu": [
+      "Paprika",
+      "Közönséges paprika",
+      "Termesztett paprika"
+    ],
+    "latinName": "Capsicum annuum",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.7,
+        "matureWidthM": 0.23,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.38
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "fruits"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Capsicum+annuum",
+    "annual": true,
+    "rotationGroup": "any",
+    "sources": [
+      {
+        "id": "ncsu-capsicum-annuum",
+        "title": "Capsicum annuum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/capsicum-annuum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-vegetables-peppers-guide",
+        "title": "How to grow sweet peppers (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/peppers/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-kozonseges-paprika",
+        "title": "Közönséges paprika (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Közönséges_paprika",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-capsicum-annuum"
+      ],
+      "commonNamesHu": [
+        "huwiki-kozonseges-paprika",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-capsicum-annuum"
+      ],
+      "layer": [
+        "ncsu-capsicum-annuum"
+      ],
+      "sunNeed": [
+        "ncsu-capsicum-annuum"
+      ],
+      "variants.standard": [
+        "ncsu-capsicum-annuum",
+        "rhs-vegetables-peppers-guide"
+      ],
+      "drainage": [
+        "ncsu-capsicum-annuum"
+      ],
+      "minWinterC": [
+        "ncsu-capsicum-annuum"
+      ],
+      "edibleParts": [
+        "ncsu-capsicum-annuum"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "ncsu-capsicum-annuum"
+      ],
+      "origin": [
+        "ncsu-capsicum-annuum"
+      ],
+      "grownIn": [
+        "rhs-vegetables-peppers-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "north-america",
+      "south-america"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "aubergine",
+    "commonNames": [
+      "Aubergine",
+      "Eggplant"
+    ],
+    "commonNamesHu": [
+      "Padlizsán",
+      "Tojásgyümölcs"
+    ],
+    "latinName": "Solanum melongena",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.9,
+        "matureWidthM": 0.6,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.6
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -6.6,
+    "roles": null,
+    "edibleParts": [
+      "fruits"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Solanum+melongena",
+    "annual": true,
+    "water": {
+      "minRainMm": 1524
+    },
+    "rotationGroup": "any",
+    "sources": [
+      {
+        "id": "ncsu-solanum-melongena",
+        "title": "Solanum melongena (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/solanum-melongena/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-vegetables-aubergines-guide",
+        "title": "How to grow aubergines (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/aubergines/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "usda-plants-some",
+        "title": "Solanum melongena (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/SOME",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-padlizsan",
+        "title": "Padlizsán (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Padlizsán",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-solanum-melongena"
+      ],
+      "commonNamesHu": [
+        "huwiki-padlizsan",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-solanum-melongena"
+      ],
+      "layer": [
+        "ncsu-solanum-melongena"
+      ],
+      "sunNeed": [
+        "ncsu-solanum-melongena"
+      ],
+      "variants.standard": [
+        "ncsu-solanum-melongena",
+        "rhs-vegetables-aubergines-guide"
+      ],
+      "drainage": [
+        "ncsu-solanum-melongena"
+      ],
+      "minWinterC": [
+        "ncsu-solanum-melongena"
+      ],
+      "edibleParts": [
+        "ncsu-solanum-melongena"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "ncsu-solanum-melongena"
+      ],
+      "water": [
+        "usda-plants-some"
+      ],
+      "origin": [
+        "ncsu-solanum-melongena"
+      ],
+      "grownIn": [
+        "rhs-vegetables-aubergines-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "lettuce",
+    "commonNames": [
+      "Lettuce"
+    ],
+    "commonNamesHu": [
+      "Saláta",
+      "Kerti saláta",
+      "Fejes saláta"
+    ],
+    "latinName": "Lactuca sativa",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.23,
+        "matureWidthM": 0.23,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.15
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": null,
+    "edibleParts": [
+      "leaves"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -3
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Lactuca+sativa",
+    "annual": true,
+    "water": {
+      "level": "high"
+    },
+    "rotationGroup": "any",
+    "sources": [
+      {
+        "id": "ncsu-lactuca-sativa",
+        "title": "Lactuca sativa (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/lactuca-sativa/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-vegetables-lettuce-guide",
+        "title": "How to grow lettuces (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/lettuce/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-kerti-salata",
+        "title": "Kerti saláta (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Kerti_saláta",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-lactuca-sativa"
+      ],
+      "commonNamesHu": [
+        "huwiki-kerti-salata",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-lactuca-sativa"
+      ],
+      "layer": [
+        "ncsu-lactuca-sativa"
+      ],
+      "sunNeed": [
+        "ncsu-lactuca-sativa"
+      ],
+      "variants.standard": [
+        "ncsu-lactuca-sativa",
+        "rhs-vegetables-lettuce-guide"
+      ],
+      "phMin": [
+        "ncsu-lactuca-sativa"
+      ],
+      "phMax": [
+        "ncsu-lactuca-sativa"
+      ],
+      "drainage": [
+        "ncsu-lactuca-sativa"
+      ],
+      "minWinterC": [
+        "ncsu-lactuca-sativa"
+      ],
+      "edibleParts": [
+        "ncsu-lactuca-sativa"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "ncsu-lactuca-sativa"
+      ],
+      "water": [
+        "rhs-vegetables-lettuce-guide"
+      ],
+      "origin": [
+        "ncsu-lactuca-sativa"
+      ],
+      "grownIn": [
+        "rhs-vegetables-lettuce-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "spinach",
+    "commonNames": [
+      "Spinach"
+    ],
+    "commonNamesHu": [
+      "Spenót",
+      "Paraj"
+    ],
+    "latinName": "Spinacia oleracea",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.23,
+        "matureWidthM": 0.23,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.15
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": null,
+    "edibleParts": [
+      "leaves"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -6
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Spinacia+oleracea",
+    "annual": true,
+    "water": {
+      "level": "high"
+    },
+    "sources": [
+      {
+        "id": "ncsu-spinacia-oleracea",
+        "title": "Spinacia oleracea (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/spinacia-oleracea/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-vegetables-spinach-guide",
+        "title": "How to grow spinach (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/spinach/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "huwiki-spenot-novenyfaj",
+        "title": "Spenót (növényfaj) (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Spenót_(növényfaj)",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-spinacia-oleracea"
+      ],
+      "commonNamesHu": [
+        "huwiki-spenot-novenyfaj",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-spinacia-oleracea"
+      ],
+      "layer": [
+        "ncsu-spinacia-oleracea"
+      ],
+      "sunNeed": [
+        "ncsu-spinacia-oleracea"
+      ],
+      "variants.standard": [
+        "ncsu-spinacia-oleracea",
+        "rhs-vegetables-spinach-guide"
+      ],
+      "phMin": [
+        "ncsu-spinacia-oleracea"
+      ],
+      "phMax": [
+        "ncsu-spinacia-oleracea"
+      ],
+      "drainage": [
+        "ncsu-spinacia-oleracea"
+      ],
+      "minWinterC": [
+        "ncsu-spinacia-oleracea"
+      ],
+      "edibleParts": [
+        "ncsu-spinacia-oleracea"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "ncsu-spinacia-oleracea"
+      ],
+      "water": [
+        "rhs-vegetables-spinach-guide"
+      ],
+      "origin": [
+        "ncsu-spinacia-oleracea"
+      ],
+      "grownIn": [
+        "rhs-vegetables-spinach-guide"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "chard",
+    "commonNames": [
+      "Chard",
+      "Swiss chard"
+    ],
+    "commonNamesHu": [
+      "Mángold",
+      "Leveles répa"
+    ],
+    "latinName": "Beta vulgaris (Leaf Beet Group)",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.5,
+        "matureWidthM": 0.3,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.3
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": null,
+    "edibleParts": [
+      "leaves",
+      "stalks"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -3
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Beta+vulgaris",
+    "annual": true,
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-beta-vulgaris-leaf-beet-group",
+        "title": "Beta vulgaris Leaf Beet Group (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/beta-vulgaris-leaf-beet-group/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-vegetables-chard-guide",
+        "title": "How to grow chard (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/chard/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "huwiki-mangold",
+        "title": "Mángold (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Mángold",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-beta-vulgaris-leaf-beet-group"
+      ],
+      "commonNamesHu": [
+        "huwiki-mangold"
+      ],
+      "latinName": [
+        "ncsu-beta-vulgaris-leaf-beet-group"
+      ],
+      "layer": [
+        "ncsu-beta-vulgaris-leaf-beet-group"
+      ],
+      "sunNeed": [
+        "ncsu-beta-vulgaris-leaf-beet-group"
+      ],
+      "variants.standard": [
+        "ncsu-beta-vulgaris-leaf-beet-group",
+        "rhs-vegetables-chard-guide"
+      ],
+      "phMin": [
+        "ncsu-beta-vulgaris-leaf-beet-group"
+      ],
+      "phMax": [
+        "ncsu-beta-vulgaris-leaf-beet-group"
+      ],
+      "drainage": [
+        "ncsu-beta-vulgaris-leaf-beet-group"
+      ],
+      "minWinterC": [
+        "ncsu-beta-vulgaris-leaf-beet-group"
+      ],
+      "edibleParts": [
+        "ncsu-beta-vulgaris-leaf-beet-group"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "ncsu-beta-vulgaris-leaf-beet-group"
+      ],
+      "water": [
+        "ncsu-beta-vulgaris-leaf-beet-group",
+        "rhs-vegetables-chard-guide"
+      ],
+      "origin": [
+        "ncsu-beta-vulgaris-leaf-beet-group"
+      ],
+      "grownIn": [
+        "rhs-vegetables-chard-guide"
+      ]
+    },
+    "origin": [
+      "europe"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "beetroot",
+    "commonNames": [
+      "Beetroot",
+      "Beet"
+    ],
+    "commonNamesHu": [
+      "Cékla",
+      "Céklarépa"
+    ],
+    "latinName": "Beta vulgaris (Garden Beet Group)",
+    "family": null,
+    "layer": "root",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.4,
+        "matureWidthM": 0.25,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.1
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": null,
+    "edibleParts": [
+      "roots",
+      "leaves"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -3
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Beta+vulgaris",
+    "annual": true,
+    "rotationGroup": "roots",
+    "sources": [
+      {
+        "id": "ncsu-beta-vulgaris-garden-beet-group",
+        "title": "Beta vulgaris Garden Beet Group (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/beta-vulgaris-garden-beet-group/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-vegetables-beetroot-guide",
+        "title": "How to grow beetroot (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/beetroot/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-cekla",
+        "title": "Cékla (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Cékla",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-beta-vulgaris-garden-beet-group"
+      ],
+      "commonNamesHu": [
+        "huwiki-cekla",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-beta-vulgaris-garden-beet-group"
+      ],
+      "layer": [
+        "ncsu-beta-vulgaris-garden-beet-group"
+      ],
+      "sunNeed": [
+        "ncsu-beta-vulgaris-garden-beet-group"
+      ],
+      "variants.standard": [
+        "ncsu-beta-vulgaris-garden-beet-group",
+        "rhs-vegetables-beetroot-guide"
+      ],
+      "phMin": [
+        "ncsu-beta-vulgaris-garden-beet-group"
+      ],
+      "phMax": [
+        "ncsu-beta-vulgaris-garden-beet-group"
+      ],
+      "drainage": [
+        "ncsu-beta-vulgaris-garden-beet-group"
+      ],
+      "minWinterC": [
+        "ncsu-beta-vulgaris-garden-beet-group"
+      ],
+      "edibleParts": [
+        "ncsu-beta-vulgaris-garden-beet-group"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "ncsu-beta-vulgaris-garden-beet-group"
+      ],
+      "origin": [
+        "ncsu-beta-vulgaris-garden-beet-group"
+      ],
+      "grownIn": [
+        "rhs-vegetables-beetroot-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "europe"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "parsnip",
+    "commonNames": [
+      "Parsnip"
+    ],
+    "commonNamesHu": [
+      "Pasztinák"
+    ],
+    "latinName": "Pastinaca sativa",
+    "family": null,
+    "layer": "root",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.3,
+        "matureWidthM": 0.3,
+        "yearsToMaturity": 0,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal",
+      "wet"
+    ],
+    "minWinterC": -15.0,
+    "roles": null,
+    "edibleParts": [
+      "roots"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "mid-spring",
+        "to": "mid-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Pastinaca+sativa",
+    "annual": true,
+    "rotationGroup": "roots",
+    "sources": [
+      {
+        "id": "ncsu-pastinaca-sativa",
+        "title": "Pastinaca sativa (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/pastinaca-sativa/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-plant-pastinaca-sativa",
+        "title": "Pastinaca sativa (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/24473/pastinaca-sativa/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-vegetables-parsnips-guide",
+        "title": "How to grow parsnips (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/parsnips/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-pasztinak",
+        "title": "Pasztinák (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Pasztinák",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-pastinaca-sativa"
+      ],
+      "commonNamesHu": [
+        "huwiki-pasztinak",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-pastinaca-sativa"
+      ],
+      "layer": [
+        "ncsu-pastinaca-sativa"
+      ],
+      "sunNeed": [
+        "ncsu-pastinaca-sativa"
+      ],
+      "variants.standard": [
+        "rhs-plant-pastinaca-sativa"
+      ],
+      "drainage": [
+        "ncsu-pastinaca-sativa"
+      ],
+      "minWinterC": [
+        "rhs-plant-pastinaca-sativa"
+      ],
+      "edibleParts": [
+        "ncsu-pastinaca-sativa"
+      ],
+      "calendar": [
+        "rhs-vegetables-parsnips-guide"
+      ],
+      "annual": [
+        "rhs-plant-pastinaca-sativa"
+      ],
+      "origin": [
+        "ncsu-pastinaca-sativa"
+      ],
+      "grownIn": [
+        "rhs-vegetables-parsnips-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "europe"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "leek",
+    "commonNames": [
+      "Leek"
+    ],
+    "commonNamesHu": [
+      "Póréhagyma"
+    ],
+    "latinName": "Allium porrum",
+    "family": null,
+    "layer": "root",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.4,
+        "matureWidthM": 0.18,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.15
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -10.0,
+    "roles": null,
+    "edibleParts": null,
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -6
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Allium+porrum",
+    "annual": true,
+    "rotationGroup": "roots",
+    "sources": [
+      {
+        "id": "rhs-plant-allium-porrum",
+        "title": "Allium porrum (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/106043/allium-porrum/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-vegetables-leeks-guide",
+        "title": "How to grow leeks (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/leeks/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-porehagyma",
+        "title": "Póréhagyma (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Póréhagyma",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-plant-allium-porrum"
+      ],
+      "commonNamesHu": [
+        "huwiki-porehagyma",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "rhs-plant-allium-porrum"
+      ],
+      "layer": [
+        "rhs-plant-allium-porrum"
+      ],
+      "sunNeed": [
+        "rhs-plant-allium-porrum"
+      ],
+      "variants.standard": [
+        "rhs-plant-allium-porrum",
+        "rhs-vegetables-leeks-guide"
+      ],
+      "minWinterC": [
+        "rhs-plant-allium-porrum"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "rhs-plant-allium-porrum"
+      ],
+      "grownIn": [
+        "rhs-vegetables-leeks-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "cabbage",
+    "commonNames": [
+      "Cabbage"
+    ],
+    "commonNamesHu": [
+      "Fejes káposzta",
+      "Édes káposzta"
+    ],
+    "latinName": "Brassica oleracea (Capitata Group)",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.4,
+        "matureWidthM": 0.5,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.3
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -23.3,
+    "roles": null,
+    "edibleParts": [
+      "leaves"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -6
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Brassica+oleracea",
+    "annual": true,
+    "rotationGroup": "brassicas",
+    "sources": [
+      {
+        "id": "ncsu-brassica-oleracea-cabbage-group",
+        "title": "Brassica oleracea Cabbage Group (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/brassica-oleracea-cabbage-group/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "ncsu-brassica-oleracea",
+        "title": "Brassica oleracea (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/brassica-oleracea/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-plant-brassica-oleracea-capitata-group-hispi",
+        "title": "Brassica oleracea (Capitata Group) 'Hispi' (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/107315/brassica-oleracea-capitata-group-hispi/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-vegetables-cabbages-guide",
+        "title": "How to grow cabbages (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/cabbages/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-fejes-kaposzta",
+        "title": "Fejes káposzta (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Fejes_káposzta",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-brassica-oleracea-cabbage-group"
+      ],
+      "commonNamesHu": [
+        "huwiki-fejes-kaposzta",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-brassica-oleracea-cabbage-group"
+      ],
+      "layer": [
+        "ncsu-brassica-oleracea-cabbage-group"
+      ],
+      "sunNeed": [
+        "ncsu-brassica-oleracea-cabbage-group"
+      ],
+      "variants.standard": [
+        "ncsu-brassica-oleracea-cabbage-group",
+        "rhs-vegetables-cabbages-guide"
+      ],
+      "phMin": [
+        "ncsu-brassica-oleracea-cabbage-group"
+      ],
+      "phMax": [
+        "ncsu-brassica-oleracea-cabbage-group"
+      ],
+      "drainage": [
+        "ncsu-brassica-oleracea-cabbage-group"
+      ],
+      "minWinterC": [
+        "ncsu-brassica-oleracea"
+      ],
+      "edibleParts": [
+        "ncsu-brassica-oleracea-cabbage-group"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "rhs-plant-brassica-oleracea-capitata-group-hispi"
+      ],
+      "origin": [
+        "ncsu-brassica-oleracea-cabbage-group"
+      ],
+      "grownIn": [
+        "rhs-vegetables-cabbages-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "europe"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "kale",
+    "commonNames": [
+      "Kale"
+    ],
+    "commonNamesHu": [
+      "Fodros kel",
+      "Leveles kel"
+    ],
+    "latinName": "Brassica oleracea (Acephala Group)",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.9,
+        "matureWidthM": 0.8,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.3
+      }
+    ],
+    "phMin": null,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -23.3,
+    "roles": null,
+    "edibleParts": [
+      "leaves"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -6
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Brassica+oleracea",
+    "annual": true,
+    "rotationGroup": "brassicas",
+    "sources": [
+      {
+        "id": "ncsu-brassica-oleracea-kale-group",
+        "title": "Brassica oleracea Kale Group (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/brassica-oleracea-kale-group/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "ncsu-brassica-oleracea",
+        "title": "Brassica oleracea (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/brassica-oleracea/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-plant-brassica-oleracea-acephala-group",
+        "title": "Brassica oleracea Acephala Group (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/106079/brassica-oleracea-acephala-group/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-vegetables-kale-guide",
+        "title": "How to grow kale (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/kale/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-fodros-kel",
+        "title": "Fodros kel (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Fodros_kel",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-brassica-oleracea-kale-group"
+      ],
+      "commonNamesHu": [
+        "huwiki-fodros-kel"
+      ],
+      "latinName": [
+        "ncsu-brassica-oleracea-kale-group"
+      ],
+      "layer": [
+        "ncsu-brassica-oleracea-kale-group"
+      ],
+      "sunNeed": [
+        "ncsu-brassica-oleracea-kale-group"
+      ],
+      "variants.standard": [
+        "ncsu-brassica-oleracea-kale-group",
+        "rhs-vegetables-kale-guide"
+      ],
+      "phMax": [
+        "ncsu-brassica-oleracea-kale-group"
+      ],
+      "drainage": [
+        "ncsu-brassica-oleracea-kale-group"
+      ],
+      "minWinterC": [
+        "ncsu-brassica-oleracea"
+      ],
+      "edibleParts": [
+        "rhs-vegetables-kale-guide"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "rhs-plant-brassica-oleracea-acephala-group"
+      ],
+      "grownIn": [
+        "rhs-vegetables-kale-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "broccoli",
+    "commonNames": [
+      "Broccoli",
+      "Calabrese"
+    ],
+    "commonNamesHu": [
+      "Brokkoli"
+    ],
+    "latinName": "Brassica oleracea (Italica Group)",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.8,
+        "matureWidthM": 0.5,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.6
+      }
+    ],
+    "phMin": null,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -23.3,
+    "roles": null,
+    "edibleParts": [
+      "stems",
+      "flower buds",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -6
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Brassica+oleracea",
+    "annual": true,
+    "rotationGroup": "brassicas",
+    "sources": [
+      {
+        "id": "ncsu-brassica-oleracea-cauliflower-broccoli-group",
+        "title": "Brassica oleracea Cauliflower & Broccoli Group (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/brassica-oleracea-cauliflower-broccoli-group/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "ncsu-brassica-oleracea",
+        "title": "Brassica oleracea (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/brassica-oleracea/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-vegetables-broccoli-guide",
+        "title": "How to grow broccoli (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/broccoli/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-brokkoli",
+        "title": "Brokkoli (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Brokkoli",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "commonNamesHu": [
+        "huwiki-brokkoli",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "layer": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "sunNeed": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "variants.standard": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group",
+        "rhs-vegetables-broccoli-guide"
+      ],
+      "phMax": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "drainage": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "minWinterC": [
+        "ncsu-brassica-oleracea"
+      ],
+      "edibleParts": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "origin": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "grownIn": [
+        "rhs-vegetables-broccoli-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "europe"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "cauliflower",
+    "commonNames": [
+      "Cauliflower"
+    ],
+    "commonNamesHu": [
+      "Karfiol",
+      "Kelvirág",
+      "Virágos kel"
+    ],
+    "latinName": "Brassica oleracea (Botrytis Group)",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.8,
+        "matureWidthM": 0.5,
+        "yearsToMaturity": 0,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -23.3,
+    "roles": null,
+    "edibleParts": [
+      "stems",
+      "flower buds",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -3
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Brassica+oleracea",
+    "annual": true,
+    "rotationGroup": "brassicas",
+    "sources": [
+      {
+        "id": "ncsu-brassica-oleracea-cauliflower-broccoli-group",
+        "title": "Brassica oleracea Cauliflower & Broccoli Group (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/brassica-oleracea-cauliflower-broccoli-group/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "ncsu-brassica-oleracea",
+        "title": "Brassica oleracea (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/brassica-oleracea/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-vegetables-cauliflower-guide",
+        "title": "How to grow cauliflower (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/cauliflower/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-karfiol",
+        "title": "Karfiol (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Karfiol",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "commonNamesHu": [
+        "huwiki-karfiol",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "layer": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "sunNeed": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "variants.standard": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "phMax": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "drainage": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "minWinterC": [
+        "ncsu-brassica-oleracea"
+      ],
+      "edibleParts": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "origin": [
+        "ncsu-brassica-oleracea-cauliflower-broccoli-group"
+      ],
+      "grownIn": [
+        "rhs-vegetables-cauliflower-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "europe"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "bush-bean",
+    "commonNames": [
+      "Bush bean",
+      "French bean",
+      "Green bean"
+    ],
+    "commonNamesHu": [
+      "Zöldbab",
+      "Veteménybab"
+    ],
+    "latinName": "Phaseolus vulgaris",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.45,
+        "matureWidthM": 0.15,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.15
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": [
+      "nitrogen-fixer"
+    ],
+    "edibleParts": [
+      "pods"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Phaseolus+vulgaris",
+    "annual": true,
+    "rotationGroup": "legumes",
+    "sources": [
+      {
+        "id": "ncsu-phaseolus-vulgaris",
+        "title": "Phaseolus vulgaris (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/phaseolus-vulgaris/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-vegetables-french-beans-guide",
+        "title": "How to grow French beans (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/french-beans/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-vetemenybab",
+        "title": "Veteménybab (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Veteménybab",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-phaseolus-vulgaris",
+        "rhs-vegetables-french-beans-guide"
+      ],
+      "commonNamesHu": [
+        "huwiki-vetemenybab"
+      ],
+      "latinName": [
+        "ncsu-phaseolus-vulgaris"
+      ],
+      "layer": [
+        "ncsu-phaseolus-vulgaris"
+      ],
+      "sunNeed": [
+        "ncsu-phaseolus-vulgaris"
+      ],
+      "variants.standard": [
+        "rhs-vegetables-french-beans-guide"
+      ],
+      "drainage": [
+        "ncsu-phaseolus-vulgaris"
+      ],
+      "minWinterC": [
+        "ncsu-phaseolus-vulgaris"
+      ],
+      "roles": [
+        "ncsu-phaseolus-vulgaris"
+      ],
+      "edibleParts": [
+        "rhs-vegetables-french-beans-guide"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "ncsu-phaseolus-vulgaris"
+      ],
+      "grownIn": [
+        "rhs-vegetables-french-beans-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "broad-bean",
+    "commonNames": [
+      "Broad bean",
+      "Fava bean"
+    ],
+    "commonNamesHu": [
+      "Lóbab"
+    ],
+    "latinName": "Vicia faba",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 1.4,
+        "matureWidthM": 0.2,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.15
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -10.0,
+    "roles": [
+      "nitrogen-fixer",
+      "pollinator"
+    ],
+    "edibleParts": [
+      "seeds",
+      "pods"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "late-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Vicia+faba",
+    "annual": true,
+    "water": {
+      "level": "low"
+    },
+    "rotationGroup": "legumes",
+    "sources": [
+      {
+        "id": "ncsu-vicia-faba",
+        "title": "Vicia faba (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/vicia-faba/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "usda-nrcs-fava-bean-guide",
+        "title": "Fava bean, Vicia faba (USDA NRCS Plant Guide, copy hosted by SARE)",
+        "url": "https://projects.sare.org/media/pdf/N/R/C/NRCSs-Fava-Plant-Guide.pdf",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "rhs-vegetables-broad-beans-guide",
+        "title": "How to grow broad beans (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/broad-beans/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-lobab",
+        "title": "Lóbab (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Lóbab",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-vicia-faba"
+      ],
+      "commonNamesHu": [
+        "huwiki-lobab",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-vicia-faba"
+      ],
+      "layer": [
+        "ncsu-vicia-faba"
+      ],
+      "sunNeed": [
+        "ncsu-vicia-faba"
+      ],
+      "variants.standard": [
+        "usda-nrcs-fava-bean-guide",
+        "rhs-vegetables-broad-beans-guide"
+      ],
+      "drainage": [
+        "ncsu-vicia-faba"
+      ],
+      "minWinterC": [
+        "usda-nrcs-fava-bean-guide"
+      ],
+      "roles": [
+        "ncsu-vicia-faba",
+        "usda-nrcs-fava-bean-guide"
+      ],
+      "edibleParts": [
+        "ncsu-vicia-faba"
+      ],
+      "calendar": [
+        "rhs-vegetables-broad-beans-guide"
+      ],
+      "annual": [
+        "ncsu-vicia-faba"
+      ],
+      "water": [
+        "ncsu-vicia-faba"
+      ],
+      "grownIn": [
+        "rhs-vegetables-broad-beans-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "courgette",
+    "commonNames": [
+      "Courgette",
+      "Zucchini"
+    ],
+    "commonNamesHu": [
+      "Cukkini"
+    ],
+    "latinName": "Cucurbita pepo",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.6,
+        "matureWidthM": 0.9,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.9
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": null,
+    "edibleParts": [
+      "fruits",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Cucurbita+pepo",
+    "annual": true,
+    "water": {
+      "level": "high"
+    },
+    "rotationGroup": "any",
+    "sources": [
+      {
+        "id": "ncsu-cucurbita-pepo",
+        "title": "Cucurbita pepo (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/cucurbita-pepo/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-vegetables-courgettes-guide",
+        "title": "How to grow courgettes (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/courgettes/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-cukkini",
+        "title": "Cukkini (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Cukkini",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-cucurbita-pepo"
+      ],
+      "commonNamesHu": [
+        "huwiki-cukkini"
+      ],
+      "latinName": [
+        "ncsu-cucurbita-pepo"
+      ],
+      "layer": [
+        "ncsu-cucurbita-pepo"
+      ],
+      "sunNeed": [
+        "ncsu-cucurbita-pepo"
+      ],
+      "variants.standard": [
+        "ncsu-cucurbita-pepo",
+        "rhs-vegetables-courgettes-guide"
+      ],
+      "phMin": [
+        "ncsu-cucurbita-pepo"
+      ],
+      "phMax": [
+        "ncsu-cucurbita-pepo"
+      ],
+      "drainage": [
+        "ncsu-cucurbita-pepo"
+      ],
+      "minWinterC": [
+        "ncsu-cucurbita-pepo"
+      ],
+      "edibleParts": [
+        "rhs-vegetables-courgettes-guide"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "ncsu-cucurbita-pepo"
+      ],
+      "water": [
+        "rhs-vegetables-courgettes-guide"
+      ],
+      "origin": [
+        "ncsu-cucurbita-pepo"
+      ],
+      "grownIn": [
+        "rhs-vegetables-courgettes-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "winter-squash",
+    "commonNames": [
+      "Winter squash",
+      "Butternut squash"
+    ],
+    "commonNamesHu": [
+      "Pézsmatök",
+      "Muskotálytök"
+    ],
+    "latinName": "Cucurbita moschata",
+    "family": null,
+    "layer": "climber",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 2.1,
+        "matureWidthM": 1.5,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.9
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": null,
+    "edibleParts": [
+      "fruits"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Cucurbita+moschata",
+    "annual": true,
+    "rotationGroup": "any",
+    "sources": [
+      {
+        "id": "ncsu-cucurbita-moschata",
+        "title": "Cucurbita moschata (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/cucurbita-moschata/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-vegetables-squash-guide",
+        "title": "How to grow squashes (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/squash/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-pezsmatok",
+        "title": "Pézsmatök (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Pézsmatök",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-cucurbita-moschata"
+      ],
+      "commonNamesHu": [
+        "huwiki-pezsmatok",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-cucurbita-moschata"
+      ],
+      "layer": [
+        "ncsu-cucurbita-moschata"
+      ],
+      "sunNeed": [
+        "ncsu-cucurbita-moschata"
+      ],
+      "variants.standard": [
+        "ncsu-cucurbita-moschata",
+        "rhs-vegetables-squash-guide"
+      ],
+      "phMin": [
+        "ncsu-cucurbita-moschata"
+      ],
+      "phMax": [
+        "ncsu-cucurbita-moschata"
+      ],
+      "drainage": [
+        "ncsu-cucurbita-moschata"
+      ],
+      "minWinterC": [
+        "ncsu-cucurbita-moschata"
+      ],
+      "edibleParts": [
+        "rhs-vegetables-squash-guide"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "ncsu-cucurbita-moschata"
+      ],
+      "origin": [
+        "ncsu-cucurbita-moschata"
+      ],
+      "grownIn": [
+        "rhs-vegetables-squash-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "north-america",
+      "south-america"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "cucumber",
+    "commonNames": [
+      "Cucumber"
+    ],
+    "commonNamesHu": [
+      "Uborka"
+    ],
+    "latinName": "Cucumis sativus",
+    "family": null,
+    "layer": "climber",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.3,
+        "matureWidthM": 1.7,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.3
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": null,
+    "edibleParts": [
+      "fruits"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Cucumis+sativus",
+    "annual": true,
+    "rotationGroup": "any",
+    "sources": [
+      {
+        "id": "ncsu-cucumis-sativus",
+        "title": "Cucumis sativus (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/cucumis-sativus/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-vegetables-cucumbers-guide",
+        "title": "How to grow cucumbers (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/cucumbers/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-uborka",
+        "title": "Uborka (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Uborka",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-cucumis-sativus"
+      ],
+      "commonNamesHu": [
+        "huwiki-uborka",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-cucumis-sativus"
+      ],
+      "layer": [
+        "ncsu-cucumis-sativus"
+      ],
+      "sunNeed": [
+        "ncsu-cucumis-sativus"
+      ],
+      "variants.standard": [
+        "ncsu-cucumis-sativus",
+        "rhs-vegetables-cucumbers-guide"
+      ],
+      "phMin": [
+        "ncsu-cucumis-sativus"
+      ],
+      "phMax": [
+        "ncsu-cucumis-sativus"
+      ],
+      "drainage": [
+        "ncsu-cucumis-sativus"
+      ],
+      "minWinterC": [
+        "ncsu-cucumis-sativus"
+      ],
+      "edibleParts": [
+        "ncsu-cucumis-sativus"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "ncsu-cucumis-sativus"
+      ],
+      "origin": [
+        "ncsu-cucumis-sativus"
+      ],
+      "grownIn": [
+        "rhs-vegetables-cucumbers-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "sweetcorn",
+    "commonNames": [
+      "Sweetcorn",
+      "Corn"
+    ],
+    "commonNamesHu": [
+      "Kukorica",
+      "Csemegekukorica"
+    ],
+    "latinName": "Zea mays",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 2.0,
+        "matureWidthM": 0.5,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.34
+      }
+    ],
+    "phMin": null,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": null,
+    "edibleParts": [
+      "cobs"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Zea+mays",
+    "annual": true,
+    "water": {
+      "minRainMm": 508
+    },
+    "rotationGroup": "any",
+    "sources": [
+      {
+        "id": "ncsu-zea-mays",
+        "title": "Zea mays (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/zea-mays/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-vegetables-sweetcorn-guide",
+        "title": "How to grow sweetcorn (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/sweetcorn/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "usda-plants-zema",
+        "title": "Zea mays (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/ZEMA",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-kukorica-novenyfaj",
+        "title": "Kukorica (növényfaj) (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Kukorica_(növényfaj)",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-zea-mays"
+      ],
+      "commonNamesHu": [
+        "huwiki-kukorica-novenyfaj",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-zea-mays"
+      ],
+      "layer": [
+        "ncsu-zea-mays"
+      ],
+      "sunNeed": [
+        "ncsu-zea-mays"
+      ],
+      "variants.standard": [
+        "ncsu-zea-mays",
+        "rhs-vegetables-sweetcorn-guide"
+      ],
+      "phMax": [
+        "ncsu-zea-mays"
+      ],
+      "drainage": [
+        "ncsu-zea-mays"
+      ],
+      "minWinterC": [
+        "ncsu-zea-mays"
+      ],
+      "edibleParts": [
+        "rhs-vegetables-sweetcorn-guide"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "ncsu-zea-mays"
+      ],
+      "water": [
+        "usda-plants-zema"
+      ],
+      "origin": [
+        "ncsu-zea-mays"
+      ],
+      "grownIn": [
+        "rhs-vegetables-sweetcorn-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "basil",
+    "commonNames": [
+      "Basil"
+    ],
+    "commonNamesHu": [
+      "Bazsalikom"
+    ],
+    "latinName": "Ocimum basilicum",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.5,
+        "matureWidthM": 0.23,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.1
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -1.1,
+    "roles": null,
+    "edibleParts": [
+      "leaves",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-summer",
+        "to": "early-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Ocimum+basilicum",
+    "annual": true,
+    "sources": [
+      {
+        "id": "ncsu-ocimum-basilicum",
+        "title": "Ocimum basilicum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/ocimum-basilicum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-herbs-basil-guide",
+        "title": "How to grow basil (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/basil/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-bazsalikom",
+        "title": "Bazsalikom (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Bazsalikom",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-ocimum-basilicum"
+      ],
+      "commonNamesHu": [
+        "huwiki-bazsalikom",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-ocimum-basilicum"
+      ],
+      "layer": [
+        "ncsu-ocimum-basilicum"
+      ],
+      "sunNeed": [
+        "ncsu-ocimum-basilicum"
+      ],
+      "variants.standard": [
+        "ncsu-ocimum-basilicum",
+        "rhs-herbs-basil-guide"
+      ],
+      "drainage": [
+        "ncsu-ocimum-basilicum"
+      ],
+      "minWinterC": [
+        "ncsu-ocimum-basilicum"
+      ],
+      "edibleParts": [
+        "ncsu-ocimum-basilicum"
+      ],
+      "calendar": [
+        "rhs-herbs-basil-guide"
+      ],
+      "annual": [
+        "ncsu-ocimum-basilicum"
+      ],
+      "origin": [
+        "ncsu-ocimum-basilicum"
+      ],
+      "grownIn": [
+        "rhs-herbs-basil-guide"
+      ]
+    },
+    "origin": [
+      "africa",
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "parsley",
+    "commonNames": [
+      "Parsley"
+    ],
+    "commonNamesHu": [
+      "Petrezselyem"
+    ],
+    "latinName": "Petroselinum crispum",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.6,
+        "matureWidthM": 0.25,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.15
+      }
+    ],
+    "phMin": null,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -20.0,
+    "roles": null,
+    "edibleParts": [
+      "leaves"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -6
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Petroselinum+crispum",
+    "annual": true,
+    "rotationGroup": "roots",
+    "sources": [
+      {
+        "id": "ncsu-petroselinum-crispum",
+        "title": "Petroselinum crispum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/petroselinum-crispum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-plant-petroselinum-crispum",
+        "title": "Petroselinum crispum (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/41248/petroselinum-crispum/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-herbs-parsley-guide",
+        "title": "How to grow parsley (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/parsley/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for spring and fall planting and summer planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-petrezselyem",
+        "title": "Petrezselyem (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Petrezselyem",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-petroselinum-crispum"
+      ],
+      "commonNamesHu": [
+        "huwiki-petrezselyem",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-petroselinum-crispum"
+      ],
+      "layer": [
+        "ncsu-petroselinum-crispum"
+      ],
+      "sunNeed": [
+        "ncsu-petroselinum-crispum"
+      ],
+      "variants.standard": [
+        "ncsu-petroselinum-crispum",
+        "rhs-herbs-parsley-guide"
+      ],
+      "phMax": [
+        "ncsu-petroselinum-crispum"
+      ],
+      "drainage": [
+        "ncsu-petroselinum-crispum"
+      ],
+      "minWinterC": [
+        "rhs-plant-petroselinum-crispum"
+      ],
+      "edibleParts": [
+        "ncsu-petroselinum-crispum"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "annual": [
+        "rhs-plant-petroselinum-crispum"
+      ],
+      "grownIn": [
+        "rhs-herbs-parsley-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "dill",
+    "commonNames": [
+      "Dill"
+    ],
+    "commonNamesHu": [
+      "Kapor"
+    ],
+    "latinName": "Anethum graveolens",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 1.1,
+        "matureWidthM": 0.8,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.2
+      }
+    ],
+    "phMin": null,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "leaves",
+      "seeds",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "mid-spring",
+        "to": "mid-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Anethum+graveolens",
+    "annual": true,
+    "sources": [
+      {
+        "id": "ncsu-anethum-graveolens",
+        "title": "Anethum graveolens (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/anethum-graveolens/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-herbs-dill-guide",
+        "title": "How to grow dill (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/dill/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-kapor-novenyfaj",
+        "title": "Kapor (növényfaj) (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Kapor_(növényfaj)",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-anethum-graveolens"
+      ],
+      "commonNamesHu": [
+        "huwiki-kapor-novenyfaj",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-anethum-graveolens"
+      ],
+      "layer": [
+        "ncsu-anethum-graveolens"
+      ],
+      "sunNeed": [
+        "ncsu-anethum-graveolens"
+      ],
+      "variants.standard": [
+        "ncsu-anethum-graveolens",
+        "rhs-herbs-dill-guide"
+      ],
+      "phMax": [
+        "ncsu-anethum-graveolens"
+      ],
+      "drainage": [
+        "ncsu-anethum-graveolens"
+      ],
+      "minWinterC": [
+        "ncsu-anethum-graveolens"
+      ],
+      "roles": [
+        "ncsu-anethum-graveolens"
+      ],
+      "edibleParts": [
+        "ncsu-anethum-graveolens"
+      ],
+      "calendar": [
+        "rhs-herbs-dill-guide"
+      ],
+      "annual": [
+        "ncsu-anethum-graveolens"
+      ],
+      "origin": [
+        "ncsu-anethum-graveolens"
+      ],
+      "grownIn": [
+        "rhs-herbs-dill-guide"
+      ]
+    },
+    "origin": [
+      "africa"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "coriander",
+    "commonNames": [
+      "Coriander",
+      "Cilantro"
+    ],
+    "commonNamesHu": [
+      "Koriander"
+    ],
+    "latinName": "Coriandrum sativum",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.5,
+        "matureWidthM": 0.5,
+        "yearsToMaturity": 0,
+        "minSpacingM": 0.1
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -15.0,
+    "roles": null,
+    "edibleParts": [
+      "leaves",
+      "stems",
+      "flowers",
+      "seeds"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Coriandrum+sativum",
+    "annual": true,
+    "sources": [
+      {
+        "id": "ncsu-coriandrum-sativum",
+        "title": "Coriandrum sativum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/coriandrum-sativum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-plant-coriandrum-sativum",
+        "title": "Coriandrum sativum (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/4371/coriandrum-sativum/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-herbs-coriander-guide",
+        "title": "How to grow coriander (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/coriander/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-koriander",
+        "title": "Koriander (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Koriander",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-coriandrum-sativum"
+      ],
+      "commonNamesHu": [
+        "huwiki-koriander",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-coriandrum-sativum"
+      ],
+      "layer": [
+        "ncsu-coriandrum-sativum"
+      ],
+      "sunNeed": [
+        "ncsu-coriandrum-sativum"
+      ],
+      "variants.standard": [
+        "ncsu-coriandrum-sativum",
+        "rhs-herbs-coriander-guide"
+      ],
+      "drainage": [
+        "ncsu-coriandrum-sativum"
+      ],
+      "minWinterC": [
+        "rhs-plant-coriandrum-sativum"
+      ],
+      "edibleParts": [
+        "ncsu-coriandrum-sativum"
+      ],
+      "calendar": [
+        "rhs-herbs-coriander-guide"
+      ],
+      "annual": [
+        "ncsu-coriandrum-sativum"
+      ],
+      "origin": [
+        "ncsu-coriandrum-sativum"
+      ],
+      "grownIn": [
+        "rhs-herbs-coriander-guide"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  }
+]

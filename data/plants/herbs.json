@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "asparagus",
+    "commonNames": [
+      "Asparagus"
+    ],
+    "commonNamesHu": [
+      "Spárga",
+      "Közönséges spárga"
+    ],
+    "latinName": "Asparagus officinalis",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 1.2,
+        "matureWidthM": 0.7,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": null,
+    "edibleParts": [
+      "young shoots (spears)"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-spring",
+        "to": "early-spring"
+      },
+      {
+        "task": "prune",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Asparagus+officinalis",
+    "water": {
+      "level": "medium"
+    },
+    "sources": [
+      {
+        "id": "ncsu-asparagus-officinalis",
+        "title": "Asparagus officinalis (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/asparagus-officinalis/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "huwiki-kozonseges-sparga",
+        "title": "Közönséges spárga (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Közönséges_spárga",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-asparagus-officinalis"
+      ],
+      "commonNamesHu": [
+        "huwiki-kozonseges-sparga",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-asparagus-officinalis"
+      ],
+      "layer": [
+        "ncsu-asparagus-officinalis"
+      ],
+      "sunNeed": [
+        "ncsu-asparagus-officinalis"
+      ],
+      "variants.standard": [
+        "ncsu-asparagus-officinalis"
+      ],
+      "minWinterC": [
+        "ncsu-asparagus-officinalis"
+      ],
+      "calendar": [
+        "ncsu-asparagus-officinalis"
+      ],
+      "edibleParts": [
+        "ncsu-asparagus-officinalis"
+      ],
+      "phMin": [
+        "ncsu-asparagus-officinalis"
+      ],
+      "phMax": [
+        "ncsu-asparagus-officinalis"
+      ],
+      "drainage": [
+        "ncsu-asparagus-officinalis"
+      ],
+      "origin": [
+        "ncsu-asparagus-officinalis"
+      ],
+      "water": [
+        "ncsu-asparagus-officinalis"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia",
+      "africa"
+    ]
+  },
+  {
+    "id": "borage",
+    "commonNames": [
+      "Borage"
+    ],
+    "commonNamesHu": [
+      "Borágó"
+    ],
+    "latinName": "Borago officinalis",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.7,
+        "matureWidthM": 0.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "flowers",
+      "leaves"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      },
+      {
+        "task": "prune",
+        "from": "mid-summer",
+        "to": "mid-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Borago+officinalis",
+    "annual": true,
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-borago-officinalis",
+        "title": "Borago officinalis (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/borago-officinalis/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "il-borage",
+        "title": "Borage (University of Illinois Extension)",
+        "url": "https://extension.illinois.edu/herbs/borage",
+        "licence": "Facts cited; © University of Illinois"
+      },
+      {
+        "id": "huwiki-borago",
+        "title": "Borágó (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Borágó",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-borago-officinalis"
+      ],
+      "commonNamesHu": [
+        "huwiki-borago"
+      ],
+      "latinName": [
+        "ncsu-borago-officinalis"
+      ],
+      "layer": [
+        "ncsu-borago-officinalis"
+      ],
+      "sunNeed": [
+        "il-borage"
+      ],
+      "variants.standard": [
+        "ncsu-borago-officinalis"
+      ],
+      "minWinterC": [
+        "ncsu-borago-officinalis"
+      ],
+      "calendar": [
+        "il-borage",
+        "ncsu-borago-officinalis"
+      ],
+      "edibleParts": [
+        "ncsu-borago-officinalis"
+      ],
+      "drainage": [
+        "ncsu-borago-officinalis"
+      ],
+      "roles": [
+        "ncsu-borago-officinalis"
+      ],
+      "annual": [
+        "ncsu-borago-officinalis"
+      ],
+      "water": [
+        "il-borage"
+      ]
+    }
+  },
+  {
+    "id": "oregano",
+    "commonNames": [
+      "Oregano"
+    ],
+    "commonNamesHu": [
+      "Szurokfű",
+      "Vadmajoránna",
+      "Oregánó"
+    ],
+    "latinName": "Origanum vulgare",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.6,
+        "matureWidthM": 0.5,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "leaves",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "mid-summer",
+        "to": "mid-summer"
+      },
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "early-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Origanum+vulgare",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-origanum-vulgare",
+        "title": "Origanum vulgare (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/origanum-vulgare/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "isu-herbs",
+        "title": "Growing, Harvesting, and Drying Herbs (Iowa State University Extension)",
+        "url": "https://yardandgarden.extension.iastate.edu/how-to/growing-harvesting-and-drying-herbs",
+        "licence": "Facts cited; © Iowa State University"
+      },
+      {
+        "id": "rhs-herbs-oregano-guide",
+        "title": "How to grow Oregano (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/oregano/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-szurokfu-novenyfaj",
+        "title": "Szurokfű (növényfaj) (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Szurokfű_(növényfaj)",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-origanum-vulgare"
+      ],
+      "commonNamesHu": [
+        "huwiki-szurokfu-novenyfaj"
+      ],
+      "latinName": [
+        "ncsu-origanum-vulgare"
+      ],
+      "layer": [
+        "ncsu-origanum-vulgare"
+      ],
+      "sunNeed": [
+        "ncsu-origanum-vulgare"
+      ],
+      "variants.standard": [
+        "ncsu-origanum-vulgare"
+      ],
+      "minWinterC": [
+        "ncsu-origanum-vulgare"
+      ],
+      "calendar": [
+        "isu-herbs"
+      ],
+      "edibleParts": [
+        "ncsu-origanum-vulgare"
+      ],
+      "drainage": [
+        "ncsu-origanum-vulgare"
+      ],
+      "roles": [
+        "ncsu-origanum-vulgare"
+      ],
+      "origin": [
+        "ncsu-origanum-vulgare"
+      ],
+      "grownIn": [
+        "rhs-herbs-oregano-guide"
+      ],
+      "water": [
+        "ncsu-origanum-vulgare",
+        "rhs-herbs-oregano-guide"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "thyme",
+    "commonNames": [
+      "Thyme"
+    ],
+    "commonNamesHu": [
+      "Kerti kakukkfű"
+    ],
+    "latinName": "Thymus vulgaris",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.2,
+        "matureWidthM": 0.3,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "leaves",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "early-spring",
+        "to": "early-spring"
+      },
+      {
+        "task": "prune",
+        "from": "early-summer",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Thymus+vulgaris",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-thymus-vulgaris",
+        "title": "Thymus vulgaris (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/thymus-vulgaris/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-herbs-thyme-guide",
+        "title": "How to grow Thyme (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/thyme/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-kerti-kakukkfu",
+        "title": "Kerti kakukkfű (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Kerti_kakukkfű",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-thymus-vulgaris"
+      ],
+      "commonNamesHu": [
+        "huwiki-kerti-kakukkfu",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-thymus-vulgaris"
+      ],
+      "layer": [
+        "ncsu-thymus-vulgaris"
+      ],
+      "sunNeed": [
+        "ncsu-thymus-vulgaris"
+      ],
+      "variants.standard": [
+        "ncsu-thymus-vulgaris"
+      ],
+      "minWinterC": [
+        "ncsu-thymus-vulgaris"
+      ],
+      "calendar": [
+        "ncsu-thymus-vulgaris"
+      ],
+      "edibleParts": [
+        "ncsu-thymus-vulgaris"
+      ],
+      "phMin": [
+        "ncsu-thymus-vulgaris"
+      ],
+      "drainage": [
+        "ncsu-thymus-vulgaris"
+      ],
+      "roles": [
+        "ncsu-thymus-vulgaris"
+      ],
+      "origin": [
+        "ncsu-thymus-vulgaris"
+      ],
+      "grownIn": [
+        "rhs-herbs-thyme-guide"
+      ],
+      "water": [
+        "ncsu-thymus-vulgaris",
+        "rhs-herbs-thyme-guide"
+      ]
+    },
+    "origin": [
+      "europe"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "garden-sage",
+    "commonNames": [
+      "Garden sage",
+      "Sage"
+    ],
+    "commonNamesHu": [
+      "Orvosi zsálya",
+      "Kerti zsálya",
+      "Patika zsálya"
+    ],
+    "latinName": "Salvia officinalis",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.5,
+        "matureWidthM": 0.8,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "leaves",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "early-spring",
+        "to": "late-spring"
+      },
+      {
+        "task": "harvest",
+        "from": "early-spring",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Salvia+officinalis",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-salvia-officinalis",
+        "title": "Salvia officinalis (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/salvia-officinalis/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-herbs-sage-guide",
+        "title": "How to grow Sage (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/sage/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-orvosi-zsalya",
+        "title": "Orvosi zsálya (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Orvosi_zsálya",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-salvia-officinalis"
+      ],
+      "commonNamesHu": [
+        "huwiki-orvosi-zsalya"
+      ],
+      "latinName": [
+        "ncsu-salvia-officinalis"
+      ],
+      "layer": [
+        "ncsu-salvia-officinalis"
+      ],
+      "sunNeed": [
+        "ncsu-salvia-officinalis"
+      ],
+      "variants.standard": [
+        "ncsu-salvia-officinalis"
+      ],
+      "minWinterC": [
+        "ncsu-salvia-officinalis"
+      ],
+      "calendar": [
+        "ncsu-salvia-officinalis"
+      ],
+      "edibleParts": [
+        "ncsu-salvia-officinalis"
+      ],
+      "phMin": [
+        "ncsu-salvia-officinalis"
+      ],
+      "phMax": [
+        "ncsu-salvia-officinalis"
+      ],
+      "drainage": [
+        "ncsu-salvia-officinalis"
+      ],
+      "roles": [
+        "ncsu-salvia-officinalis"
+      ],
+      "origin": [
+        "ncsu-salvia-officinalis"
+      ],
+      "grownIn": [
+        "rhs-herbs-sage-guide"
+      ],
+      "water": [
+        "ncsu-salvia-officinalis",
+        "rhs-herbs-sage-guide"
+      ]
+    },
+    "origin": [
+      "europe"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "hyssop",
+    "commonNames": [
+      "Hyssop"
+    ],
+    "commonNamesHu": [
+      "Izsóp",
+      "Kerti izsóp"
+    ],
+    "latinName": "Hyssopus officinalis",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "part",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.5,
+        "matureWidthM": 0.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "leaves",
+      "young shoot tips",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "early-spring",
+        "to": "late-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Hyssopus+officinalis",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-hyssopus-officinalis",
+        "title": "Hyssopus officinalis (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/hyssopus-officinalis/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "huwiki-kerti-izsop",
+        "title": "Kerti izsóp (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Kerti_izsóp",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-hyssopus-officinalis"
+      ],
+      "commonNamesHu": [
+        "huwiki-kerti-izsop",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-hyssopus-officinalis"
+      ],
+      "layer": [
+        "ncsu-hyssopus-officinalis"
+      ],
+      "sunNeed": [
+        "ncsu-hyssopus-officinalis"
+      ],
+      "variants.standard": [
+        "ncsu-hyssopus-officinalis"
+      ],
+      "minWinterC": [
+        "ncsu-hyssopus-officinalis"
+      ],
+      "calendar": [
+        "ncsu-hyssopus-officinalis"
+      ],
+      "edibleParts": [
+        "ncsu-hyssopus-officinalis"
+      ],
+      "phMin": [
+        "ncsu-hyssopus-officinalis"
+      ],
+      "drainage": [
+        "ncsu-hyssopus-officinalis"
+      ],
+      "roles": [
+        "ncsu-hyssopus-officinalis"
+      ],
+      "origin": [
+        "ncsu-hyssopus-officinalis"
+      ],
+      "water": [
+        "ncsu-hyssopus-officinalis"
+      ]
+    },
+    "origin": [
+      "europe",
+      "africa",
+      "asia"
+    ]
+  },
+  {
+    "id": "tarragon",
+    "commonNames": [
+      "Tarragon"
+    ],
+    "commonNamesHu": [
+      "Tárkony",
+      "Esztragon"
+    ],
+    "latinName": "Artemisia dracunculus",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.6,
+        "matureWidthM": 0.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": null,
+    "edibleParts": [
+      "leaves",
+      "seeds"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "early-spring",
+        "to": "early-spring"
+      },
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "mid-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Artemisia+dracunculus",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-artemisia-dracunculus",
+        "title": "Artemisia dracunculus (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/artemisia-dracunculus/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "isu-herbs",
+        "title": "Growing, Harvesting, and Drying Herbs (Iowa State University Extension)",
+        "url": "https://yardandgarden.extension.iastate.edu/how-to/growing-harvesting-and-drying-herbs",
+        "licence": "Facts cited; © Iowa State University"
+      },
+      {
+        "id": "rhs-herbs-tarragon-guide",
+        "title": "How to grow Tarragon (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/tarragon/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-tarkony",
+        "title": "Tárkony (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Tárkony",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-artemisia-dracunculus"
+      ],
+      "commonNamesHu": [
+        "huwiki-tarkony",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-artemisia-dracunculus"
+      ],
+      "layer": [
+        "ncsu-artemisia-dracunculus"
+      ],
+      "sunNeed": [
+        "ncsu-artemisia-dracunculus"
+      ],
+      "variants.standard": [
+        "ncsu-artemisia-dracunculus"
+      ],
+      "minWinterC": [
+        "ncsu-artemisia-dracunculus"
+      ],
+      "calendar": [
+        "ncsu-artemisia-dracunculus",
+        "isu-herbs"
+      ],
+      "edibleParts": [
+        "ncsu-artemisia-dracunculus"
+      ],
+      "phMin": [
+        "ncsu-artemisia-dracunculus"
+      ],
+      "phMax": [
+        "ncsu-artemisia-dracunculus"
+      ],
+      "drainage": [
+        "ncsu-artemisia-dracunculus"
+      ],
+      "origin": [
+        "ncsu-artemisia-dracunculus"
+      ],
+      "grownIn": [
+        "rhs-herbs-tarragon-guide"
+      ],
+      "water": [
+        "rhs-herbs-tarragon-guide",
+        "ncsu-artemisia-dracunculus"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia",
+      "north-america"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "winter-savory",
+    "commonNames": [
+      "Winter savory"
+    ],
+    "commonNamesHu": [
+      "Hegyi pereszlény"
+    ],
+    "latinName": "Satureja montana",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.3,
+        "matureWidthM": 0.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "leaves",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "early-spring"
+      },
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "late-summer"
+      },
+      {
+        "task": "prune",
+        "from": "early-spring",
+        "to": "early-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Satureja+montana",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-satureja-montana",
+        "title": "Satureja montana (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/satureja-montana/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "huwiki-hegyi-pereszleny",
+        "title": "Hegyi pereszlény (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Hegyi_pereszlény",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-satureja-montana"
+      ],
+      "commonNamesHu": [
+        "huwiki-hegyi-pereszleny"
+      ],
+      "latinName": [
+        "ncsu-satureja-montana"
+      ],
+      "layer": [
+        "ncsu-satureja-montana"
+      ],
+      "sunNeed": [
+        "ncsu-satureja-montana"
+      ],
+      "variants.standard": [
+        "ncsu-satureja-montana"
+      ],
+      "minWinterC": [
+        "ncsu-satureja-montana"
+      ],
+      "calendar": [
+        "ncsu-satureja-montana"
+      ],
+      "edibleParts": [
+        "ncsu-satureja-montana"
+      ],
+      "drainage": [
+        "ncsu-satureja-montana"
+      ],
+      "roles": [
+        "ncsu-satureja-montana"
+      ],
+      "origin": [
+        "ncsu-satureja-montana"
+      ],
+      "water": [
+        "ncsu-satureja-montana"
+      ]
+    },
+    "origin": [
+      "asia",
+      "europe"
+    ]
+  },
+  {
+    "id": "sweet-marjoram",
+    "commonNames": [
+      "Sweet marjoram",
+      "Marjoram"
+    ],
+    "commonNamesHu": [
+      "Majoránna",
+      "Közönséges majoránna",
+      "Majoranna"
+    ],
+    "latinName": "Origanum majorana",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.5,
+        "matureWidthM": 0.5,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -6.6,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "leaves",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -2
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Origanum+majorana",
+    "annual": true,
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-origanum-majorana",
+        "title": "Origanum majorana (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/origanum-majorana/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-herbs-marjoram-guide",
+        "title": "How to grow Marjoram (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/marjoram/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-majoranna",
+        "title": "Majoránna (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Majoránna",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-origanum-majorana"
+      ],
+      "commonNamesHu": [
+        "huwiki-majoranna",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-origanum-majorana"
+      ],
+      "layer": [
+        "ncsu-origanum-majorana"
+      ],
+      "sunNeed": [
+        "ncsu-origanum-majorana"
+      ],
+      "variants.standard": [
+        "ncsu-origanum-majorana"
+      ],
+      "minWinterC": [
+        "ncsu-origanum-majorana"
+      ],
+      "calendar": [
+        "ncsu-origanum-majorana"
+      ],
+      "edibleParts": [
+        "ncsu-origanum-majorana"
+      ],
+      "phMin": [
+        "ncsu-origanum-majorana"
+      ],
+      "drainage": [
+        "ncsu-origanum-majorana"
+      ],
+      "roles": [
+        "ncsu-origanum-majorana"
+      ],
+      "grownIn": [
+        "rhs-herbs-marjoram-guide"
+      ],
+      "annual": [
+        "ncsu-origanum-majorana"
+      ],
+      "water": [
+        "ncsu-origanum-majorana",
+        "rhs-herbs-marjoram-guide"
+      ]
+    },
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "rhubarb",
+    "commonNames": [
+      "Rhubarb"
+    ],
+    "commonNamesHu": [
+      "Rebarbara"
+    ],
+    "latinName": "Rheum rhabarbarum",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.8,
+        "matureWidthM": 1.0,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 6.8,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": null,
+    "edibleParts": [
+      "leaf stalks"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -5
+      },
+      {
+        "task": "harvest",
+        "from": "late-spring",
+        "to": "early-summer"
+      }
+    ],
+    "firstHarvestYears": 2,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Rheum+rhabarbarum",
+    "sources": [
+      {
+        "id": "osu-ec797",
+        "title": "Grow your own rhubarb, EC 797 (Oregon State University Extension)",
+        "url": "https://extension.oregonstate.edu/catalog/ec-797-grow-your-own-rhubarb",
+        "licence": "Facts cited; © Oregon State University"
+      },
+      {
+        "id": "uw-rhubarb",
+        "title": "Rhubarb, Rheum rhabarbarum (University of Wisconsin Horticulture)",
+        "url": "https://hort.extension.wisc.edu/articles/rhubarb-rheum-rhabarbarum/",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      },
+      {
+        "id": "ncsu-rheum",
+        "title": "Rheum rhabarbarum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/rheum-rhabarbarum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "cbg-rheum-victoria",
+        "title": "Rheum rhabarbarum 'Victoria' (Chicago Botanic Garden Plant Finder)",
+        "url": "https://www.chicagobotanic.org/plant-information/plant-finder/rheum-rhabarbarum-victoria-rhubarb",
+        "licence": "Facts cited; © Chicago Botanic Garden"
+      },
+      {
+        "id": "rhs-vegetables-rhubarb-guide",
+        "title": "How to grow rhubarb (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/rhubarb/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-rebarbara",
+        "title": "Rebarbara (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Rebarbara",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "osu-ec797"
+      ],
+      "commonNamesHu": [
+        "huwiki-rebarbara"
+      ],
+      "latinName": [
+        "ncsu-rheum"
+      ],
+      "layer": [
+        "uw-rhubarb"
+      ],
+      "sunNeed": [
+        "uw-rhubarb"
+      ],
+      "variants.standard": [
+        "osu-ec797"
+      ],
+      "phMin": [
+        "osu-ec797"
+      ],
+      "phMax": [
+        "osu-ec797"
+      ],
+      "drainage": [
+        "uw-rhubarb"
+      ],
+      "minWinterC": [
+        "cbg-rheum-victoria"
+      ],
+      "edibleParts": [
+        "ncsu-rheum"
+      ],
+      "calendar": [
+        "uw-rhubarb",
+        "osu-ec797"
+      ],
+      "firstHarvestYears": [
+        "osu-ec797"
+      ],
+      "origin": [
+        "ncsu-rheum"
+      ],
+      "grownIn": [
+        "rhs-vegetables-rhubarb-guide"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "lemon-balm",
+    "commonNames": [
+      "Lemon balm"
+    ],
+    "commonNamesHu": [
+      "Citromfű"
+    ],
+    "latinName": "Melissa officinalis",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.5,
+        "matureWidthM": 0.7,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "leaves",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "late-spring"
+      },
+      {
+        "task": "plant",
+        "from": "early-autumn",
+        "to": "early-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Melissa+officinalis",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-melissa-officinalis",
+        "title": "Melissa officinalis (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/melissa-officinalis/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "uw-lemon-balm",
+        "title": "Lemon Balm, Melissa officinalis (University of Wisconsin Horticulture)",
+        "url": "https://hort.extension.wisc.edu/articles/lemon-balm-melissa-officinalis/",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      },
+      {
+        "id": "rhs-herbs-lemon-balm-guide",
+        "title": "How to grow Lemon balm (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/lemon-balm/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-citromfu",
+        "title": "Citromfű (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Citromfű",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-melissa-officinalis"
+      ],
+      "commonNamesHu": [
+        "huwiki-citromfu",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-melissa-officinalis"
+      ],
+      "layer": [
+        "ncsu-melissa-officinalis"
+      ],
+      "sunNeed": [
+        "uw-lemon-balm"
+      ],
+      "variants.standard": [
+        "ncsu-melissa-officinalis"
+      ],
+      "minWinterC": [
+        "uw-lemon-balm"
+      ],
+      "calendar": [
+        "uw-lemon-balm"
+      ],
+      "edibleParts": [
+        "ncsu-melissa-officinalis"
+      ],
+      "phMax": [
+        "ncsu-melissa-officinalis"
+      ],
+      "drainage": [
+        "ncsu-melissa-officinalis"
+      ],
+      "roles": [
+        "ncsu-melissa-officinalis"
+      ],
+      "origin": [
+        "ncsu-melissa-officinalis"
+      ],
+      "grownIn": [
+        "rhs-herbs-lemon-balm-guide"
+      ],
+      "water": [
+        "ncsu-melissa-officinalis"
+      ]
+    },
+    "origin": [
+      "europe",
+      "africa",
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "yarrow",
+    "commonNames": [
+      "Yarrow",
+      "Common yarrow"
+    ],
+    "commonNamesHu": [
+      "Közönséges cickafark",
+      "Orvosi cickafark"
+    ],
+    "latinName": "Achillea millefolium",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.6,
+        "matureWidthM": 0.7,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "leaves",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "late-spring",
+        "to": "late-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Achillea+millefolium",
+    "water": {
+      "minRainMm": 203
+    },
+    "sources": [
+      {
+        "id": "ncsu-achillea-millefolium",
+        "title": "Achillea millefolium (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/achillea-millefolium/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "il-yarrow",
+        "title": "Yarrow earns top honor as Herb of the Year (University of Illinois Extension)",
+        "url": "https://extension.illinois.edu/blogs/flowers-fruits-and-frass/2024-01-05-yarrow-earns-top-honor-herb-year",
+        "licence": "Facts cited; © University of Illinois"
+      },
+      {
+        "id": "usda-plants-acmi2",
+        "title": "Achillea millefolium (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/ACMI2",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-kozonseges-cickafark",
+        "title": "Közönséges cickafark (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Közönséges_cickafark",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-achillea-millefolium"
+      ],
+      "commonNamesHu": [
+        "huwiki-kozonseges-cickafark"
+      ],
+      "latinName": [
+        "ncsu-achillea-millefolium"
+      ],
+      "layer": [
+        "ncsu-achillea-millefolium"
+      ],
+      "sunNeed": [
+        "ncsu-achillea-millefolium"
+      ],
+      "variants.standard": [
+        "ncsu-achillea-millefolium"
+      ],
+      "minWinterC": [
+        "ncsu-achillea-millefolium"
+      ],
+      "calendar": [
+        "il-yarrow"
+      ],
+      "edibleParts": [
+        "ncsu-achillea-millefolium"
+      ],
+      "phMin": [
+        "ncsu-achillea-millefolium"
+      ],
+      "phMax": [
+        "ncsu-achillea-millefolium"
+      ],
+      "drainage": [
+        "ncsu-achillea-millefolium"
+      ],
+      "roles": [
+        "ncsu-achillea-millefolium"
+      ],
+      "origin": [
+        "ncsu-achillea-millefolium"
+      ],
+      "water": [
+        "usda-plants-acmi2"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia",
+      "north-america"
+    ]
+  },
+  {
+    "id": "bee-balm",
+    "commonNames": [
+      "Bee balm",
+      "Beebalm"
+    ],
+    "commonNamesHu": [
+      "Vörös méhbalzsam",
+      "Bíbor ápolka",
+      "Bergamott"
+    ],
+    "latinName": "Monarda didyma",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.9,
+        "matureWidthM": 0.8,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal",
+      "wet"
+    ],
+    "minWinterC": -34.4,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "early-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Monarda+didyma",
+    "water": {
+      "level": "high"
+    },
+    "sources": [
+      {
+        "id": "ncsu-monarda-didyma",
+        "title": "Monarda didyma (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/monarda-didyma/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "isu-bee-balm",
+        "title": "Growing Bee Balm in the Home Garden (Iowa State University Extension)",
+        "url": "https://yardandgarden.extension.iastate.edu/how-to/growing-bee-balm-home-garden",
+        "licence": "Facts cited; © Iowa State University"
+      },
+      {
+        "id": "huwiki-voros-mehbalzsam",
+        "title": "Vörös méhbalzsam (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Vörös_méhbalzsam",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-monarda-didyma"
+      ],
+      "commonNamesHu": [
+        "huwiki-voros-mehbalzsam"
+      ],
+      "latinName": [
+        "ncsu-monarda-didyma"
+      ],
+      "layer": [
+        "ncsu-monarda-didyma"
+      ],
+      "sunNeed": [
+        "isu-bee-balm",
+        "ncsu-monarda-didyma"
+      ],
+      "variants.standard": [
+        "ncsu-monarda-didyma"
+      ],
+      "minWinterC": [
+        "ncsu-monarda-didyma"
+      ],
+      "calendar": [
+        "isu-bee-balm"
+      ],
+      "edibleParts": [
+        "ncsu-monarda-didyma"
+      ],
+      "phMax": [
+        "ncsu-monarda-didyma"
+      ],
+      "drainage": [
+        "ncsu-monarda-didyma"
+      ],
+      "roles": [
+        "ncsu-monarda-didyma",
+        "isu-bee-balm"
+      ],
+      "origin": [
+        "ncsu-monarda-didyma"
+      ],
+      "water": [
+        "isu-bee-balm"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ]
+  },
+  {
+    "id": "anise-hyssop",
+    "commonNames": [
+      "Anise hyssop"
+    ],
+    "commonNamesHu": [
+      "Ánizsillatú izsópfű",
+      "Ánizsizsóp",
+      "Ánizsmenta"
+    ],
+    "latinName": "Agastache foeniculum",
+    "family": null,
+    "layer": "herbaceous",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 1.2,
+        "matureWidthM": 0.7,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "leaves",
+      "seeds",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "late-spring"
+      },
+      {
+        "task": "plant",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Agastache+foeniculum",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-agastache-foeniculum",
+        "title": "Agastache foeniculum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/agastache-foeniculum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "huwiki-anizsillatu-izsopfu",
+        "title": "Ánizsillatú izsópfű (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Ánizsillatú_izsópfű",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-agastache-foeniculum"
+      ],
+      "commonNamesHu": [
+        "huwiki-anizsillatu-izsopfu"
+      ],
+      "latinName": [
+        "ncsu-agastache-foeniculum"
+      ],
+      "layer": [
+        "ncsu-agastache-foeniculum"
+      ],
+      "sunNeed": [
+        "ncsu-agastache-foeniculum"
+      ],
+      "variants.standard": [
+        "ncsu-agastache-foeniculum"
+      ],
+      "minWinterC": [
+        "ncsu-agastache-foeniculum"
+      ],
+      "calendar": [
+        "ncsu-agastache-foeniculum"
+      ],
+      "edibleParts": [
+        "ncsu-agastache-foeniculum"
+      ],
+      "drainage": [
+        "ncsu-agastache-foeniculum"
+      ],
+      "roles": [
+        "ncsu-agastache-foeniculum"
+      ],
+      "origin": [
+        "ncsu-agastache-foeniculum"
+      ],
+      "water": [
+        "ncsu-agastache-foeniculum"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ]
+  }
+]

@@ -1,0 +1,3628 @@
+[
+  {
+    "id": "english-walnut",
+    "commonNames": [
+      "English walnut",
+      "Persian walnut"
+    ],
+    "commonNamesHu": [
+      "Dió",
+      "Közönséges dió"
+    ],
+    "latinName": "Juglans regia",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 15.2,
+        "matureWidthM": 15.2,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6,
+    "phMax": 8,
+    "textures": [
+      "clay",
+      "loamy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": [
+      "nuts"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Juglans+regia",
+    "water": {
+      "minRainMm": 711
+    },
+    "sources": [
+      {
+        "id": "ncsu-juglans-regia",
+        "title": "Juglans regia (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/juglans-regia/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "osu-landscape-walnut",
+        "title": "Juglans regia (Oregon State University Landscape Plants)",
+        "url": "https://landscapeplants.oregonstate.edu/plants/juglans-regia",
+        "licence": "Facts cited; © Oregon State University"
+      },
+      {
+        "id": "usda-plants-jure80",
+        "title": "Juglans regia (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/JURE80",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-kozonseges-dio",
+        "title": "Közönséges dió (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Közönséges_dió",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-juglans-regia"
+      ],
+      "sunNeed": [
+        "ncsu-juglans-regia"
+      ],
+      "leafHabit": [
+        "ncsu-juglans-regia"
+      ],
+      "variants.standard": [
+        "ncsu-juglans-regia"
+      ],
+      "minWinterC": [
+        "osu-landscape-walnut"
+      ],
+      "edibleParts": [
+        "ncsu-juglans-regia"
+      ],
+      "phMin": [
+        "ncsu-juglans-regia"
+      ],
+      "phMax": [
+        "ncsu-juglans-regia"
+      ],
+      "textures": [
+        "ncsu-juglans-regia"
+      ],
+      "drainage": [
+        "ncsu-juglans-regia"
+      ],
+      "commonNames": [
+        "ncsu-juglans-regia"
+      ],
+      "commonNamesHu": [
+        "huwiki-kozonseges-dio",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "ncsu-juglans-regia"
+      ],
+      "calendar": [
+        "ncsu-juglans-regia"
+      ],
+      "origin": [
+        "ncsu-juglans-regia"
+      ],
+      "water": [
+        "usda-plants-jure80"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia"
+    ]
+  },
+  {
+    "id": "black-walnut",
+    "commonNames": [
+      "Black walnut"
+    ],
+    "commonNamesHu": [
+      "Fekete dió"
+    ],
+    "latinName": "Juglans nigra",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 19.1,
+        "matureWidthM": 18.3,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": 8,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal",
+      "wet"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "nuts"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "mid-autumn",
+        "to": "mid-autumn"
+      }
+    ],
+    "firstHarvestYears": 6,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Juglans+nigra",
+    "water": {
+      "minRainMm": 762
+    },
+    "sources": [
+      {
+        "id": "ncsu-juglans-nigra",
+        "title": "Juglans nigra (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/juglans-nigra/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "uga-black-walnut",
+        "title": "Did you know you can grow: Black walnut (University of Georgia Extension field report)",
+        "url": "https://fieldreport.caes.uga.edu/features/did-you-know-you-can-grow-black-walnut/",
+        "licence": "Facts cited; © University of Georgia"
+      },
+      {
+        "id": "usda-plants-juni",
+        "title": "Juglans nigra (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/JUNI",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-fekete-dio",
+        "title": "Fekete dió (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Fekete_dió",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-juglans-nigra"
+      ],
+      "sunNeed": [
+        "ncsu-juglans-nigra",
+        "uga-black-walnut"
+      ],
+      "leafHabit": [
+        "ncsu-juglans-nigra"
+      ],
+      "variants.standard": [
+        "ncsu-juglans-nigra"
+      ],
+      "minWinterC": [
+        "ncsu-juglans-nigra"
+      ],
+      "edibleParts": [
+        "ncsu-juglans-nigra"
+      ],
+      "phMax": [
+        "ncsu-juglans-nigra"
+      ],
+      "textures": [
+        "ncsu-juglans-nigra"
+      ],
+      "drainage": [
+        "ncsu-juglans-nigra"
+      ],
+      "firstHarvestYears": [
+        "ncsu-juglans-nigra"
+      ],
+      "commonNames": [
+        "ncsu-juglans-nigra"
+      ],
+      "commonNamesHu": [
+        "huwiki-fekete-dio"
+      ],
+      "latinName": [
+        "ncsu-juglans-nigra"
+      ],
+      "calendar": [
+        "ncsu-juglans-nigra"
+      ],
+      "origin": [
+        "ncsu-juglans-nigra"
+      ],
+      "water": [
+        "usda-plants-juni"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ]
+  },
+  {
+    "id": "sweet-chestnut",
+    "commonNames": [
+      "Sweet chestnut",
+      "European chestnut"
+    ],
+    "commonNamesHu": [
+      "Szelídgesztenye",
+      "Gesztenye"
+    ],
+    "latinName": "Castanea sativa",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 27.4,
+        "matureWidthM": 12.2,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": 8,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": [
+      "nuts"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "mid-autumn",
+        "to": "mid-autumn"
+      }
+    ],
+    "firstHarvestYears": 6,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Castanea+sativa",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-castanea-sativa",
+        "title": "Castanea sativa (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/castanea-sativa/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "osu-ec819",
+        "title": "Growing tree fruits and nuts at home (Oregon State University Extension, EC 819)",
+        "url": "https://extension.oregonstate.edu/catalog/ec-819-growing-tree-fruits-nuts-home",
+        "licence": "Facts cited; © Oregon State University"
+      },
+      {
+        "id": "huwiki-szelidgesztenye",
+        "title": "Szelídgesztenye (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Szelídgesztenye",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-castanea-sativa"
+      ],
+      "sunNeed": [
+        "ncsu-castanea-sativa"
+      ],
+      "leafHabit": [
+        "ncsu-castanea-sativa"
+      ],
+      "variants.standard": [
+        "ncsu-castanea-sativa"
+      ],
+      "minWinterC": [
+        "ncsu-castanea-sativa"
+      ],
+      "edibleParts": [
+        "ncsu-castanea-sativa"
+      ],
+      "phMax": [
+        "ncsu-castanea-sativa"
+      ],
+      "textures": [
+        "ncsu-castanea-sativa"
+      ],
+      "drainage": [
+        "ncsu-castanea-sativa"
+      ],
+      "commonNames": [
+        "ncsu-castanea-sativa"
+      ],
+      "commonNamesHu": [
+        "huwiki-szelidgesztenye",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "ncsu-castanea-sativa"
+      ],
+      "calendar": [
+        "ncsu-castanea-sativa"
+      ],
+      "firstHarvestYears": [
+        "osu-ec819"
+      ],
+      "origin": [
+        "ncsu-castanea-sativa"
+      ],
+      "water": [
+        "ncsu-castanea-sativa"
+      ]
+    },
+    "origin": [
+      "asia",
+      "europe"
+    ]
+  },
+  {
+    "id": "chinese-chestnut",
+    "commonNames": [
+      "Chinese chestnut"
+    ],
+    "commonNamesHu": [
+      "Kínai gesztenye"
+    ],
+    "latinName": "Castanea mollissima",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 15.2,
+        "matureWidthM": 15.2,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": 8,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": [
+      "nuts"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "mid-autumn"
+      }
+    ],
+    "firstHarvestYears": 6,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Castanea+mollissima",
+    "water": {
+      "minRainMm": 889
+    },
+    "sources": [
+      {
+        "id": "ncsu-castanea-mollissima",
+        "title": "Castanea mollissima (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/castanea-mollissima/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "osu-ec819",
+        "title": "Growing tree fruits and nuts at home (Oregon State University Extension, EC 819)",
+        "url": "https://extension.oregonstate.edu/catalog/ec-819-growing-tree-fruits-nuts-home",
+        "licence": "Facts cited; © Oregon State University"
+      },
+      {
+        "id": "arnold-chinese-chestnut",
+        "title": "Castanea mollissima: A Chinese Chestnut for the Northeast (Arnold Arboretum of Harvard University)",
+        "url": "https://arboretum.harvard.edu/arnoldia-stories/castanea-mollissima-a-chinese-chestnut-for-the-northeast/",
+        "licence": "Facts cited; © President and Fellows of Harvard College"
+      },
+      {
+        "id": "usda-plants-camo83",
+        "title": "Castanea mollissima (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/CAMO83",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-kinai-gesztenye",
+        "title": "Kínai gesztenye (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Kínai_gesztenye",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-castanea-mollissima"
+      ],
+      "sunNeed": [
+        "ncsu-castanea-mollissima",
+        "arnold-chinese-chestnut"
+      ],
+      "leafHabit": [
+        "ncsu-castanea-mollissima"
+      ],
+      "variants.standard": [
+        "ncsu-castanea-mollissima"
+      ],
+      "minWinterC": [
+        "arnold-chinese-chestnut"
+      ],
+      "edibleParts": [
+        "ncsu-castanea-mollissima"
+      ],
+      "phMax": [
+        "ncsu-castanea-mollissima"
+      ],
+      "textures": [
+        "ncsu-castanea-mollissima"
+      ],
+      "drainage": [
+        "ncsu-castanea-mollissima"
+      ],
+      "commonNames": [
+        "ncsu-castanea-mollissima"
+      ],
+      "commonNamesHu": [
+        "huwiki-kinai-gesztenye"
+      ],
+      "latinName": [
+        "ncsu-castanea-mollissima"
+      ],
+      "calendar": [
+        "ncsu-castanea-mollissima"
+      ],
+      "firstHarvestYears": [
+        "osu-ec819"
+      ],
+      "origin": [
+        "ncsu-castanea-mollissima"
+      ],
+      "water": [
+        "usda-plants-camo83"
+      ]
+    },
+    "origin": [
+      "asia"
+    ]
+  },
+  {
+    "id": "red-mulberry",
+    "commonNames": [
+      "Red mulberry",
+      "Mulberry"
+    ],
+    "commonNamesHu": [
+      "Vörös eperfa"
+    ],
+    "latinName": "Morus rubra",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 13.0,
+        "matureWidthM": 11.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "ripe fruit"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "late-autumn",
+        "to": "late-winter"
+      },
+      {
+        "task": "harvest",
+        "from": "late-spring",
+        "to": "early-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Morus+rubra",
+    "water": {
+      "minRainMm": 889
+    },
+    "sources": [
+      {
+        "id": "ncsu-morus-rubra",
+        "title": "Morus rubra (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/morus-rubra/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "usda-plants-moru2",
+        "title": "Morus rubra (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/MORU2",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "gardener-hu-2026-10-27",
+        "title": "Hungarian name chosen by the Plot Twist gardener (no published source)",
+        "url": "https://github.com/mrgarris0n/plot-twist/blob/main/data/plants/SOURCES.md#gardener-hungarian-names-2026-10-27",
+        "licence": "Project decision; no third-party text"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-morus-rubra"
+      ],
+      "sunNeed": [
+        "ncsu-morus-rubra"
+      ],
+      "leafHabit": [
+        "ncsu-morus-rubra"
+      ],
+      "variants.standard": [
+        "ncsu-morus-rubra"
+      ],
+      "minWinterC": [
+        "ncsu-morus-rubra"
+      ],
+      "edibleParts": [
+        "ncsu-morus-rubra"
+      ],
+      "textures": [
+        "ncsu-morus-rubra"
+      ],
+      "drainage": [
+        "ncsu-morus-rubra"
+      ],
+      "commonNames": [
+        "ncsu-morus-rubra"
+      ],
+      "latinName": [
+        "ncsu-morus-rubra"
+      ],
+      "calendar": [
+        "ncsu-morus-rubra"
+      ],
+      "origin": [
+        "ncsu-morus-rubra"
+      ],
+      "water": [
+        "usda-plants-moru2"
+      ],
+      "commonNamesHu": [
+        "gardener-hu-2026-10-27"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ]
+  },
+  {
+    "id": "american-persimmon",
+    "commonNames": [
+      "American persimmon",
+      "Common persimmon"
+    ],
+    "latinName": "Diospyros virginiana",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "part",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 16.8,
+        "matureWidthM": 8.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "early-winter"
+      }
+    ],
+    "firstHarvestYears": 3,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Diospyros+virginiana",
+    "water": {
+      "minRainMm": 762
+    },
+    "sources": [
+      {
+        "id": "ncsu-diospyros-virginiana",
+        "title": "Diospyros virginiana (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/diospyros-virginiana/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "usda-plants-divi5",
+        "title": "Diospyros virginiana (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/DIVI5",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "agrovoc-c_2306",
+        "title": "Diospyros virginiana (AGROVOC, FAO)",
+        "url": "https://agrovoc.fao.org/browse/agrovoc/en/page/c_2306",
+        "licence": "Facts cited; name only, no text copied; AGROVOC © FAO and contributing institutions"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-diospyros-virginiana"
+      ],
+      "sunNeed": [
+        "ncsu-diospyros-virginiana"
+      ],
+      "leafHabit": [
+        "ncsu-diospyros-virginiana"
+      ],
+      "variants.standard": [
+        "ncsu-diospyros-virginiana"
+      ],
+      "minWinterC": [
+        "ncsu-diospyros-virginiana"
+      ],
+      "edibleParts": [
+        "ncsu-diospyros-virginiana"
+      ],
+      "textures": [
+        "ncsu-diospyros-virginiana"
+      ],
+      "drainage": [
+        "ncsu-diospyros-virginiana"
+      ],
+      "commonNames": [
+        "ncsu-diospyros-virginiana"
+      ],
+      "latinName": [
+        "ncsu-diospyros-virginiana"
+      ],
+      "calendar": [
+        "ncsu-diospyros-virginiana"
+      ],
+      "firstHarvestYears": [
+        "ncsu-diospyros-virginiana"
+      ],
+      "origin": [
+        "ncsu-diospyros-virginiana"
+      ],
+      "water": [
+        "usda-plants-divi5"
+      ],
+      "commonNamesHu": [
+        "agrovoc-c_2306"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ],
+    "commonNamesHu": [
+      "Amerikai datolyaszilva"
+    ]
+  },
+  {
+    "id": "asian-persimmon",
+    "commonNames": [
+      "Asian persimmon",
+      "Japanese persimmon",
+      "Kaki"
+    ],
+    "commonNamesHu": [
+      "Datolyaszilva",
+      "Kakiszilva"
+    ],
+    "latinName": "Diospyros kaki",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 7.6,
+        "matureWidthM": 6.1,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6,
+    "phMax": 8,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -17.7,
+    "roles": null,
+    "edibleParts": [
+      "fruit",
+      "leaves (tea)"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "early-winter"
+      }
+    ],
+    "firstHarvestYears": 5,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Diospyros+kaki",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-diospyros-kaki",
+        "title": "Diospyros kaki (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/diospyros-kaki/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "huwiki-datolyaszilva",
+        "title": "Datolyaszilva (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Datolyaszilva",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-diospyros-kaki"
+      ],
+      "sunNeed": [
+        "ncsu-diospyros-kaki"
+      ],
+      "leafHabit": [
+        "ncsu-diospyros-kaki"
+      ],
+      "variants.standard": [
+        "ncsu-diospyros-kaki"
+      ],
+      "minWinterC": [
+        "ncsu-diospyros-kaki"
+      ],
+      "edibleParts": [
+        "ncsu-diospyros-kaki"
+      ],
+      "phMin": [
+        "ncsu-diospyros-kaki"
+      ],
+      "phMax": [
+        "ncsu-diospyros-kaki"
+      ],
+      "textures": [
+        "ncsu-diospyros-kaki"
+      ],
+      "drainage": [
+        "ncsu-diospyros-kaki"
+      ],
+      "firstHarvestYears": [
+        "ncsu-diospyros-kaki"
+      ],
+      "commonNames": [
+        "ncsu-diospyros-kaki"
+      ],
+      "commonNamesHu": [
+        "huwiki-datolyaszilva"
+      ],
+      "latinName": [
+        "ncsu-diospyros-kaki"
+      ],
+      "calendar": [
+        "ncsu-diospyros-kaki"
+      ],
+      "origin": [
+        "ncsu-diospyros-kaki"
+      ],
+      "water": [
+        "ncsu-diospyros-kaki"
+      ]
+    },
+    "origin": [
+      "asia"
+    ]
+  },
+  {
+    "id": "pawpaw",
+    "commonNames": [
+      "Pawpaw",
+      "Common pawpaw"
+    ],
+    "commonNamesHu": [
+      "Indiánbanán",
+      "Pawpaw",
+      "Papau"
+    ],
+    "latinName": "Asimina triloba",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 6.9,
+        "matureWidthM": 6.9,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": 6,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal",
+      "wet"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": [
+      "ripe fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "late-summer",
+        "to": "mid-autumn"
+      }
+    ],
+    "firstHarvestYears": 2.5,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Asimina+triloba",
+    "water": {
+      "minRainMm": 914
+    },
+    "sources": [
+      {
+        "id": "ncsu-asimina-triloba",
+        "title": "Asimina triloba (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/asimina-triloba/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "kysu-pawpaw",
+        "title": "Questions About Pawpaw? (Kentucky State University)",
+        "url": "https://www.kysu.edu/academics/college-ahnr/school-of-anr/pawpaw/questions-about-pawpaw.php",
+        "licence": "Facts cited; © Kentucky State University"
+      },
+      {
+        "id": "usda-plants-astr",
+        "title": "Asimina triloba (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/ASTR",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-pawpaw",
+        "title": "Pawpaw (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Pawpaw",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-asimina-triloba"
+      ],
+      "sunNeed": [
+        "ncsu-asimina-triloba"
+      ],
+      "leafHabit": [
+        "ncsu-asimina-triloba"
+      ],
+      "variants.standard": [
+        "ncsu-asimina-triloba"
+      ],
+      "minWinterC": [
+        "ncsu-asimina-triloba"
+      ],
+      "edibleParts": [
+        "ncsu-asimina-triloba"
+      ],
+      "phMax": [
+        "ncsu-asimina-triloba"
+      ],
+      "drainage": [
+        "ncsu-asimina-triloba"
+      ],
+      "commonNames": [
+        "ncsu-asimina-triloba"
+      ],
+      "commonNamesHu": [
+        "huwiki-pawpaw"
+      ],
+      "latinName": [
+        "ncsu-asimina-triloba"
+      ],
+      "calendar": [
+        "ncsu-asimina-triloba"
+      ],
+      "firstHarvestYears": [
+        "kysu-pawpaw"
+      ],
+      "origin": [
+        "ncsu-asimina-triloba"
+      ],
+      "water": [
+        "usda-plants-astr"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ]
+  },
+  {
+    "id": "elder",
+    "commonNames": [
+      "Elder",
+      "Elderberry"
+    ],
+    "commonNamesHu": [
+      "Fekete bodza",
+      "Feketebodza"
+    ],
+    "latinName": "Sambucus nigra",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 4.6,
+        "matureWidthM": 4.3,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": [
+      "flowers",
+      "ripe berries"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "mid-autumn"
+      }
+    ],
+    "firstHarvestYears": 2.5,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Sambucus+nigra",
+    "water": {
+      "level": "medium"
+    },
+    "sources": [
+      {
+        "id": "ncsu-sambucus-nigra",
+        "title": "Sambucus nigra (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/sambucus-nigra/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "msu-elderberry",
+        "title": "Growing elderberry in the garden (Michigan State University Extension)",
+        "url": "https://www.canr.msu.edu/news/elderberries_an_edible_landscape_plant",
+        "licence": "Facts cited; © Michigan State University"
+      },
+      {
+        "id": "huwiki-fekete-bodza",
+        "title": "Fekete bodza (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Fekete_bodza",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-sambucus-nigra"
+      ],
+      "sunNeed": [
+        "ncsu-sambucus-nigra"
+      ],
+      "leafHabit": [
+        "ncsu-sambucus-nigra"
+      ],
+      "variants.standard": [
+        "ncsu-sambucus-nigra"
+      ],
+      "minWinterC": [
+        "ncsu-sambucus-nigra"
+      ],
+      "edibleParts": [
+        "ncsu-sambucus-nigra"
+      ],
+      "textures": [
+        "ncsu-sambucus-nigra"
+      ],
+      "drainage": [
+        "ncsu-sambucus-nigra"
+      ],
+      "commonNames": [
+        "ncsu-sambucus-nigra"
+      ],
+      "commonNamesHu": [
+        "huwiki-fekete-bodza",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "ncsu-sambucus-nigra"
+      ],
+      "calendar": [
+        "ncsu-sambucus-nigra"
+      ],
+      "firstHarvestYears": [
+        "msu-elderberry"
+      ],
+      "origin": [
+        "ncsu-sambucus-nigra"
+      ],
+      "water": [
+        "ncsu-sambucus-nigra"
+      ]
+    },
+    "origin": [
+      "europe"
+    ]
+  },
+  {
+    "id": "cornelian-cherry",
+    "commonNames": [
+      "Cornelian cherry"
+    ],
+    "commonNamesHu": [
+      "Húsos som"
+    ],
+    "latinName": "Cornus mas",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "part",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 6.1,
+        "matureWidthM": 5.3,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "mid-summer",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Cornus+mas",
+    "water": {
+      "minRainMm": 762
+    },
+    "sources": [
+      {
+        "id": "ncsu-cornus-mas",
+        "title": "Cornus mas (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/cornus-mas/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "vt-cornelian-cherry",
+        "title": "Cornelian Cherry Dogwood, Cornus mas (Virginia Tech Cooperative Extension)",
+        "url": "https://www.pubs.ext.vt.edu/3010/3010-1472/3010-1472.html",
+        "licence": "Facts cited; © Virginia Polytechnic Institute and State University"
+      },
+      {
+        "id": "usda-plants-coma21",
+        "title": "Cornus mas (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/COMA21",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-husos-som",
+        "title": "Húsos som (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Húsos_som",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-cornus-mas"
+      ],
+      "sunNeed": [
+        "ncsu-cornus-mas"
+      ],
+      "leafHabit": [
+        "ncsu-cornus-mas"
+      ],
+      "variants.standard": [
+        "ncsu-cornus-mas"
+      ],
+      "minWinterC": [
+        "ncsu-cornus-mas"
+      ],
+      "edibleParts": [
+        "ncsu-cornus-mas"
+      ],
+      "textures": [
+        "ncsu-cornus-mas"
+      ],
+      "drainage": [
+        "ncsu-cornus-mas"
+      ],
+      "commonNames": [
+        "ncsu-cornus-mas"
+      ],
+      "commonNamesHu": [
+        "huwiki-husos-som"
+      ],
+      "latinName": [
+        "ncsu-cornus-mas"
+      ],
+      "calendar": [
+        "ncsu-cornus-mas",
+        "vt-cornelian-cherry"
+      ],
+      "origin": [
+        "ncsu-cornus-mas"
+      ],
+      "water": [
+        "usda-plants-coma21"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia"
+    ]
+  },
+  {
+    "id": "serviceberry",
+    "commonNames": [
+      "Serviceberry",
+      "Juneberry"
+    ],
+    "commonNamesHu": [
+      "Kanadai fanyarka"
+    ],
+    "latinName": "Amelanchier canadensis",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "part",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 6.1,
+        "matureWidthM": 5.3,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal",
+      "wet"
+    ],
+    "minWinterC": -40.0,
+    "roles": null,
+    "edibleParts": [
+      "berries"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "late-spring",
+        "to": "early-summer"
+      }
+    ],
+    "firstHarvestYears": 4,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Amelanchier+canadensis",
+    "water": {
+      "minRainMm": 762
+    },
+    "sources": [
+      {
+        "id": "ncsu-amelanchier-canadensis",
+        "title": "Amelanchier canadensis (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/amelanchier-canadensis/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "usu-serviceberry",
+        "title": "How to Grow Serviceberries in Your Garden (Utah State University Extension)",
+        "url": "https://extension.usu.edu/yardandgarden/research/serviceberry-in-the-garden",
+        "licence": "Facts cited; © Utah State University"
+      },
+      {
+        "id": "usda-plants-amca4",
+        "title": "Amelanchier canadensis (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/AMCA4",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-kanadai-fanyarka",
+        "title": "Kanadai fanyarka (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Kanadai_fanyarka",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-amelanchier-canadensis"
+      ],
+      "sunNeed": [
+        "ncsu-amelanchier-canadensis"
+      ],
+      "leafHabit": [
+        "ncsu-amelanchier-canadensis"
+      ],
+      "variants.standard": [
+        "ncsu-amelanchier-canadensis"
+      ],
+      "minWinterC": [
+        "ncsu-amelanchier-canadensis"
+      ],
+      "edibleParts": [
+        "ncsu-amelanchier-canadensis"
+      ],
+      "textures": [
+        "ncsu-amelanchier-canadensis"
+      ],
+      "drainage": [
+        "ncsu-amelanchier-canadensis"
+      ],
+      "commonNames": [
+        "ncsu-amelanchier-canadensis"
+      ],
+      "commonNamesHu": [
+        "huwiki-kanadai-fanyarka"
+      ],
+      "latinName": [
+        "ncsu-amelanchier-canadensis"
+      ],
+      "calendar": [
+        "ncsu-amelanchier-canadensis"
+      ],
+      "firstHarvestYears": [
+        "usu-serviceberry"
+      ],
+      "origin": [
+        "ncsu-amelanchier-canadensis"
+      ],
+      "water": [
+        "usda-plants-amca4"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ]
+  },
+  {
+    "id": "shagbark-hickory",
+    "commonNames": [
+      "Shagbark hickory"
+    ],
+    "commonNamesHu": [
+      "Fehér hikoridió",
+      "Foszlós kérgű hikoridió"
+    ],
+    "latinName": "Carya ovata",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "part",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 24.4,
+        "matureWidthM": 18.3,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": 8,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "nuts"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "mid-autumn",
+        "to": "mid-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Carya+ovata",
+    "water": {
+      "minRainMm": 737
+    },
+    "sources": [
+      {
+        "id": "ncsu-carya-ovata",
+        "title": "Carya ovata (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/carya-ovata/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "usda-plants-caov2",
+        "title": "Carya ovata (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/CAOV2",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-feher-hikoridio",
+        "title": "Fehér hikoridió (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Fehér_hikoridió",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-carya-ovata"
+      ],
+      "sunNeed": [
+        "ncsu-carya-ovata"
+      ],
+      "leafHabit": [
+        "ncsu-carya-ovata"
+      ],
+      "variants.standard": [
+        "ncsu-carya-ovata"
+      ],
+      "minWinterC": [
+        "ncsu-carya-ovata"
+      ],
+      "edibleParts": [
+        "ncsu-carya-ovata"
+      ],
+      "phMax": [
+        "ncsu-carya-ovata"
+      ],
+      "textures": [
+        "ncsu-carya-ovata"
+      ],
+      "drainage": [
+        "ncsu-carya-ovata"
+      ],
+      "commonNames": [
+        "ncsu-carya-ovata"
+      ],
+      "commonNamesHu": [
+        "huwiki-feher-hikoridio"
+      ],
+      "latinName": [
+        "ncsu-carya-ovata"
+      ],
+      "calendar": [
+        "ncsu-carya-ovata"
+      ],
+      "origin": [
+        "ncsu-carya-ovata"
+      ],
+      "water": [
+        "usda-plants-caov2"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ]
+  },
+  {
+    "id": "pecan",
+    "commonNames": [
+      "Pecan",
+      "Hardy pecan"
+    ],
+    "commonNamesHu": [
+      "Pekándió"
+    ],
+    "latinName": "Carya illinoinensis",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 25.9,
+        "matureWidthM": 17.5,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal",
+      "wet"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": [
+      "nuts"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": 6,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Carya+illinoinensis",
+    "water": {
+      "minRainMm": 711
+    },
+    "sources": [
+      {
+        "id": "ncsu-carya-illinoinensis",
+        "title": "Carya illinoinensis (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/carya-illinoinensis/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "ncsu-handbook-trees",
+        "title": "Tree Fruit and Nuts (NC State Extension Gardener Handbook)",
+        "url": "https://content.ces.ncsu.edu/extension-gardener-handbook/15-tree-fruit-and-nuts",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "okstate-pecan",
+        "title": "Managing Pecans in the Home Landscape (Oklahoma State University Extension)",
+        "url": "https://extension.okstate.edu/fact-sheets/managing-pecans-in-the-home-landscape",
+        "licence": "Facts cited; © Oklahoma State University"
+      },
+      {
+        "id": "usda-plants-cail2",
+        "title": "Carya illinoinensis (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/CAIL2",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-pekandio",
+        "title": "Pekándió (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Pekándió",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-carya-illinoinensis"
+      ],
+      "sunNeed": [
+        "ncsu-carya-illinoinensis",
+        "okstate-pecan"
+      ],
+      "leafHabit": [
+        "ncsu-carya-illinoinensis"
+      ],
+      "variants.standard": [
+        "ncsu-carya-illinoinensis"
+      ],
+      "minWinterC": [
+        "ncsu-carya-illinoinensis"
+      ],
+      "edibleParts": [
+        "ncsu-carya-illinoinensis"
+      ],
+      "textures": [
+        "ncsu-carya-illinoinensis"
+      ],
+      "drainage": [
+        "ncsu-carya-illinoinensis"
+      ],
+      "commonNames": [
+        "ncsu-carya-illinoinensis"
+      ],
+      "commonNamesHu": [
+        "huwiki-pekandio"
+      ],
+      "latinName": [
+        "ncsu-carya-illinoinensis"
+      ],
+      "calendar": [
+        "ncsu-carya-illinoinensis"
+      ],
+      "firstHarvestYears": [
+        "ncsu-handbook-trees"
+      ],
+      "origin": [
+        "ncsu-carya-illinoinensis"
+      ],
+      "water": [
+        "usda-plants-cail2"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ]
+  },
+  {
+    "id": "asian-pear",
+    "commonNames": [
+      "Asian pear",
+      "Chinese pear"
+    ],
+    "commonNamesHu": [
+      "Japán körte",
+      "Ázsiai körte"
+    ],
+    "latinName": "Pyrus pyrifolia",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 9.1,
+        "matureWidthM": 8.5,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": 8,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "early-winter",
+        "to": "late-winter"
+      },
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Pyrus+pyrifolia",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-pyrus-pyrifolia",
+        "title": "Pyrus pyrifolia (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/pyrus-pyrifolia/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "umn-growing-pears",
+        "title": "Growing pears in the home garden (University of Minnesota Extension)",
+        "url": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/growing-pears",
+        "licence": "Facts cited; © Regents of the University of Minnesota"
+      },
+      {
+        "id": "huwiki-japan-korte",
+        "title": "Japán körte (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Japán_körte",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-pyrus-pyrifolia"
+      ],
+      "sunNeed": [
+        "ncsu-pyrus-pyrifolia",
+        "umn-growing-pears"
+      ],
+      "leafHabit": [
+        "ncsu-pyrus-pyrifolia"
+      ],
+      "variants.standard": [
+        "ncsu-pyrus-pyrifolia"
+      ],
+      "minWinterC": [
+        "ncsu-pyrus-pyrifolia"
+      ],
+      "edibleParts": [
+        "ncsu-pyrus-pyrifolia"
+      ],
+      "phMax": [
+        "ncsu-pyrus-pyrifolia"
+      ],
+      "textures": [
+        "ncsu-pyrus-pyrifolia"
+      ],
+      "drainage": [
+        "ncsu-pyrus-pyrifolia"
+      ],
+      "commonNames": [
+        "ncsu-pyrus-pyrifolia"
+      ],
+      "commonNamesHu": [
+        "huwiki-japan-korte",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "ncsu-pyrus-pyrifolia"
+      ],
+      "calendar": [
+        "ncsu-pyrus-pyrifolia"
+      ],
+      "origin": [
+        "ncsu-pyrus-pyrifolia"
+      ],
+      "water": [
+        "ncsu-pyrus-pyrifolia"
+      ]
+    },
+    "origin": [
+      "asia"
+    ]
+  },
+  {
+    "id": "jujube",
+    "commonNames": [
+      "Jujube",
+      "Chinese date"
+    ],
+    "commonNamesHu": [
+      "Jujuba",
+      "Kínai datolya"
+    ],
+    "latinName": "Ziziphus jujuba",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 6.9,
+        "matureWidthM": 6.1,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -23.3,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "late-summer",
+        "to": "mid-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Ziziphus+jujuba",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-ziziphus-jujuba",
+        "title": "Ziziphus jujuba (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/ziziphus-jujuba/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "nmsu-jujube",
+        "title": "Jujube: Chinese Date in New Mexico, H-330 (New Mexico State University)",
+        "url": "https://pubs.nmsu.edu/_h/H330/",
+        "licence": "Facts cited; © New Mexico State University"
+      },
+      {
+        "id": "huwiki-jujuba",
+        "title": "Jujuba (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Jujuba",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-ziziphus-jujuba"
+      ],
+      "sunNeed": [
+        "ncsu-ziziphus-jujuba",
+        "nmsu-jujube"
+      ],
+      "leafHabit": [
+        "ncsu-ziziphus-jujuba",
+        "nmsu-jujube"
+      ],
+      "variants.standard": [
+        "ncsu-ziziphus-jujuba"
+      ],
+      "minWinterC": [
+        "ncsu-ziziphus-jujuba"
+      ],
+      "edibleParts": [
+        "ncsu-ziziphus-jujuba"
+      ],
+      "textures": [
+        "ncsu-ziziphus-jujuba"
+      ],
+      "drainage": [
+        "ncsu-ziziphus-jujuba"
+      ],
+      "commonNames": [
+        "ncsu-ziziphus-jujuba"
+      ],
+      "commonNamesHu": [
+        "huwiki-jujuba"
+      ],
+      "latinName": [
+        "ncsu-ziziphus-jujuba"
+      ],
+      "calendar": [
+        "ncsu-ziziphus-jujuba",
+        "nmsu-jujube"
+      ],
+      "origin": [
+        "ncsu-ziziphus-jujuba"
+      ],
+      "water": [
+        "ncsu-ziziphus-jujuba",
+        "nmsu-jujube"
+      ]
+    },
+    "origin": [
+      "asia"
+    ]
+  },
+  {
+    "id": "pear",
+    "commonNames": [
+      "Pear",
+      "European pear"
+    ],
+    "commonNamesHu": [
+      "Körte",
+      "Nemes körte"
+    ],
+    "latinName": "Pyrus communis",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "dwarf",
+        "label": "Dwarf (small tree)",
+        "labelHu": "Törpe (kis fa)",
+        "matureHeightM": 3.7,
+        "matureWidthM": 3.7,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      },
+      {
+        "id": "standard",
+        "label": "Standard (full-size tree)",
+        "labelHu": "Normál (teljes méretű fa)",
+        "matureHeightM": 4.6,
+        "matureWidthM": 5.5,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6,
+    "phMax": 8,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "mid-autumn",
+        "to": "early-spring"
+      },
+      {
+        "task": "prune",
+        "from": "early-winter",
+        "to": "late-winter"
+      },
+      {
+        "task": "harvest",
+        "from": "late-summer",
+        "to": "mid-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Pyrus+communis",
+    "water": {
+      "minRainMm": 889
+    },
+    "sources": [
+      {
+        "id": "ncsu-pyrus-communis",
+        "title": "Pyrus communis (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/pyrus-communis/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-pear",
+        "title": "Pyrus communis (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/14227/pyrus-communis-f/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "csu-tree-fruit",
+        "title": "Growing Tree Fruit in Colorado Gardens (Colorado State University Extension)",
+        "url": "https://extension.colostate.edu/resource/growing-tree-fruit-in-colorado-gardens/",
+        "licence": "Facts cited; © Colorado State University"
+      },
+      {
+        "id": "rhs-pears-guide",
+        "title": "How to grow pears (RHS)",
+        "url": "https://www.rhs.org.uk/fruit/pears/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "usda-plants-pyco",
+        "title": "Pyrus communis (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/PYCO",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-nemes-korte",
+        "title": "Nemes körte (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Nemes_körte",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-pyrus-communis",
+        "csu-tree-fruit"
+      ],
+      "sunNeed": [
+        "ncsu-pyrus-communis",
+        "rhs-pear"
+      ],
+      "leafHabit": [
+        "ncsu-pyrus-communis"
+      ],
+      "phMin": [
+        "ncsu-pyrus-communis"
+      ],
+      "phMax": [
+        "ncsu-pyrus-communis"
+      ],
+      "textures": [
+        "ncsu-pyrus-communis",
+        "rhs-pear"
+      ],
+      "drainage": [
+        "ncsu-pyrus-communis",
+        "rhs-pear"
+      ],
+      "minWinterC": [
+        "ncsu-pyrus-communis"
+      ],
+      "edibleParts": [
+        "ncsu-pyrus-communis"
+      ],
+      "variants.dwarf": [
+        "csu-tree-fruit"
+      ],
+      "variants.standard": [
+        "csu-tree-fruit",
+        "rhs-pear"
+      ],
+      "commonNames": [
+        "ncsu-pyrus-communis"
+      ],
+      "commonNamesHu": [
+        "huwiki-nemes-korte",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "ncsu-pyrus-communis"
+      ],
+      "calendar": [
+        "ncsu-pyrus-communis",
+        "rhs-pear",
+        "rhs-pears-guide"
+      ],
+      "origin": [
+        "ncsu-pyrus-communis"
+      ],
+      "grownIn": [
+        "rhs-pears-guide"
+      ],
+      "water": [
+        "usda-plants-pyco"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "plum",
+    "commonNames": [
+      "Plum",
+      "European plum"
+    ],
+    "commonNamesHu": [
+      "Szilva",
+      "Nemes szilva",
+      "Európai szilva"
+    ],
+    "latinName": "Prunus domestica",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "dwarf",
+        "label": "Dwarf (small tree)",
+        "labelHu": "Törpe (kis fa)",
+        "matureHeightM": 2.7,
+        "matureWidthM": 2.7,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      },
+      {
+        "id": "semi-dwarf",
+        "label": "Semi-dwarf (medium tree)",
+        "labelHu": "Féltörpe (közepes fa)",
+        "matureHeightM": 4.1,
+        "matureWidthM": 4.1,
+        "yearsToMaturity": 7.5,
+        "minSpacingM": null
+      },
+      {
+        "id": "standard",
+        "label": "Standard (full-size tree)",
+        "labelHu": "Normál (teljes méretű fa)",
+        "matureHeightM": 5.8,
+        "matureWidthM": 5.8,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "fruit",
+      "dried fruit (prunes)"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "late-winter",
+        "to": "early-spring"
+      },
+      {
+        "task": "prune",
+        "from": "early-summer",
+        "to": "late-summer"
+      },
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "early-autumn"
+      }
+    ],
+    "firstHarvestYears": 3.5,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Prunus+domestica",
+    "water": {
+      "level": "medium"
+    },
+    "sources": [
+      {
+        "id": "ncsu-prunus-domestica",
+        "title": "Prunus domestica (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/prunus-domestica/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-plum",
+        "title": "Prunus domestica (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/84405/prunus-domestica-d-c/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "ncsu-plum-stanley",
+        "title": "Prunus domestica 'Stanley' (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/prunus-domestica-stanley/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-plums-guide",
+        "title": "How to grow plums (RHS)",
+        "url": "https://www.rhs.org.uk/fruit/plums/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umn-stone-fruits",
+        "title": "Growing stone fruits in the home garden (University of Minnesota Extension)",
+        "url": "https://extension.umn.edu/fruit/growing-stone-fruits-home-garden",
+        "licence": "Facts cited; © Regents of the University of Minnesota"
+      },
+      {
+        "id": "huwiki-nemes-szilva",
+        "title": "Nemes szilva (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Nemes_szilva",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-prunus-domestica",
+        "ncsu-plum-stanley"
+      ],
+      "sunNeed": [
+        "ncsu-prunus-domestica",
+        "rhs-plum"
+      ],
+      "leafHabit": [
+        "ncsu-prunus-domestica"
+      ],
+      "drainage": [
+        "ncsu-prunus-domestica"
+      ],
+      "minWinterC": [
+        "ncsu-prunus-domestica"
+      ],
+      "edibleParts": [
+        "ncsu-prunus-domestica"
+      ],
+      "firstHarvestYears": [
+        "umn-stone-fruits"
+      ],
+      "variants.dwarf": [
+        "ncsu-plum-stanley"
+      ],
+      "variants.semi-dwarf": [
+        "ncsu-plum-stanley",
+        "rhs-plum",
+        "rhs-plums-guide"
+      ],
+      "variants.standard": [
+        "ncsu-plum-stanley"
+      ],
+      "commonNames": [
+        "ncsu-prunus-domestica"
+      ],
+      "commonNamesHu": [
+        "huwiki-nemes-szilva",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "ncsu-prunus-domestica"
+      ],
+      "calendar": [
+        "rhs-plums-guide"
+      ],
+      "grownIn": [
+        "rhs-plums-guide"
+      ],
+      "water": [
+        "ncsu-prunus-domestica",
+        "ncsu-plum-stanley",
+        "rhs-plum"
+      ]
+    },
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "japanese-plum",
+    "commonNames": [
+      "Japanese plum",
+      "Chinese plum"
+    ],
+    "commonNamesHu": [
+      "Japánszilva",
+      "Fűzlevelű ringló"
+    ],
+    "latinName": "Prunus salicina",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard (pruned tree)",
+        "labelHu": "Normál (metszett fa)",
+        "matureHeightM": 4.6,
+        "matureWidthM": 5.5,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "loamy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "early-summer",
+        "to": "late-summer"
+      },
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Prunus+salicina",
+    "sources": [
+      {
+        "id": "ncsu-prunus-salicina",
+        "title": "Prunus salicina (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/prunus-salicina/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "csu-tree-fruit",
+        "title": "Growing Tree Fruit in Colorado Gardens (Colorado State University Extension)",
+        "url": "https://extension.colostate.edu/resource/growing-tree-fruit-in-colorado-gardens/",
+        "licence": "Facts cited; © Colorado State University"
+      },
+      {
+        "id": "rhs-plums-guide",
+        "title": "How to grow plums (RHS)",
+        "url": "https://www.rhs.org.uk/fruit/plums/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umn-stone-fruits",
+        "title": "Growing stone fruits in the home garden (University of Minnesota Extension)",
+        "url": "https://extension.umn.edu/fruit/growing-stone-fruits-home-garden",
+        "licence": "Facts cited; © Regents of the University of Minnesota"
+      },
+      {
+        "id": "huwiki-japanszilva",
+        "title": "Japánszilva (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Japánszilva",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "csu-tree-fruit"
+      ],
+      "sunNeed": [
+        "ncsu-prunus-salicina",
+        "umn-stone-fruits"
+      ],
+      "leafHabit": [
+        "ncsu-prunus-salicina"
+      ],
+      "drainage": [
+        "ncsu-prunus-salicina"
+      ],
+      "textures": [
+        "ncsu-prunus-salicina"
+      ],
+      "minWinterC": [
+        "ncsu-prunus-salicina"
+      ],
+      "edibleParts": [
+        "ncsu-prunus-salicina"
+      ],
+      "variants.standard": [
+        "csu-tree-fruit"
+      ],
+      "commonNames": [
+        "ncsu-prunus-salicina"
+      ],
+      "commonNamesHu": [
+        "huwiki-japanszilva"
+      ],
+      "latinName": [
+        "ncsu-prunus-salicina"
+      ],
+      "calendar": [
+        "ncsu-prunus-salicina",
+        "rhs-plums-guide"
+      ],
+      "origin": [
+        "ncsu-prunus-salicina"
+      ],
+      "grownIn": [
+        "rhs-plums-guide"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "sweet-cherry",
+    "commonNames": [
+      "Sweet cherry",
+      "Wild cherry"
+    ],
+    "commonNamesHu": [
+      "Cseresznyefa",
+      "Vadcseresznye",
+      "Madárcseresznye",
+      "Cseresznye"
+    ],
+    "latinName": "Prunus avium",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "dwarf",
+        "label": "Dwarf (small tree)",
+        "labelHu": "Törpe (kis fa)",
+        "matureHeightM": 2.1,
+        "matureWidthM": 1.2,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      },
+      {
+        "id": "standard",
+        "label": "Standard (full-size tree)",
+        "labelHu": "Normál (teljes méretű fa)",
+        "matureHeightM": 7.6,
+        "matureWidthM": 9.1,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "late-autumn",
+        "to": "early-spring"
+      },
+      {
+        "task": "prune",
+        "from": "mid-summer",
+        "to": "late-summer"
+      },
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": 5.5,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Prunus+avium",
+    "sources": [
+      {
+        "id": "ncsu-prunus-avium",
+        "title": "Prunus avium (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/prunus-avium/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-sweet-cherry",
+        "title": "Prunus avium (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/13950/prunus-avium/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "csu-tree-fruit",
+        "title": "Growing Tree Fruit in Colorado Gardens (Colorado State University Extension)",
+        "url": "https://extension.colostate.edu/resource/growing-tree-fruit-in-colorado-gardens/",
+        "licence": "Facts cited; © Colorado State University"
+      },
+      {
+        "id": "rhs-cherries-guide",
+        "title": "How to grow cherries (RHS)",
+        "url": "https://www.rhs.org.uk/fruit/cherries/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "psu-cherries",
+        "title": "Cherries in the Garden and the Kitchen (Penn State Extension)",
+        "url": "https://extension.psu.edu/cherries-in-the-garden-and-the-kitchen",
+        "licence": "Facts cited; © The Pennsylvania State University"
+      },
+      {
+        "id": "huwiki-vadcseresznye",
+        "title": "Vadcseresznye (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Vadcseresznye",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "ncsu-prunus-avium",
+        "csu-tree-fruit"
+      ],
+      "sunNeed": [
+        "ncsu-prunus-avium",
+        "rhs-sweet-cherry"
+      ],
+      "leafHabit": [
+        "ncsu-prunus-avium"
+      ],
+      "drainage": [
+        "ncsu-prunus-avium"
+      ],
+      "minWinterC": [
+        "psu-cherries"
+      ],
+      "edibleParts": [
+        "ncsu-prunus-avium"
+      ],
+      "firstHarvestYears": [
+        "psu-cherries"
+      ],
+      "variants.dwarf": [
+        "csu-tree-fruit"
+      ],
+      "variants.standard": [
+        "csu-tree-fruit",
+        "rhs-sweet-cherry"
+      ],
+      "commonNames": [
+        "ncsu-prunus-avium",
+        "rhs-sweet-cherry"
+      ],
+      "commonNamesHu": [
+        "huwiki-vadcseresznye",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "ncsu-prunus-avium"
+      ],
+      "calendar": [
+        "ncsu-prunus-avium",
+        "rhs-cherries-guide"
+      ],
+      "origin": [
+        "ncsu-prunus-avium"
+      ],
+      "grownIn": [
+        "rhs-cherries-guide"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia",
+      "africa"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "sour-cherry",
+    "commonNames": [
+      "Sour cherry",
+      "Tart cherry"
+    ],
+    "commonNamesHu": [
+      "Meggy"
+    ],
+    "latinName": "Prunus cerasus",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "dwarf",
+        "label": "Dwarf (small tree)",
+        "labelHu": "Törpe (kis fa)",
+        "matureHeightM": 2.1,
+        "matureWidthM": 2.7,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      },
+      {
+        "id": "standard",
+        "label": "Standard (full-size tree)",
+        "labelHu": "Normál (teljes méretű fa)",
+        "matureHeightM": 4.6,
+        "matureWidthM": 6.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "late-autumn",
+        "to": "early-spring"
+      },
+      {
+        "task": "prune",
+        "from": "mid-summer",
+        "to": "late-summer"
+      },
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Prunus+cerasus",
+    "sources": [
+      {
+        "id": "ncsu-prunus-cerasus",
+        "title": "Prunus cerasus (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/prunus-cerasus/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "csu-tree-fruit",
+        "title": "Growing Tree Fruit in Colorado Gardens (Colorado State University Extension)",
+        "url": "https://extension.colostate.edu/resource/growing-tree-fruit-in-colorado-gardens/",
+        "licence": "Facts cited; © Colorado State University"
+      },
+      {
+        "id": "rhs-cherries-guide",
+        "title": "How to grow cherries (RHS)",
+        "url": "https://www.rhs.org.uk/fruit/cherries/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umn-stone-fruits",
+        "title": "Growing stone fruits in the home garden (University of Minnesota Extension)",
+        "url": "https://extension.umn.edu/fruit/growing-stone-fruits-home-garden",
+        "licence": "Facts cited; © Regents of the University of Minnesota"
+      },
+      {
+        "id": "huwiki-meggy",
+        "title": "Meggy (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Meggy",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "csu-tree-fruit"
+      ],
+      "sunNeed": [
+        "rhs-cherries-guide",
+        "umn-stone-fruits"
+      ],
+      "leafHabit": [
+        "ncsu-prunus-cerasus"
+      ],
+      "drainage": [
+        "ncsu-prunus-cerasus"
+      ],
+      "minWinterC": [
+        "ncsu-prunus-cerasus"
+      ],
+      "edibleParts": [
+        "ncsu-prunus-cerasus"
+      ],
+      "variants.dwarf": [
+        "csu-tree-fruit"
+      ],
+      "variants.standard": [
+        "csu-tree-fruit"
+      ],
+      "commonNames": [
+        "ncsu-prunus-cerasus"
+      ],
+      "commonNamesHu": [
+        "huwiki-meggy",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "ncsu-prunus-cerasus"
+      ],
+      "calendar": [
+        "ncsu-prunus-cerasus",
+        "rhs-cherries-guide"
+      ],
+      "origin": [
+        "ncsu-prunus-cerasus"
+      ],
+      "grownIn": [
+        "rhs-cherries-guide"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "apricot",
+    "commonNames": [
+      "Apricot"
+    ],
+    "commonNamesHu": [
+      "Kajszibarack",
+      "Kajszi",
+      "Sárgabarack"
+    ],
+    "latinName": "Prunus armeniaca",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "dwarf",
+        "label": "Dwarf (small tree)",
+        "labelHu": "Törpe (kis fa)",
+        "matureHeightM": 2.1,
+        "matureWidthM": 2.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      },
+      {
+        "id": "standard",
+        "label": "Standard (full-size tree)",
+        "labelHu": "Normál (teljes méretű fa)",
+        "matureHeightM": 4.6,
+        "matureWidthM": 6.1,
+        "yearsToMaturity": 15,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "late-autumn",
+        "to": "early-spring"
+      },
+      {
+        "task": "prune",
+        "from": "mid-summer",
+        "to": "late-summer"
+      },
+      {
+        "task": "harvest",
+        "from": "mid-summer",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Prunus+armeniaca",
+    "sources": [
+      {
+        "id": "ncsu-prunus-armeniaca",
+        "title": "Prunus armeniaca (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/prunus-armeniaca/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-apricot",
+        "title": "Prunus armeniaca (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/13949/prunus-armeniaca/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "csu-tree-fruit",
+        "title": "Growing Tree Fruit in Colorado Gardens (Colorado State University Extension)",
+        "url": "https://extension.colostate.edu/resource/growing-tree-fruit-in-colorado-gardens/",
+        "licence": "Facts cited; © Colorado State University"
+      },
+      {
+        "id": "rhs-apricots-guide",
+        "title": "How to grow apricots (RHS)",
+        "url": "https://www.rhs.org.uk/fruit/apricots/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-kajszibarack",
+        "title": "Kajszibarack (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Kajszibarack",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "csu-tree-fruit"
+      ],
+      "sunNeed": [
+        "ncsu-prunus-armeniaca",
+        "rhs-apricot"
+      ],
+      "leafHabit": [
+        "ncsu-prunus-armeniaca"
+      ],
+      "textures": [
+        "ncsu-prunus-armeniaca",
+        "rhs-apricot"
+      ],
+      "drainage": [
+        "ncsu-prunus-armeniaca",
+        "rhs-apricot"
+      ],
+      "minWinterC": [
+        "ncsu-prunus-armeniaca"
+      ],
+      "edibleParts": [
+        "ncsu-prunus-armeniaca"
+      ],
+      "variants.dwarf": [
+        "csu-tree-fruit"
+      ],
+      "variants.standard": [
+        "csu-tree-fruit",
+        "rhs-apricot"
+      ],
+      "commonNames": [
+        "ncsu-prunus-armeniaca"
+      ],
+      "commonNamesHu": [
+        "huwiki-kajszibarack",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "ncsu-prunus-armeniaca"
+      ],
+      "calendar": [
+        "rhs-apricots-guide"
+      ],
+      "origin": [
+        "ncsu-prunus-armeniaca"
+      ],
+      "grownIn": [
+        "rhs-apricots-guide"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "peach",
+    "commonNames": [
+      "Peach",
+      "Nectarine"
+    ],
+    "commonNamesHu": [
+      "Őszibarack"
+    ],
+    "latinName": "Prunus persica",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "dwarf",
+        "label": "Dwarf (small tree)",
+        "labelHu": "Törpe (kis fa)",
+        "matureHeightM": 2.3,
+        "matureWidthM": 2.7,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      },
+      {
+        "id": "standard",
+        "label": "Standard (full-size tree)",
+        "labelHu": "Normál (teljes méretű fa)",
+        "matureHeightM": 4.6,
+        "matureWidthM": 6.1,
+        "yearsToMaturity": 15,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "late-autumn",
+        "to": "early-spring"
+      },
+      {
+        "task": "prune",
+        "from": "early-summer",
+        "to": "late-summer"
+      },
+      {
+        "task": "harvest",
+        "from": "mid-summer",
+        "to": "early-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Prunus+persica",
+    "water": {
+      "level": "medium"
+    },
+    "sources": [
+      {
+        "id": "ncsu-prunus-persica",
+        "title": "Prunus persica (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/prunus-persica/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-peach",
+        "title": "Prunus persica (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/156648/prunus-persica/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "csu-tree-fruit",
+        "title": "Growing Tree Fruit in Colorado Gardens (Colorado State University Extension)",
+        "url": "https://extension.colostate.edu/resource/growing-tree-fruit-in-colorado-gardens/",
+        "licence": "Facts cited; © Colorado State University"
+      },
+      {
+        "id": "rhs-peaches-guide",
+        "title": "How to grow peaches (RHS)",
+        "url": "https://www.rhs.org.uk/fruit/peaches/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-oszibarack",
+        "title": "Őszibarack (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Őszibarack",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "csu-tree-fruit"
+      ],
+      "sunNeed": [
+        "rhs-peach"
+      ],
+      "leafHabit": [
+        "ncsu-prunus-persica"
+      ],
+      "drainage": [
+        "ncsu-prunus-persica"
+      ],
+      "minWinterC": [
+        "ncsu-prunus-persica"
+      ],
+      "edibleParts": [
+        "ncsu-prunus-persica"
+      ],
+      "variants.dwarf": [
+        "csu-tree-fruit"
+      ],
+      "variants.standard": [
+        "csu-tree-fruit",
+        "rhs-peach"
+      ],
+      "commonNames": [
+        "ncsu-prunus-persica"
+      ],
+      "commonNamesHu": [
+        "huwiki-oszibarack",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "ncsu-prunus-persica"
+      ],
+      "calendar": [
+        "rhs-peaches-guide"
+      ],
+      "origin": [
+        "ncsu-prunus-persica"
+      ],
+      "grownIn": [
+        "rhs-peaches-guide"
+      ],
+      "water": [
+        "ncsu-prunus-persica",
+        "rhs-peach"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "quince",
+    "commonNames": [
+      "Quince"
+    ],
+    "commonNamesHu": [
+      "Birs",
+      "Birsalma"
+    ],
+    "latinName": "Cydonia oblonga",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 3.3,
+        "matureWidthM": 3.3,
+        "yearsToMaturity": 15,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": null,
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "late-autumn",
+        "to": "early-spring"
+      },
+      {
+        "task": "prune",
+        "from": "early-winter",
+        "to": "late-winter"
+      },
+      {
+        "task": "harvest",
+        "from": "mid-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Cydonia+oblonga",
+    "water": {
+      "minRainMm": 610
+    },
+    "sources": [
+      {
+        "id": "rhs-quince",
+        "title": "Cydonia oblonga (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/5160/cydonia-oblonga-f/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-quince-guide",
+        "title": "How to grow quinces (RHS)",
+        "url": "https://www.rhs.org.uk/fruit/quince/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "uw-quince",
+        "title": "Quince (University of Wisconsin Uncommon Fruit)",
+        "url": "https://uncommonfruit.cias.wisc.edu/quince/",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      },
+      {
+        "id": "usda-plants-cyob2",
+        "title": "Cydonia oblonga (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/CYOB2",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-birs",
+        "title": "Birs (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Birs",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "rhs-quince"
+      ],
+      "sunNeed": [
+        "rhs-quince"
+      ],
+      "textures": [
+        "rhs-quince"
+      ],
+      "drainage": [
+        "rhs-quince"
+      ],
+      "minWinterC": [
+        "uw-quince"
+      ],
+      "variants.standard": [
+        "rhs-quince"
+      ],
+      "commonNames": [
+        "rhs-quince"
+      ],
+      "commonNamesHu": [
+        "huwiki-birs",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "rhs-quince"
+      ],
+      "calendar": [
+        "rhs-quince-guide"
+      ],
+      "origin": [
+        "rhs-quince"
+      ],
+      "grownIn": [
+        "rhs-quince-guide"
+      ],
+      "water": [
+        "usda-plants-cyob2"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "medlar",
+    "commonNames": [
+      "Medlar",
+      "Common medlar"
+    ],
+    "commonNamesHu": [
+      "Naspolya",
+      "Közönséges naspolya"
+    ],
+    "latinName": "Mespilus germanica",
+    "family": null,
+    "layer": "sub-canopy",
+    "sunNeed": "part",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 6,
+        "matureWidthM": 6,
+        "yearsToMaturity": 35,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": null,
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "late-autumn",
+        "to": "early-spring"
+      },
+      {
+        "task": "prune",
+        "from": "early-winter",
+        "to": "late-winter"
+      },
+      {
+        "task": "harvest",
+        "from": "mid-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Mespilus+germanica",
+    "sources": [
+      {
+        "id": "rhs-medlar",
+        "title": "Mespilus germanica (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/11088/mespilus-germanica-f/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-medlars-guide",
+        "title": "How to grow medlars (RHS)",
+        "url": "https://www.rhs.org.uk/fruit/medlars/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "uw-medlar",
+        "title": "Medlar (University of Wisconsin Uncommon Fruit)",
+        "url": "https://uncommonfruit.cias.wisc.edu/medlar/",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      },
+      {
+        "id": "huwiki-naspolya",
+        "title": "Naspolya (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Naspolya",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "rhs-medlar"
+      ],
+      "sunNeed": [
+        "rhs-medlar"
+      ],
+      "textures": [
+        "rhs-medlar"
+      ],
+      "drainage": [
+        "rhs-medlar"
+      ],
+      "minWinterC": [
+        "uw-medlar"
+      ],
+      "variants.standard": [
+        "rhs-medlar"
+      ],
+      "commonNames": [
+        "rhs-medlar"
+      ],
+      "commonNamesHu": [
+        "huwiki-naspolya",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "rhs-medlar"
+      ],
+      "calendar": [
+        "rhs-medlars-guide"
+      ],
+      "origin": [
+        "rhs-medlar"
+      ],
+      "grownIn": [
+        "rhs-medlars-guide"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "black-mulberry",
+    "commonNames": [
+      "Black mulberry"
+    ],
+    "commonNamesHu": [
+      "Fekete eperfa",
+      "Fekete eper"
+    ],
+    "latinName": "Morus nigra",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard tree",
+        "labelHu": "Normál fa",
+        "matureHeightM": 9,
+        "matureWidthM": 9,
+        "yearsToMaturity": 35,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -17.8,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "mid-autumn",
+        "to": "early-spring"
+      },
+      {
+        "task": "prune",
+        "from": "late-autumn",
+        "to": "mid-winter"
+      },
+      {
+        "task": "harvest",
+        "from": "late-summer",
+        "to": "early-autumn"
+      }
+    ],
+    "firstHarvestYears": 8,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Morus+nigra",
+    "sources": [
+      {
+        "id": "rhs-black-mulberry",
+        "title": "Morus nigra (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/11217/morus-nigra-f/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-mulberries-guide",
+        "title": "How to grow mulberries (RHS)",
+        "url": "https://www.rhs.org.uk/fruit/mulberries/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "uw-mulberry",
+        "title": "Mulberry (University of Wisconsin Uncommon Fruit)",
+        "url": "https://uncommonfruit.cias.wisc.edu/mulberry/",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      },
+      {
+        "id": "huwiki-fekete-eperfa",
+        "title": "Fekete eperfa (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Fekete_eperfa",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "layer": [
+        "rhs-black-mulberry",
+        "rhs-mulberries-guide"
+      ],
+      "sunNeed": [
+        "rhs-black-mulberry"
+      ],
+      "textures": [
+        "rhs-black-mulberry"
+      ],
+      "drainage": [
+        "rhs-black-mulberry"
+      ],
+      "minWinterC": [
+        "uw-mulberry"
+      ],
+      "edibleParts": [
+        "rhs-mulberries-guide"
+      ],
+      "firstHarvestYears": [
+        "rhs-mulberries-guide"
+      ],
+      "variants.standard": [
+        "rhs-mulberries-guide",
+        "rhs-black-mulberry"
+      ],
+      "commonNames": [
+        "rhs-black-mulberry"
+      ],
+      "commonNamesHu": [
+        "huwiki-fekete-eperfa"
+      ],
+      "latinName": [
+        "rhs-black-mulberry"
+      ],
+      "calendar": [
+        "rhs-mulberries-guide"
+      ],
+      "leafHabit": [
+        "uw-mulberry"
+      ],
+      "origin": [
+        "rhs-black-mulberry"
+      ],
+      "grownIn": [
+        "rhs-mulberries-guide"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  }
+]

@@ -1,0 +1,2119 @@
+[
+  {
+    "id": "strawberry",
+    "commonNames": [
+      "Strawberry"
+    ],
+    "commonNamesHu": [
+      "Eper",
+      "Kerti eper",
+      "Termesztett eper",
+      "Ananászeper",
+      "Szamóca"
+    ],
+    "latinName": "Fragaria x ananassa",
+    "family": null,
+    "layer": "ground-cover",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.23,
+        "matureWidthM": 0.46,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "fruits",
+      "flower petals"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Fragaria+x+ananassa",
+    "water": {
+      "level": "high"
+    },
+    "sources": [
+      {
+        "id": "ncsu-fragaria-x-ananassa",
+        "title": "Fragaria x ananassa (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/fragaria-x-ananassa/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-fruit-strawberries-guide",
+        "title": "How to grow strawberries (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/fruit/strawberries/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-eper-novenyfaj",
+        "title": "Eper (növényfaj) (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Eper_(növényfaj)",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-fragaria-x-ananassa"
+      ],
+      "commonNamesHu": [
+        "huwiki-eper-novenyfaj",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "ncsu-fragaria-x-ananassa"
+      ],
+      "layer": [
+        "ncsu-fragaria-x-ananassa"
+      ],
+      "sunNeed": [
+        "ncsu-fragaria-x-ananassa"
+      ],
+      "variants.standard": [
+        "ncsu-fragaria-x-ananassa"
+      ],
+      "minWinterC": [
+        "ncsu-fragaria-x-ananassa"
+      ],
+      "calendar": [
+        "ncsu-fragaria-x-ananassa"
+      ],
+      "edibleParts": [
+        "ncsu-fragaria-x-ananassa"
+      ],
+      "drainage": [
+        "ncsu-fragaria-x-ananassa"
+      ],
+      "roles": [
+        "ncsu-fragaria-x-ananassa"
+      ],
+      "origin": [
+        "ncsu-fragaria-x-ananassa"
+      ],
+      "grownIn": [
+        "rhs-fruit-strawberries-guide"
+      ],
+      "water": [
+        "ncsu-fragaria-x-ananassa"
+      ]
+    },
+    "origin": [
+      "europe"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "wild-strawberry",
+    "commonNames": [
+      "Wild strawberry",
+      "Scarlet strawberry"
+    ],
+    "commonNamesHu": [
+      "Skarlát eper"
+    ],
+    "latinName": "Fragaria virginiana",
+    "family": null,
+    "layer": "ground-cover",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard patch",
+        "labelHu": "Normál telep",
+        "matureHeightM": 0.17,
+        "matureWidthM": 0.46,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "fruits"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "early-summer",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Fragaria+virginiana",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-fragaria-virginiana",
+        "title": "Fragaria virginiana (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/fragaria-virginiana/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "huwiki-eper-novenynemzetseg",
+        "title": "Eper (növénynemzetség) (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Eper_(növénynemzetség)",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-fragaria-virginiana"
+      ],
+      "commonNamesHu": [
+        "huwiki-eper-novenynemzetseg"
+      ],
+      "latinName": [
+        "ncsu-fragaria-virginiana"
+      ],
+      "layer": [
+        "ncsu-fragaria-virginiana"
+      ],
+      "sunNeed": [
+        "ncsu-fragaria-virginiana"
+      ],
+      "variants.standard": [
+        "ncsu-fragaria-virginiana"
+      ],
+      "minWinterC": [
+        "ncsu-fragaria-virginiana"
+      ],
+      "calendar": [
+        "ncsu-fragaria-virginiana"
+      ],
+      "edibleParts": [
+        "ncsu-fragaria-virginiana"
+      ],
+      "drainage": [
+        "ncsu-fragaria-virginiana"
+      ],
+      "roles": [
+        "ncsu-fragaria-virginiana"
+      ],
+      "origin": [
+        "ncsu-fragaria-virginiana"
+      ],
+      "water": [
+        "ncsu-fragaria-virginiana"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ]
+  },
+  {
+    "id": "nasturtium",
+    "commonNames": [
+      "Nasturtium"
+    ],
+    "commonNamesHu": [
+      "Kapucinusvirág",
+      "Kerti sarkantyúka",
+      "Sarkantyúka"
+    ],
+    "latinName": "Tropaeolum majus",
+    "family": null,
+    "layer": "ground-cover",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Bush type",
+        "labelHu": "Bokor típusú",
+        "matureHeightM": 0.3,
+        "matureWidthM": 0.6,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "leaves",
+      "flowers",
+      "immature seed pods"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Tropaeolum+majus",
+    "annual": true,
+    "sources": [
+      {
+        "id": "ncsu-tropaeolum-majus",
+        "title": "Tropaeolum majus (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/tropaeolum-majus/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "il-nasturtium",
+        "title": "Nasturtium (University of Illinois Extension)",
+        "url": "https://extension.illinois.edu/herbs/nasturtium",
+        "licence": "Facts cited; © University of Illinois"
+      },
+      {
+        "id": "rhs-gg-nasturtium",
+        "title": "How to grow annual nasturtiums (RHS growing guide)",
+        "url": "https://www.rhs.org.uk/plants/nasturtiums/annual-nasturtiums/how-to-grow-annual-nasturtiums",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-kerti-sarkantyuka",
+        "title": "Kerti sarkantyúka (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Kerti_sarkantyúka",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-tropaeolum-majus"
+      ],
+      "commonNamesHu": [
+        "huwiki-kerti-sarkantyuka"
+      ],
+      "latinName": [
+        "ncsu-tropaeolum-majus"
+      ],
+      "layer": [
+        "ncsu-tropaeolum-majus"
+      ],
+      "sunNeed": [
+        "il-nasturtium"
+      ],
+      "variants.standard": [
+        "ncsu-tropaeolum-majus"
+      ],
+      "minWinterC": [
+        "ncsu-tropaeolum-majus"
+      ],
+      "calendar": [
+        "il-nasturtium"
+      ],
+      "edibleParts": [
+        "il-nasturtium"
+      ],
+      "drainage": [
+        "ncsu-tropaeolum-majus"
+      ],
+      "roles": [
+        "ncsu-tropaeolum-majus"
+      ],
+      "origin": [
+        "ncsu-tropaeolum-majus"
+      ],
+      "grownIn": [
+        "rhs-gg-nasturtium"
+      ],
+      "annual": [
+        "ncsu-tropaeolum-majus"
+      ]
+    },
+    "origin": [
+      "north-america",
+      "south-america"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "creeping-thyme",
+    "commonNames": [
+      "Creeping thyme",
+      "Wild thyme"
+    ],
+    "commonNamesHu": [
+      "Mezei kakukkfű",
+      "Keskenylevelű kakukkfű",
+      "Vadkakukkfű"
+    ],
+    "latinName": "Thymus serpyllum",
+    "family": null,
+    "layer": "ground-cover",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard patch",
+        "labelHu": "Normál telep",
+        "matureHeightM": 0.06,
+        "matureWidthM": 0.17,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": null,
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "early-spring",
+        "to": "early-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Thymus+serpyllum",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "ncsu-thymus-serpyllum",
+        "title": "Thymus serpyllum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/thymus-serpyllum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "il-thyme",
+        "title": "Thyme (University of Illinois Extension; genus-level page)",
+        "url": "https://extension.illinois.edu/herbs/thyme",
+        "licence": "Facts cited; © University of Illinois"
+      },
+      {
+        "id": "huwiki-keskenylevelu-kakukkfu",
+        "title": "Keskenylevelű kakukkfű (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Keskenylevelű_kakukkfű",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-thymus-serpyllum"
+      ],
+      "commonNamesHu": [
+        "huwiki-keskenylevelu-kakukkfu"
+      ],
+      "latinName": [
+        "ncsu-thymus-serpyllum"
+      ],
+      "layer": [
+        "ncsu-thymus-serpyllum"
+      ],
+      "sunNeed": [
+        "ncsu-thymus-serpyllum"
+      ],
+      "variants.standard": [
+        "ncsu-thymus-serpyllum"
+      ],
+      "minWinterC": [
+        "ncsu-thymus-serpyllum"
+      ],
+      "calendar": [
+        "il-thyme"
+      ],
+      "drainage": [
+        "ncsu-thymus-serpyllum"
+      ],
+      "roles": [
+        "ncsu-thymus-serpyllum"
+      ],
+      "origin": [
+        "ncsu-thymus-serpyllum"
+      ],
+      "water": [
+        "ncsu-thymus-serpyllum"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia",
+      "africa"
+    ]
+  },
+  {
+    "id": "red-clover",
+    "commonNames": [
+      "Red clover"
+    ],
+    "commonNamesHu": [
+      "Vörös here",
+      "Réti here"
+    ],
+    "latinName": "Trifolium pratense",
+    "family": null,
+    "layer": "ground-cover",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard patch",
+        "labelHu": "Normál telep",
+        "matureHeightM": 0.4,
+        "matureWidthM": 0.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": [
+      "nitrogen-fixer"
+    ],
+    "edibleParts": [
+      "leaves",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "mid-spring",
+        "to": "late-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Trifolium+pratense",
+    "water": {
+      "minRainMm": 457
+    },
+    "sources": [
+      {
+        "id": "ncsu-trifolium-pratense",
+        "title": "Trifolium pratense (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/trifolium-pratense/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "psu-red-clover",
+        "title": "Red Clover (Penn State Extension)",
+        "url": "https://extension.psu.edu/red-clover",
+        "licence": "Facts cited; © The Pennsylvania State University"
+      },
+      {
+        "id": "usda-plants-trpr2",
+        "title": "Trifolium pratense (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/TRPR2",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-reti-here",
+        "title": "Réti here (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Réti_here",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-trifolium-pratense"
+      ],
+      "commonNamesHu": [
+        "huwiki-reti-here"
+      ],
+      "latinName": [
+        "ncsu-trifolium-pratense"
+      ],
+      "layer": [
+        "ncsu-trifolium-pratense"
+      ],
+      "sunNeed": [
+        "ncsu-trifolium-pratense"
+      ],
+      "variants.standard": [
+        "ncsu-trifolium-pratense"
+      ],
+      "minWinterC": [
+        "ncsu-trifolium-pratense"
+      ],
+      "calendar": [
+        "psu-red-clover"
+      ],
+      "roles": [
+        "ncsu-trifolium-pratense",
+        "psu-red-clover"
+      ],
+      "edibleParts": [
+        "ncsu-trifolium-pratense"
+      ],
+      "drainage": [
+        "ncsu-trifolium-pratense"
+      ],
+      "origin": [
+        "ncsu-trifolium-pratense"
+      ],
+      "water": [
+        "usda-plants-trpr2"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia"
+    ]
+  },
+  {
+    "id": "crimson-clover",
+    "commonNames": [
+      "Crimson clover"
+    ],
+    "commonNamesHu": [
+      "Bíbor here"
+    ],
+    "latinName": "Trifolium incarnatum",
+    "family": null,
+    "layer": "ground-cover",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard patch",
+        "labelHu": "Normál telep",
+        "matureHeightM": 0.6,
+        "matureWidthM": 0.6,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": [
+      "nitrogen-fixer"
+    ],
+    "edibleParts": null,
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "first",
+        "offsetWeeks": -7
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Trifolium+incarnatum",
+    "annual": true,
+    "water": {
+      "minRainMm": 813
+    },
+    "sources": [
+      {
+        "id": "ncsu-trifolium-incarnatum",
+        "title": "Trifolium incarnatum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/trifolium-incarnatum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "msu-crimson-clover",
+        "title": "Management and planting of crimson clover as a cover crop (Michigan State University Extension)",
+        "url": "https://www.canr.msu.edu/news/management_and_planting_of_crimson_clover",
+        "licence": "Facts cited; © Michigan State University"
+      },
+      {
+        "id": "usda-plants-trin3",
+        "title": "Trifolium incarnatum (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/TRIN3",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-here-novenynemzetseg",
+        "title": "Here (növénynemzetség) (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Here_(növénynemzetség)",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-trifolium-incarnatum"
+      ],
+      "commonNamesHu": [
+        "huwiki-here-novenynemzetseg"
+      ],
+      "latinName": [
+        "ncsu-trifolium-incarnatum"
+      ],
+      "layer": [
+        "ncsu-trifolium-incarnatum"
+      ],
+      "sunNeed": [
+        "ncsu-trifolium-incarnatum"
+      ],
+      "variants.standard": [
+        "ncsu-trifolium-incarnatum"
+      ],
+      "minWinterC": [
+        "ncsu-trifolium-incarnatum"
+      ],
+      "calendar": [
+        "msu-crimson-clover"
+      ],
+      "drainage": [
+        "ncsu-trifolium-incarnatum"
+      ],
+      "roles": [
+        "ncsu-trifolium-incarnatum"
+      ],
+      "origin": [
+        "ncsu-trifolium-incarnatum"
+      ],
+      "annual": [
+        "ncsu-trifolium-incarnatum"
+      ],
+      "water": [
+        "usda-plants-trin3"
+      ]
+    },
+    "origin": [
+      "europe"
+    ]
+  },
+  {
+    "id": "jerusalem-artichoke",
+    "commonNames": [
+      "Jerusalem artichoke",
+      "Sunchoke"
+    ],
+    "commonNamesHu": [
+      "Csicsóka"
+    ],
+    "latinName": "Helianthus tuberosus",
+    "family": null,
+    "layer": "root",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 2.4,
+        "matureWidthM": 1.2,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "tubers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "early-spring"
+      },
+      {
+        "task": "harvest",
+        "from": "mid-autumn",
+        "to": "early-winter"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Helianthus+tuberosus",
+    "water": {
+      "minRainMm": 381
+    },
+    "sources": [
+      {
+        "id": "ncsu-helianthus-tuberosus",
+        "title": "Helianthus tuberosus (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/helianthus-tuberosus/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-helianthus-tuberosus-profile",
+        "title": "Helianthus tuberosus (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/76796/helianthus-tuberosus/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-vegetables-jerusalem-artichokes-guide",
+        "title": "How to grow Jerusalem artichokes (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/jerusalem-artichokes/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "usda-plants-hetu",
+        "title": "Helianthus tuberosus (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/HETU",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-csicsoka-novenyfaj",
+        "title": "Csicsóka (növényfaj) (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Csicsóka_(növényfaj)",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-helianthus-tuberosus"
+      ],
+      "commonNamesHu": [
+        "huwiki-csicsoka-novenyfaj"
+      ],
+      "latinName": [
+        "ncsu-helianthus-tuberosus"
+      ],
+      "layer": [
+        "ncsu-helianthus-tuberosus"
+      ],
+      "sunNeed": [
+        "ncsu-helianthus-tuberosus"
+      ],
+      "variants.standard": [
+        "ncsu-helianthus-tuberosus"
+      ],
+      "minWinterC": [
+        "ncsu-helianthus-tuberosus"
+      ],
+      "calendar": [
+        "ncsu-helianthus-tuberosus"
+      ],
+      "edibleParts": [
+        "ncsu-helianthus-tuberosus"
+      ],
+      "drainage": [
+        "ncsu-helianthus-tuberosus"
+      ],
+      "roles": [
+        "ncsu-helianthus-tuberosus"
+      ],
+      "origin": [
+        "ncsu-helianthus-tuberosus",
+        "rhs-helianthus-tuberosus-profile"
+      ],
+      "grownIn": [
+        "rhs-vegetables-jerusalem-artichokes-guide"
+      ],
+      "water": [
+        "usda-plants-hetu"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "horseradish",
+    "commonNames": [
+      "Horseradish"
+    ],
+    "commonNamesHu": [
+      "Torma"
+    ],
+    "latinName": "Armoracia rusticana",
+    "family": null,
+    "layer": "root",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 1.1,
+        "matureWidthM": 1.0,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "roots"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "frost": "first",
+        "offsetWeeks": 0
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Armoracia+rusticana",
+    "water": {
+      "level": "medium"
+    },
+    "sources": [
+      {
+        "id": "ncsu-armoracia-rusticana",
+        "title": "Armoracia rusticana (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/armoracia-rusticana/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-herbs-horseradish-guide",
+        "title": "How to grow Horseradish (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/horseradish/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-torma",
+        "title": "Torma (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Torma",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-armoracia-rusticana"
+      ],
+      "commonNamesHu": [
+        "huwiki-torma",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-armoracia-rusticana"
+      ],
+      "layer": [
+        "ncsu-armoracia-rusticana"
+      ],
+      "sunNeed": [
+        "ncsu-armoracia-rusticana"
+      ],
+      "variants.standard": [
+        "ncsu-armoracia-rusticana"
+      ],
+      "minWinterC": [
+        "ncsu-armoracia-rusticana"
+      ],
+      "calendar": [
+        "ncsu-armoracia-rusticana"
+      ],
+      "edibleParts": [
+        "ncsu-armoracia-rusticana"
+      ],
+      "drainage": [
+        "ncsu-armoracia-rusticana"
+      ],
+      "roles": [
+        "ncsu-armoracia-rusticana"
+      ],
+      "origin": [
+        "ncsu-armoracia-rusticana"
+      ],
+      "grownIn": [
+        "rhs-herbs-horseradish-guide"
+      ],
+      "water": [
+        "ncsu-armoracia-rusticana"
+      ]
+    },
+    "origin": [
+      "europe"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "garlic",
+    "commonNames": [
+      "Garlic"
+    ],
+    "commonNamesHu": [
+      "Fokhagyma"
+    ],
+    "latinName": "Allium sativum",
+    "family": null,
+    "layer": "root",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.4,
+        "matureWidthM": 0.25,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "bulbs",
+      "leaves",
+      "flowers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "first",
+        "offsetWeeks": 1.5
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Allium+sativum",
+    "water": {
+      "level": "high"
+    },
+    "rotationGroup": "roots",
+    "sources": [
+      {
+        "id": "ncsu-allium-sativum",
+        "title": "Allium sativum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/allium-sativum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "il-garlic",
+        "title": "Garlic (University of Illinois Extension)",
+        "url": "https://extension.illinois.edu/herbs/garlic",
+        "licence": "Facts cited; © University of Illinois"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-fokhagyma",
+        "title": "Fokhagyma (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Fokhagyma",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-allium-sativum"
+      ],
+      "commonNamesHu": [
+        "huwiki-fokhagyma",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-allium-sativum"
+      ],
+      "layer": [
+        "ncsu-allium-sativum"
+      ],
+      "sunNeed": [
+        "ncsu-allium-sativum"
+      ],
+      "variants.standard": [
+        "ncsu-allium-sativum"
+      ],
+      "minWinterC": [
+        "ncsu-allium-sativum"
+      ],
+      "calendar": [
+        "il-garlic"
+      ],
+      "edibleParts": [
+        "ncsu-allium-sativum"
+      ],
+      "drainage": [
+        "ncsu-allium-sativum"
+      ],
+      "phMin": [
+        "ncsu-allium-sativum"
+      ],
+      "phMax": [
+        "ncsu-allium-sativum"
+      ],
+      "origin": [
+        "ncsu-allium-sativum"
+      ],
+      "water": [
+        "il-garlic"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "asia"
+    ]
+  },
+  {
+    "id": "onion",
+    "commonNames": [
+      "Onion"
+    ],
+    "commonNamesHu": [
+      "Vöröshagyma"
+    ],
+    "latinName": "Allium cepa",
+    "family": null,
+    "layer": "root",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.4,
+        "matureWidthM": 0.23,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -28.9,
+    "roles": null,
+    "edibleParts": [
+      "bulbs",
+      "leaves"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -6
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Allium+cepa",
+    "water": {
+      "level": "medium"
+    },
+    "rotationGroup": "roots",
+    "sources": [
+      {
+        "id": "ncsu-allium-cepa",
+        "title": "Allium cepa (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/allium-cepa/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for Spring and Fall Planting (University of Maryland Extension, PDF)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-vegetables-onions-guide",
+        "title": "How to grow onions (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/onions/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-voroshagyma",
+        "title": "Vöröshagyma (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Vöröshagyma",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-allium-cepa"
+      ],
+      "commonNamesHu": [
+        "huwiki-voroshagyma",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-allium-cepa"
+      ],
+      "layer": [
+        "ncsu-allium-cepa"
+      ],
+      "sunNeed": [
+        "ncsu-allium-cepa"
+      ],
+      "variants.standard": [
+        "ncsu-allium-cepa"
+      ],
+      "minWinterC": [
+        "ncsu-allium-cepa"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "edibleParts": [
+        "ncsu-allium-cepa"
+      ],
+      "drainage": [
+        "ncsu-allium-cepa"
+      ],
+      "origin": [
+        "ncsu-allium-cepa"
+      ],
+      "grownIn": [
+        "rhs-vegetables-onions-guide"
+      ],
+      "water": [
+        "ncsu-allium-cepa"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "cranberry",
+    "commonNames": [
+      "Cranberry",
+      "American cranberry"
+    ],
+    "commonNamesHu": [
+      "Amerikai tőzegáfonya"
+    ],
+    "latinName": "Vaccinium macrocarpon",
+    "family": null,
+    "layer": "ground-cover",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard patch",
+        "labelHu": "Normál telep",
+        "matureHeightM": 0.6,
+        "matureWidthM": 0.6,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 4.0,
+    "phMax": 5.2,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal",
+      "wet"
+    ],
+    "minWinterC": -40.0,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "berries"
+    ],
+    "calendar": [
+      {
+        "task": "harvest",
+        "from": "late-summer",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Vaccinium+macrocarpon",
+    "water": {
+      "level": "high"
+    },
+    "sources": [
+      {
+        "id": "ncsu-vaccinium-macrocarpon",
+        "title": "Vaccinium macrocarpon (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/vaccinium-macrocarpon/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-gyo-cranberries",
+        "title": "Fascinating facts: cranberries (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/advice/grow-your-own/features/fascinating-facts-cranberries",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-amerikai-tozegafonya",
+        "title": "Amerikai tőzegáfonya (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Amerikai_tőzegáfonya",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-vaccinium-macrocarpon"
+      ],
+      "commonNamesHu": [
+        "huwiki-amerikai-tozegafonya"
+      ],
+      "latinName": [
+        "ncsu-vaccinium-macrocarpon"
+      ],
+      "layer": [
+        "ncsu-vaccinium-macrocarpon"
+      ],
+      "sunNeed": [
+        "ncsu-vaccinium-macrocarpon"
+      ],
+      "variants.standard": [
+        "ncsu-vaccinium-macrocarpon"
+      ],
+      "minWinterC": [
+        "ncsu-vaccinium-macrocarpon"
+      ],
+      "calendar": [
+        "ncsu-vaccinium-macrocarpon"
+      ],
+      "edibleParts": [
+        "ncsu-vaccinium-macrocarpon"
+      ],
+      "drainage": [
+        "ncsu-vaccinium-macrocarpon"
+      ],
+      "roles": [
+        "ncsu-vaccinium-macrocarpon"
+      ],
+      "phMin": [
+        "ncsu-vaccinium-macrocarpon"
+      ],
+      "phMax": [
+        "ncsu-vaccinium-macrocarpon"
+      ],
+      "origin": [
+        "ncsu-vaccinium-macrocarpon"
+      ],
+      "grownIn": [
+        "rhs-gyo-cranberries"
+      ],
+      "water": [
+        "ncsu-vaccinium-macrocarpon",
+        "rhs-gyo-cranberries"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "radish",
+    "commonNames": [
+      "Radish"
+    ],
+    "commonNamesHu": [
+      "Retek",
+      "Kerti retek"
+    ],
+    "latinName": "Raphanus sativus",
+    "family": null,
+    "layer": "root",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.5,
+        "matureWidthM": 0.5,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": null,
+    "edibleParts": [
+      "roots",
+      "leaves",
+      "flowers",
+      "seed pods"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -6
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Raphanus+sativus",
+    "annual": true,
+    "water": {
+      "level": "high"
+    },
+    "rotationGroup": "brassicas",
+    "sources": [
+      {
+        "id": "ncsu-raphanus-sativus",
+        "title": "Raphanus sativus (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/raphanus-sativus/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for Spring and Fall Planting (University of Maryland Extension, PDF)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-vegetables-radishes-guide",
+        "title": "How to grow radishes (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/radishes/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-retek",
+        "title": "Retek (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Retek",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-raphanus-sativus"
+      ],
+      "commonNamesHu": [
+        "huwiki-retek",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-raphanus-sativus"
+      ],
+      "layer": [
+        "ncsu-raphanus-sativus"
+      ],
+      "sunNeed": [
+        "ncsu-raphanus-sativus"
+      ],
+      "variants.standard": [
+        "ncsu-raphanus-sativus"
+      ],
+      "minWinterC": [
+        "ncsu-raphanus-sativus"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "edibleParts": [
+        "ncsu-raphanus-sativus"
+      ],
+      "drainage": [
+        "ncsu-raphanus-sativus"
+      ],
+      "phMin": [
+        "ncsu-raphanus-sativus"
+      ],
+      "phMax": [
+        "ncsu-raphanus-sativus"
+      ],
+      "grownIn": [
+        "rhs-vegetables-radishes-guide"
+      ],
+      "annual": [
+        "ncsu-raphanus-sativus"
+      ],
+      "water": [
+        "ncsu-raphanus-sativus",
+        "rhs-vegetables-radishes-guide"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "potato",
+    "commonNames": [
+      "Potato"
+    ],
+    "commonNamesHu": [
+      "Burgonya",
+      "Krumpli"
+    ],
+    "latinName": "Solanum tuberosum",
+    "family": null,
+    "layer": "root",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.5,
+        "matureWidthM": 0.4,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": null,
+    "edibleParts": [
+      "tubers"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -3
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Solanum+tuberosum",
+    "annual": true,
+    "rotationGroup": "potatoes",
+    "sources": [
+      {
+        "id": "ncsu-solanum-tuberosum",
+        "title": "Solanum tuberosum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/solanum-tuberosum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for Spring and Fall Planting (University of Maryland Extension, PDF)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-vegetables-potatoes-guide",
+        "title": "How to grow potatoes (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/potatoes/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-burgonya",
+        "title": "Burgonya (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Burgonya",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-solanum-tuberosum"
+      ],
+      "commonNamesHu": [
+        "huwiki-burgonya"
+      ],
+      "latinName": [
+        "ncsu-solanum-tuberosum"
+      ],
+      "layer": [
+        "ncsu-solanum-tuberosum"
+      ],
+      "sunNeed": [
+        "ncsu-solanum-tuberosum"
+      ],
+      "variants.standard": [
+        "ncsu-solanum-tuberosum"
+      ],
+      "minWinterC": [
+        "ncsu-solanum-tuberosum"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "edibleParts": [
+        "ncsu-solanum-tuberosum"
+      ],
+      "drainage": [
+        "ncsu-solanum-tuberosum"
+      ],
+      "origin": [
+        "ncsu-solanum-tuberosum"
+      ],
+      "grownIn": [
+        "rhs-vegetables-potatoes-guide"
+      ],
+      "annual": [
+        "ncsu-solanum-tuberosum"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "south-america"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "carrot",
+    "commonNames": [
+      "Carrot"
+    ],
+    "commonNamesHu": [
+      "Sárgarépa"
+    ],
+    "latinName": "Daucus carota subsp. sativus",
+    "family": null,
+    "layer": "root",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard plant",
+        "labelHu": "Normál növény",
+        "matureHeightM": 0.5,
+        "matureWidthM": 0.06,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.6,
+    "roles": null,
+    "edibleParts": [
+      "roots",
+      "leaves",
+      "flowers",
+      "seeds"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "frost": "last",
+        "offsetWeeks": -3
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Daucus+carota+subsp.+sativus",
+    "annual": true,
+    "rotationGroup": "roots",
+    "sources": [
+      {
+        "id": "ncsu-daucus-carota-subsp-sativus",
+        "title": "Daucus carota subsp. sativus (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/daucus-carota-subsp-sativus/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "umd-veg-planting",
+        "title": "Vegetables for Spring and Fall Planting (University of Maryland Extension, PDF)",
+        "url": "https://extension.umd.edu/sites/extension.umd.edu/files/2022-04/2%20VEGETABLES%20FOR%20SPRING%20AND%20FALL%20PLANTING%20and%20Summer.pdf",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "rhs-vegetables-carrots-guide",
+        "title": "How to grow Carrots (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/vegetables/carrots/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-sargarepa",
+        "title": "Sárgarépa (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Sárgarépa",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2016-veg",
+        "title": "Nemzeti Fajtajegyzék 2016: zöldség, gyógynövény (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_z%C3%B6lds%C3%A9g_2016_v.1.0.pdf",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-daucus-carota-subsp-sativus"
+      ],
+      "commonNamesHu": [
+        "huwiki-sargarepa",
+        "nebih-nfj-2016-veg"
+      ],
+      "latinName": [
+        "ncsu-daucus-carota-subsp-sativus"
+      ],
+      "layer": [
+        "ncsu-daucus-carota-subsp-sativus"
+      ],
+      "sunNeed": [
+        "ncsu-daucus-carota-subsp-sativus"
+      ],
+      "variants.standard": [
+        "ncsu-daucus-carota-subsp-sativus"
+      ],
+      "minWinterC": [
+        "ncsu-daucus-carota-subsp-sativus"
+      ],
+      "calendar": [
+        "umd-veg-planting"
+      ],
+      "edibleParts": [
+        "ncsu-daucus-carota-subsp-sativus"
+      ],
+      "drainage": [
+        "ncsu-daucus-carota-subsp-sativus"
+      ],
+      "phMin": [
+        "ncsu-daucus-carota-subsp-sativus"
+      ],
+      "phMax": [
+        "ncsu-daucus-carota-subsp-sativus"
+      ],
+      "origin": [
+        "ncsu-daucus-carota-subsp-sativus"
+      ],
+      "grownIn": [
+        "rhs-vegetables-carrots-guide"
+      ],
+      "annual": [
+        "ncsu-daucus-carota-subsp-sativus"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "ramps",
+    "commonNames": [
+      "Ramps",
+      "Wild leek"
+    ],
+    "commonNamesHu": [
+      "Amerikai medvehagyma"
+    ],
+    "latinName": "Allium tricoccum",
+    "family": null,
+    "layer": "root",
+    "sunNeed": "shade",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard patch",
+        "labelHu": "Normál telep",
+        "matureHeightM": 0.23,
+        "matureWidthM": 0.46,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": [
+      "pollinator"
+    ],
+    "edibleParts": [
+      "leaves",
+      "bulbs"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "early-spring"
+      },
+      {
+        "task": "plant",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": 2.5,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Allium+tricoccum",
+    "sources": [
+      {
+        "id": "ncsu-allium-tricoccum",
+        "title": "Allium tricoccum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/allium-tricoccum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "uw-ramps",
+        "title": "Ramps, Allium tricoccum (University of Wisconsin Extension Horticulture)",
+        "url": "https://hort.extension.wisc.edu/articles/ramps-allium-tricoccum/",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      },
+      {
+        "id": "ncsu-ramps-pub",
+        "title": "Cultivation of Ramps (NC State Extension Publications)",
+        "url": "https://content.ces.ncsu.edu/cultivation-of-ramps-allium-tricoccum-and-a-burdickii",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "gardener-hu-2026-10-27",
+        "title": "Hungarian name chosen by the Plot Twist gardener (no published source)",
+        "url": "https://github.com/mrgarris0n/plot-twist/blob/main/data/plants/SOURCES.md#gardener-hungarian-names-2026-10-27",
+        "licence": "Project decision; no third-party text"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-allium-tricoccum"
+      ],
+      "latinName": [
+        "ncsu-allium-tricoccum"
+      ],
+      "layer": [
+        "ncsu-allium-tricoccum"
+      ],
+      "sunNeed": [
+        "ncsu-allium-tricoccum",
+        "uw-ramps"
+      ],
+      "variants.standard": [
+        "ncsu-allium-tricoccum"
+      ],
+      "minWinterC": [
+        "uw-ramps"
+      ],
+      "calendar": [
+        "uw-ramps"
+      ],
+      "edibleParts": [
+        "uw-ramps",
+        "ncsu-ramps-pub"
+      ],
+      "firstHarvestYears": [
+        "uw-ramps",
+        "ncsu-ramps-pub"
+      ],
+      "drainage": [
+        "ncsu-allium-tricoccum"
+      ],
+      "roles": [
+        "ncsu-allium-tricoccum"
+      ],
+      "origin": [
+        "ncsu-allium-tricoccum"
+      ],
+      "commonNamesHu": [
+        "gardener-hu-2026-10-27"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ]
+  },
+  {
+    "id": "walking-onion",
+    "commonNames": [
+      "Egyptian walking onion",
+      "Tree onion"
+    ],
+    "commonNamesHu": [
+      "Fahagyma"
+    ],
+    "latinName": "Allium x proliferum",
+    "family": null,
+    "layer": "root",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard clump",
+        "labelHu": "Normál tő",
+        "matureHeightM": 0.8,
+        "matureWidthM": 0.5,
+        "yearsToMaturity": null,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6.0,
+    "phMax": 8.0,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": null,
+    "edibleParts": [
+      "bulbs",
+      "bulbils",
+      "shoots",
+      "leaves"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "late-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Allium+x+proliferum",
+    "water": {
+      "level": "medium"
+    },
+    "rotationGroup": "roots",
+    "sources": [
+      {
+        "id": "ncsu-allium-x-proliferum",
+        "title": "Allium x proliferum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/allium-x-proliferum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "uw-walking-onion",
+        "title": "Egyptian walking onions (University of Wisconsin Extension Horticulture)",
+        "url": "https://hort.extension.wisc.edu/articles/egyptian-walking-onions/",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      },
+      {
+        "id": "rhs-crop-rotation",
+        "title": "Crop rotation (RHS Advice)",
+        "url": "https://www.rhs.org.uk/vegetables/crop-rotation",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "gardener-hu-2026-10-27",
+        "title": "Hungarian name chosen by the Plot Twist gardener (no published source)",
+        "url": "https://github.com/mrgarris0n/plot-twist/blob/main/data/plants/SOURCES.md#gardener-hungarian-names-2026-10-27",
+        "licence": "Project decision; no third-party text"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ncsu-allium-x-proliferum"
+      ],
+      "latinName": [
+        "ncsu-allium-x-proliferum"
+      ],
+      "layer": [
+        "ncsu-allium-x-proliferum"
+      ],
+      "sunNeed": [
+        "uw-walking-onion",
+        "ncsu-allium-x-proliferum"
+      ],
+      "variants.standard": [
+        "ncsu-allium-x-proliferum"
+      ],
+      "minWinterC": [
+        "uw-walking-onion"
+      ],
+      "calendar": [
+        "uw-walking-onion"
+      ],
+      "edibleParts": [
+        "uw-walking-onion",
+        "ncsu-allium-x-proliferum"
+      ],
+      "drainage": [
+        "ncsu-allium-x-proliferum"
+      ],
+      "phMin": [
+        "ncsu-allium-x-proliferum"
+      ],
+      "phMax": [
+        "ncsu-allium-x-proliferum"
+      ],
+      "water": [
+        "ncsu-allium-x-proliferum"
+      ],
+      "rotationGroup": [
+        "rhs-crop-rotation"
+      ],
+      "commonNamesHu": [
+        "gardener-hu-2026-10-27"
+      ]
+    }
+  }
+]

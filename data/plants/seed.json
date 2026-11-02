@@ -1,0 +1,1365 @@
+[
+  {
+    "id": "apple",
+    "commonNames": [
+      "Apple"
+    ],
+    "commonNamesHu": [
+      "Alma",
+      "Házi alma",
+      "Nemes alma"
+    ],
+    "latinName": "Malus domestica",
+    "family": null,
+    "layer": "canopy",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "dwarf",
+        "label": "Dwarf (small tree)",
+        "labelHu": "Törpe (kis fa)",
+        "matureHeightM": 3,
+        "matureWidthM": 3,
+        "yearsToMaturity": 5,
+        "minSpacingM": 1.8
+      },
+      {
+        "id": "semi-dwarf",
+        "label": "Semi-dwarf (medium tree)",
+        "labelHu": "Féltörpe (közepes fa)",
+        "matureHeightM": 4.6,
+        "matureWidthM": 4.6,
+        "yearsToMaturity": 7.5,
+        "minSpacingM": 3.7
+      },
+      {
+        "id": "standard",
+        "label": "Standard (full-size tree)",
+        "labelHu": "Normál (teljes méretű fa)",
+        "matureHeightM": 6.1,
+        "matureWidthM": 6.1,
+        "yearsToMaturity": 10,
+        "minSpacingM": 6.1
+      }
+    ],
+    "phMin": 6,
+    "phMax": 7,
+    "textures": null,
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "late-winter",
+        "to": "early-spring"
+      },
+      {
+        "task": "harvest",
+        "from": "late-summer",
+        "to": "mid-autumn"
+      }
+    ],
+    "firstHarvestYears": 3,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Malus+domestica",
+    "sources": [
+      {
+        "id": "umn-apples",
+        "title": "Growing apples in the home garden (University of Minnesota Extension)",
+        "url": "https://extension.umn.edu/fruit/growing-apples",
+        "licence": "Facts cited; © Regents of the University of Minnesota"
+      },
+      {
+        "id": "umaine-rootstocks",
+        "title": "Rootstocks and Dwarf Fruit Trees (University of Maine Cooperative Extension)",
+        "url": "https://extension.umaine.edu/fruit/growing-fruit-trees-in-maine/rootstocks-and-dwarf-fruit-trees/",
+        "licence": "Facts cited; © University of Maine"
+      },
+      {
+        "id": "umaine-varieties",
+        "title": "Types of Fruit Trees (University of Maine Cooperative Extension)",
+        "url": "https://extension.umaine.edu/fruit/growing-fruit-trees-in-maine/varieties/",
+        "licence": "Facts cited; © University of Maine"
+      },
+      {
+        "id": "csu-tree-fruit",
+        "title": "Growing Tree Fruit in Colorado Gardens (Colorado State University Extension)",
+        "url": "https://extension.colostate.edu/resource/growing-tree-fruit-in-colorado-gardens/",
+        "licence": "Facts cited; © Colorado State University"
+      },
+      {
+        "id": "mu-g6021",
+        "title": "Home Fruit Production: Apples, G6021 (University of Missouri Extension)",
+        "url": "https://extension.missouri.edu/g6021",
+        "licence": "Facts cited; © Curators of the University of Missouri"
+      },
+      {
+        "id": "uga-apples",
+        "title": "Apples can be tasty addition to garden (University of Georgia Extension field report)",
+        "url": "https://fieldreport.caes.uga.edu/?p=19713",
+        "licence": "Facts cited; © University of Georgia"
+      },
+      {
+        "id": "rhs-apple",
+        "title": "Malus domestica 'Mother' (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/83057/malus-domestica-mother-(d)/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "ncsu-malus-domestica",
+        "title": "Malus domestica (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/malus-domestica/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-fruit-apples-guide",
+        "title": "How to grow apples (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/fruit/apples/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-nemes-alma",
+        "title": "Nemes alma (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Nemes_alma",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "umn-apples"
+      ],
+      "commonNamesHu": [
+        "huwiki-nemes-alma",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "mu-g6021"
+      ],
+      "layer": [
+        "umn-apples",
+        "csu-tree-fruit"
+      ],
+      "sunNeed": [
+        "uga-apples",
+        "mu-g6021"
+      ],
+      "phMin": [
+        "mu-g6021",
+        "umn-apples"
+      ],
+      "phMax": [
+        "mu-g6021",
+        "umn-apples"
+      ],
+      "drainage": [
+        "mu-g6021",
+        "uga-apples"
+      ],
+      "minWinterC": [
+        "umaine-varieties"
+      ],
+      "edibleParts": [
+        "umn-apples"
+      ],
+      "calendar": [
+        "mu-g6021",
+        "umn-apples"
+      ],
+      "firstHarvestYears": [
+        "umaine-rootstocks"
+      ],
+      "variants.dwarf": [
+        "csu-tree-fruit",
+        "umn-apples",
+        "rhs-apple",
+        "umaine-rootstocks"
+      ],
+      "variants.semi-dwarf": [
+        "umn-apples",
+        "umaine-rootstocks",
+        "rhs-apple"
+      ],
+      "variants.standard": [
+        "csu-tree-fruit",
+        "umn-apples",
+        "rhs-apple",
+        "umaine-rootstocks"
+      ],
+      "origin": [
+        "ncsu-malus-domestica"
+      ],
+      "grownIn": [
+        "rhs-fruit-apples-guide"
+      ]
+    },
+    "origin": [
+      "asia"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "hazel",
+    "commonNames": [
+      "Hazel",
+      "Hazelnut",
+      "Cobnut"
+    ],
+    "commonNamesHu": [
+      "Mogyoró",
+      "Európai mogyoró",
+      "Közönséges mogyoró"
+    ],
+    "latinName": "Corylus avellana",
+    "family": "Betulaceae",
+    "layer": "sub-canopy",
+    "sunNeed": "part",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard (large shrub or small tree)",
+        "labelHu": "Normál (nagy cserje vagy kis fa)",
+        "matureHeightM": 6,
+        "matureWidthM": 6,
+        "yearsToMaturity": 10,
+        "minSpacingM": 4.6
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": null,
+    "edibleParts": [
+      "nuts"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "early-winter",
+        "to": "late-winter"
+      },
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "mid-autumn"
+      }
+    ],
+    "firstHarvestYears": 5,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Corylus+avellana",
+    "water": {
+      "level": "medium"
+    },
+    "sources": [
+      {
+        "id": "rhs-hazel",
+        "title": "Corylus avellana (F) (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/4511/corylus-avellana-f/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "osu-ipm-hazel",
+        "title": "An Integrated Pest Management Guide for Hazelnuts (Oregon State University Extension, EM 9223)",
+        "url": "https://extension.oregonstate.edu/sites/extd8/files/documents/em9223.pdf",
+        "licence": "Facts cited; © Oregon State University"
+      },
+      {
+        "id": "osu-hazel-intro",
+        "title": "Growing Hazelnuts in the Pacific Northwest: Introduction (Oregon State University Extension, EM 9072)",
+        "url": "https://extension.oregonstate.edu/catalog/em-9072-growing-hazelnuts-pacific-northwest-introduction",
+        "licence": "Facts cited; © Oregon State University"
+      },
+      {
+        "id": "osu-prune-hazel",
+        "title": "Pruning Hazelnut Trees: A Basic Guide (Oregon State University Extension)",
+        "url": "https://extension.oregonstate.edu/crop-production/nuts/pruning-hazelnut-trees-basic-guide",
+        "licence": "Facts cited; © Oregon State University"
+      },
+      {
+        "id": "osu-ec819",
+        "title": "Growing tree fruits and nuts at home (Oregon State University Extension, EC 819)",
+        "url": "https://extension.oregonstate.edu/catalog/ec-819-growing-tree-fruits-nuts-home",
+        "licence": "Facts cited; © Oregon State University"
+      },
+      {
+        "id": "osu-landscape-hazel",
+        "title": "Corylus avellana (Oregon State University Landscape Plants)",
+        "url": "https://landscapeplants.oregonstate.edu/plants/corylus-avellana",
+        "licence": "Facts cited; © Oregon State University"
+      },
+      {
+        "id": "rhs-nuts-cobnuts-filberts-guide",
+        "title": "Cobnuts and Filberts: Growing Guide (RHS)",
+        "url": "https://www.rhs.org.uk/nuts/cobnuts-filberts",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-europai-mogyoro",
+        "title": "Európai mogyoró (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Európai_mogyoró",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-hazel"
+      ],
+      "commonNamesHu": [
+        "huwiki-europai-mogyoro",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "rhs-hazel"
+      ],
+      "family": [
+        "rhs-hazel"
+      ],
+      "layer": [
+        "rhs-hazel"
+      ],
+      "sunNeed": [
+        "rhs-hazel"
+      ],
+      "leafHabit": [
+        "rhs-hazel"
+      ],
+      "textures": [
+        "rhs-hazel"
+      ],
+      "drainage": [
+        "rhs-hazel"
+      ],
+      "minWinterC": [
+        "osu-landscape-hazel"
+      ],
+      "edibleParts": [
+        "rhs-hazel"
+      ],
+      "calendar": [
+        "osu-prune-hazel",
+        "osu-ipm-hazel"
+      ],
+      "firstHarvestYears": [
+        "osu-hazel-intro",
+        "osu-ec819"
+      ],
+      "variants.standard": [
+        "rhs-hazel",
+        "osu-ec819"
+      ],
+      "origin": [
+        "rhs-hazel"
+      ],
+      "grownIn": [
+        "rhs-nuts-cobnuts-filberts-guide"
+      ],
+      "water": [
+        "rhs-hazel"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia",
+      "africa"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "black-currant",
+    "commonNames": [
+      "Black currant",
+      "Blackcurrant"
+    ],
+    "commonNamesHu": [
+      "Fekete ribiszke",
+      "Fekete ribizli"
+    ],
+    "latinName": "Ribes nigrum",
+    "family": "Grossulariaceae",
+    "layer": "shrub",
+    "sunNeed": "part",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard bush",
+        "labelHu": "Normál bokor",
+        "matureHeightM": 1.5,
+        "matureWidthM": 1.5,
+        "yearsToMaturity": 5,
+        "minSpacingM": 1.2
+      }
+    ],
+    "phMin": 5.6,
+    "phMax": 7,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "normal"
+    ],
+    "minWinterC": -40,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "late-winter",
+        "to": "early-spring"
+      },
+      {
+        "task": "harvest",
+        "from": "mid-summer",
+        "to": "late-summer"
+      }
+    ],
+    "firstHarvestYears": 2,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Ribes+nigrum",
+    "sources": [
+      {
+        "id": "rhs-blackcurrant",
+        "title": "Ribes nigrum (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/106234/wd/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umn-currants",
+        "title": "Growing currants and gooseberries in the home garden (University of Minnesota Extension)",
+        "url": "https://extension.umn.edu/fruit/growing-currants-and-gooseberries-home-garden",
+        "licence": "Facts cited; © Regents of the University of Minnesota"
+      },
+      {
+        "id": "osu-em9182",
+        "title": "Growing Berries on the Oregon Coast: Gooseberries, Currants, and Other Minor Berry Crops (Oregon State University Extension, EM 9182)",
+        "url": "https://extension.oregonstate.edu/catalog/pub/em9182?reference=catalog",
+        "licence": "Facts cited; © Oregon State University"
+      },
+      {
+        "id": "umass-currants",
+        "title": "Currants and Gooseberries (UMass Amherst, New England Small Fruit Management Guide)",
+        "url": "https://ag.umass.edu/fruit/ne-small-fruit-management-guide/currants-gooseberries",
+        "licence": "Facts cited; © University of Massachusetts Amherst"
+      },
+      {
+        "id": "huwiki-fekete-ribiszke",
+        "title": "Fekete ribiszke (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Fekete_ribiszke",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      },
+      {
+        "id": "nebih-nfj-2019-fruit",
+        "title": "Nemzeti Fajtajegyzék 2019: szőlő, gyümölcs (NÉBIH National List of Varieties)",
+        "url": "https://portal.nebih.gov.hu/documents/10182/81819/NFJ_sz%C5%91l%C5%91-gy%C3%BCm%C3%B6lcs_2019/b60aa006-0d4c-aa81-d205-b68c465ada3a",
+        "licence": "Facts cited; name only, no text copied; © Nemzeti Élelmiszerlánc-biztonsági Hivatal"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-blackcurrant"
+      ],
+      "commonNamesHu": [
+        "huwiki-fekete-ribiszke",
+        "nebih-nfj-2019-fruit"
+      ],
+      "latinName": [
+        "rhs-blackcurrant"
+      ],
+      "family": [
+        "rhs-blackcurrant"
+      ],
+      "layer": [
+        "umn-currants"
+      ],
+      "sunNeed": [
+        "rhs-blackcurrant"
+      ],
+      "phMin": [
+        "umn-currants",
+        "osu-em9182"
+      ],
+      "phMax": [
+        "umn-currants"
+      ],
+      "textures": [
+        "rhs-blackcurrant"
+      ],
+      "drainage": [
+        "rhs-blackcurrant"
+      ],
+      "minWinterC": [
+        "umn-currants"
+      ],
+      "edibleParts": [
+        "rhs-blackcurrant"
+      ],
+      "calendar": [
+        "rhs-blackcurrant",
+        "umn-currants",
+        "umass-currants"
+      ],
+      "firstHarvestYears": [
+        "umn-currants",
+        "osu-em9182"
+      ],
+      "variants.standard": [
+        "rhs-blackcurrant",
+        "umn-currants"
+      ]
+    }
+  },
+  {
+    "id": "comfrey",
+    "commonNames": [
+      "Comfrey",
+      "Common comfrey"
+    ],
+    "commonNamesHu": [
+      "Fekete nadálytő"
+    ],
+    "latinName": "Symphytum officinale",
+    "family": "Boraginaceae",
+    "layer": "herbaceous",
+    "sunNeed": "part",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard clump",
+        "labelHu": "Normál tő",
+        "matureHeightM": 1.5,
+        "matureWidthM": 1.5,
+        "yearsToMaturity": 3.5,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": null,
+    "phMax": null,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "normal",
+      "wet"
+    ],
+    "minWinterC": -34.4,
+    "roles": [
+      "dynamic-accumulator",
+      "pollinator"
+    ],
+    "edibleParts": null,
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "late-spring"
+      },
+      {
+        "task": "prune",
+        "from": "early-autumn",
+        "to": "late-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Symphytum+officinale",
+    "sources": [
+      {
+        "id": "rhs-comfrey",
+        "title": "Symphytum officinale (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/17886/symphytum-officinale/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-bocking14",
+        "title": "Symphytum x uplandicum 'Bocking 14' (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/108577/symphytum-x-uplandicum-bocking-14/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "cornell-accumulators",
+        "title": "New Findings Further the Study of Dynamic Accumulators (Cornell Small Farms)",
+        "url": "https://smallfarms.cornell.edu/2022/04/new-findings-further-the-study-of-dynamic-accumulators/",
+        "licence": "Facts cited; © Cornell University"
+      },
+      {
+        "id": "ncsu-symphytum-officinale",
+        "title": "Symphytum officinale (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/symphytum-officinale/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "huwiki-fekete-nadalyto",
+        "title": "Fekete nadálytő (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Fekete_nadálytő",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-comfrey"
+      ],
+      "commonNamesHu": [
+        "huwiki-fekete-nadalyto"
+      ],
+      "latinName": [
+        "rhs-comfrey"
+      ],
+      "family": [
+        "rhs-comfrey"
+      ],
+      "layer": [
+        "rhs-comfrey"
+      ],
+      "sunNeed": [
+        "rhs-comfrey"
+      ],
+      "textures": [
+        "rhs-comfrey"
+      ],
+      "drainage": [
+        "rhs-comfrey"
+      ],
+      "minWinterC": [
+        "ncsu-symphytum-officinale"
+      ],
+      "roles": [
+        "cornell-accumulators",
+        "rhs-comfrey"
+      ],
+      "calendar": [
+        "rhs-bocking14"
+      ],
+      "variants.standard": [
+        "rhs-comfrey"
+      ],
+      "origin": [
+        "ncsu-symphytum-officinale"
+      ]
+    },
+    "origin": [
+      "europe",
+      "asia"
+    ]
+  },
+  {
+    "id": "chives",
+    "commonNames": [
+      "Chives"
+    ],
+    "commonNamesHu": [
+      "Metélőhagyma",
+      "Snidling"
+    ],
+    "latinName": "Allium schoenoprasum",
+    "family": "Amaryllidaceae",
+    "layer": "herbaceous",
+    "sunNeed": "part",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard clump",
+        "labelHu": "Normál tő",
+        "matureHeightM": 0.5,
+        "matureWidthM": 0.3,
+        "yearsToMaturity": 3.5,
+        "minSpacingM": 0.3
+      }
+    ],
+    "phMin": 6,
+    "phMax": 7,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -34.4,
+    "roles": [
+      "pest-repellent",
+      "pollinator"
+    ],
+    "edibleParts": null,
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "late-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Allium+schoenoprasum",
+    "water": {
+      "level": "low"
+    },
+    "sources": [
+      {
+        "id": "rhs-chives",
+        "title": "Allium schoenoprasum (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/859/allium-schoenoprasum/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "umn-chives",
+        "title": "Growing chives in home gardens (University of Minnesota Extension)",
+        "url": "https://extension.umn.edu/vegetables/growing-chives",
+        "licence": "Facts cited; © Regents of the University of Minnesota"
+      },
+      {
+        "id": "uw-chives",
+        "title": "Chives, Allium schoenoprasum (University of Wisconsin Extension Horticulture)",
+        "url": "https://hort.extension.wisc.edu/articles/chives-allium-schoenoprasum/",
+        "licence": "Facts cited; © Board of Regents of the University of Wisconsin System"
+      },
+      {
+        "id": "umd-chives",
+        "title": "Chives (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/resource/chives",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "umd-companion",
+        "title": "Vegetable Succession and Companion Planting (University of Maryland Extension)",
+        "url": "https://extension.umd.edu/resource/vegetable-succession-and-companion-planting",
+        "licence": "Facts cited; © University of Maryland"
+      },
+      {
+        "id": "csu-herbs",
+        "title": "CMG GardenNotes #731 Herb Gardening (Colorado State University Extension)",
+        "url": "https://cmg.extension.colostate.edu/Gardennotes/731.pdf",
+        "licence": "Facts cited; © Colorado State University"
+      },
+      {
+        "id": "ncsu-allium-schoenoprasum",
+        "title": "Allium schoenoprasum (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/allium-schoenoprasum/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "rhs-herbs-chives-guide",
+        "title": "How to grow Chives (RHS Grow Your Own)",
+        "url": "https://www.rhs.org.uk/herbs/chives/grow-your-own",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-metelohagyma",
+        "title": "Metélőhagyma (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Metélőhagyma",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-chives"
+      ],
+      "commonNamesHu": [
+        "huwiki-metelohagyma"
+      ],
+      "latinName": [
+        "rhs-chives"
+      ],
+      "family": [
+        "rhs-chives"
+      ],
+      "layer": [
+        "rhs-chives",
+        "csu-herbs"
+      ],
+      "sunNeed": [
+        "rhs-chives",
+        "umn-chives"
+      ],
+      "leafHabit": [
+        "rhs-chives"
+      ],
+      "phMin": [
+        "umn-chives"
+      ],
+      "phMax": [
+        "umn-chives"
+      ],
+      "textures": [
+        "rhs-chives"
+      ],
+      "drainage": [
+        "rhs-chives"
+      ],
+      "minWinterC": [
+        "ncsu-allium-schoenoprasum"
+      ],
+      "roles": [
+        "umd-companion",
+        "csu-herbs",
+        "rhs-chives"
+      ],
+      "calendar": [
+        "uw-chives",
+        "umn-chives"
+      ],
+      "variants.standard": [
+        "rhs-chives",
+        "uw-chives",
+        "umd-chives",
+        "umn-chives"
+      ],
+      "origin": [
+        "rhs-chives"
+      ],
+      "grownIn": [
+        "rhs-herbs-chives-guide"
+      ],
+      "water": [
+        "uw-chives",
+        "ncsu-allium-schoenoprasum"
+      ]
+    },
+    "origin": [
+      "europe"
+    ],
+    "grownIn": [
+      "europe"
+    ]
+  },
+  {
+    "id": "white-clover",
+    "commonNames": [
+      "White clover"
+    ],
+    "commonNamesHu": [
+      "Fehér here"
+    ],
+    "latinName": "Trifolium repens",
+    "family": "Fabaceae",
+    "layer": "ground-cover",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard patch",
+        "labelHu": "Normál telep",
+        "matureHeightM": 0.2,
+        "matureWidthM": 0.6,
+        "yearsToMaturity": 3.5,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 6,
+    "phMax": 7,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -40.0,
+    "roles": [
+      "nitrogen-fixer",
+      "pollinator"
+    ],
+    "edibleParts": null,
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "mid-spring",
+        "to": "late-spring"
+      },
+      {
+        "task": "plant",
+        "from": "late-summer",
+        "to": "early-autumn"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Trifolium+repens",
+    "water": {
+      "minRainMm": 610
+    },
+    "sources": [
+      {
+        "id": "rhs-clover",
+        "title": "Trifolium repens (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/88720/trifolium-repens/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "nrcs-clover-guide",
+        "title": "Plant Guide: White Clover, Trifolium repens L. (USDA NRCS)",
+        "url": "https://www.nrcs.usda.gov/plantmaterials/idpmcpg10358.pdf",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "nrcs-clover-sheet",
+        "title": "White Clover Cover Crop Fact Sheet (USDA NRCS)",
+        "url": "https://www.nrcs.usda.gov/sites/default/files/2024-07/White%20Clover%20Crop%20Fact%20Sheet.pdf",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "psu-clover",
+        "title": "White Clover (Penn State Extension)",
+        "url": "https://extension.psu.edu/white-clover",
+        "licence": "Facts cited; © The Pennsylvania State University"
+      },
+      {
+        "id": "umn-dutch-clover",
+        "title": "Dutch white clover (University of Minnesota Extension)",
+        "url": "https://extension.umn.edu/weeds/dutch-white-clover",
+        "licence": "Facts cited; © Regents of the University of Minnesota"
+      },
+      {
+        "id": "umn-bee-lawn",
+        "title": "Planting and maintaining a bee lawn (University of Minnesota Extension)",
+        "url": "https://extension.umn.edu/garden-and-home/yard-and-garden/lawns-and-landscapes-in-minnesota/planting-and-maintaining-a-bee-lawn",
+        "licence": "Facts cited; © Regents of the University of Minnesota"
+      },
+      {
+        "id": "ncsu-trifolium-repens",
+        "title": "Trifolium repens (NC State Extension Plant Toolbox)",
+        "url": "https://plants.ces.ncsu.edu/plants/trifolium-repens/",
+        "licence": "Facts cited; © North Carolina State University"
+      },
+      {
+        "id": "usda-plants-trre3",
+        "title": "Trifolium repens (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/TRRE3",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-feher-here",
+        "title": "Fehér here (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Fehér_here",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "rhs-clover"
+      ],
+      "commonNamesHu": [
+        "huwiki-feher-here"
+      ],
+      "latinName": [
+        "rhs-clover"
+      ],
+      "family": [
+        "rhs-clover"
+      ],
+      "layer": [
+        "rhs-clover"
+      ],
+      "sunNeed": [
+        "rhs-clover"
+      ],
+      "phMin": [
+        "psu-clover"
+      ],
+      "phMax": [
+        "psu-clover"
+      ],
+      "textures": [
+        "rhs-clover"
+      ],
+      "drainage": [
+        "rhs-clover"
+      ],
+      "minWinterC": [
+        "ncsu-trifolium-repens"
+      ],
+      "roles": [
+        "nrcs-clover-guide",
+        "umn-bee-lawn",
+        "rhs-clover"
+      ],
+      "calendar": [
+        "nrcs-clover-guide",
+        "nrcs-clover-sheet"
+      ],
+      "variants.standard": [
+        "umn-dutch-clover",
+        "rhs-clover"
+      ],
+      "origin": [
+        "ncsu-trifolium-repens"
+      ],
+      "water": [
+        "usda-plants-trre3"
+      ]
+    },
+    "origin": [
+      "europe"
+    ]
+  },
+  {
+    "id": "siberian-pea-shrub",
+    "commonNames": [
+      "Siberian pea shrub",
+      "Siberian peashrub"
+    ],
+    "commonNamesHu": [
+      "Borsófa"
+    ],
+    "latinName": "Caragana arborescens",
+    "family": "Fabaceae",
+    "layer": "shrub",
+    "sunNeed": "full",
+    "leafHabit": "deciduous",
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "standard",
+        "label": "Standard shrub",
+        "labelHu": "Normál cserje",
+        "matureHeightM": 6,
+        "matureWidthM": 4,
+        "yearsToMaturity": 20,
+        "minSpacingM": null
+      }
+    ],
+    "phMin": 5,
+    "phMax": 8,
+    "textures": [
+      "clay",
+      "loamy",
+      "sandy"
+    ],
+    "drainage": [
+      "fast",
+      "normal"
+    ],
+    "minWinterC": -45.5,
+    "roles": [
+      "nitrogen-fixer"
+    ],
+    "edibleParts": null,
+    "calendar": [
+      {
+        "task": "prune",
+        "from": "late-winter",
+        "to": "early-spring"
+      }
+    ],
+    "firstHarvestYears": null,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Caragana+arborescens",
+    "water": {
+      "minRainMm": 305
+    },
+    "sources": [
+      {
+        "id": "rhs-caragana",
+        "title": "Caragana arborescens (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/3015/caragana-arborescens/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "ndsu-caragana",
+        "title": "North Dakota Tree Selector: Caragana-Siberian Peashrub (NDSU)",
+        "url": "https://www.ag.ndsu.edu/trees/treeinfo/caragana",
+        "licence": "Facts cited; © North Dakota State University"
+      },
+      {
+        "id": "nrcs-mt-trees",
+        "title": "Conservation Trees and Shrubs for Montana (USDA NRCS)",
+        "url": "https://www.nrcs.usda.gov/wps/cmis_proxy/https/ecm.nrcs.usda.gov:443/fncmis/resources/WEBP/ContentStream/idd_60F56C61-0000-C51A-9D0C-6939245C698C/0/ConservationTreesandShrubs.pdf",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "umn-pruning",
+        "title": "Pruning trees and shrubs (University of Minnesota Extension)",
+        "url": "https://extension.umn.edu/planting-and-growing-guides/pruning-trees-and-shrubs",
+        "licence": "Facts cited; © Regents of the University of Minnesota"
+      },
+      {
+        "id": "umn-prune-march",
+        "title": "Plants to prune in March (University of Minnesota Extension)",
+        "url": "https://extension.umn.edu/yard-and-garden-news/plants-prune-march",
+        "licence": "Facts cited; © Regents of the University of Minnesota"
+      },
+      {
+        "id": "usda-plants-caar18",
+        "title": "Caragana arborescens (USDA PLANTS Database)",
+        "url": "https://plants.usda.gov/plant-profile/CAAR18",
+        "licence": "Public domain (US Gov)"
+      },
+      {
+        "id": "huwiki-mergezo-novenyek-listaja",
+        "title": "Mérgező növények listája (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Mérgező_növények_listája",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "ndsu-caragana"
+      ],
+      "commonNamesHu": [
+        "huwiki-mergezo-novenyek-listaja"
+      ],
+      "latinName": [
+        "rhs-caragana"
+      ],
+      "family": [
+        "rhs-caragana"
+      ],
+      "layer": [
+        "rhs-caragana",
+        "ndsu-caragana"
+      ],
+      "sunNeed": [
+        "rhs-caragana"
+      ],
+      "leafHabit": [
+        "rhs-caragana"
+      ],
+      "phMin": [
+        "ndsu-caragana"
+      ],
+      "phMax": [
+        "ndsu-caragana"
+      ],
+      "textures": [
+        "rhs-caragana"
+      ],
+      "drainage": [
+        "rhs-caragana"
+      ],
+      "minWinterC": [
+        "ndsu-caragana"
+      ],
+      "roles": [
+        "nrcs-mt-trees"
+      ],
+      "calendar": [
+        "umn-pruning",
+        "umn-prune-march"
+      ],
+      "variants.standard": [
+        "rhs-caragana"
+      ],
+      "origin": [
+        "rhs-caragana"
+      ],
+      "water": [
+        "usda-plants-caar18"
+      ]
+    },
+    "origin": [
+      "asia"
+    ]
+  },
+  {
+    "id": "grape",
+    "commonNames": [
+      "Grape",
+      "Concord-type grape"
+    ],
+    "commonNamesHu": [
+      "Rókaszőlő"
+    ],
+    "latinName": "Vitis labrusca",
+    "family": null,
+    "layer": "climber",
+    "sunNeed": "full",
+    "leafHabit": null,
+    "canopyDensity": null,
+    "variants": [
+      {
+        "id": "trellised",
+        "label": "Trellised vine",
+        "labelHu": "Támra futtatott tőke",
+        "matureHeightM": 1.8,
+        "matureWidthM": 2.4,
+        "yearsToMaturity": 7.5,
+        "minSpacingM": 1.8
+      }
+    ],
+    "phMin": 5.5,
+    "phMax": 7,
+    "textures": null,
+    "drainage": null,
+    "minWinterC": -26.1,
+    "roles": null,
+    "edibleParts": [
+      "fruit"
+    ],
+    "calendar": [
+      {
+        "task": "plant",
+        "from": "early-spring",
+        "to": "mid-spring"
+      },
+      {
+        "task": "prune",
+        "from": "late-winter",
+        "to": "late-winter"
+      },
+      {
+        "task": "harvest",
+        "from": "early-autumn",
+        "to": "early-autumn"
+      }
+    ],
+    "firstHarvestYears": 3,
+    "companions": null,
+    "pfafUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Vitis+labrusca",
+    "sources": [
+      {
+        "id": "umn-grapes",
+        "title": "Growing grapes in the home garden (University of Minnesota Extension)",
+        "url": "https://extension.umn.edu/fruit/growing-grapes-home-garden",
+        "licence": "Facts cited; © Regents of the University of Minnesota"
+      },
+      {
+        "id": "mu-g6005",
+        "title": "University of Missouri Extension publication G6005 (grape hardiness classes and ripening)",
+        "url": "https://extension.missouri.edu/media/wysiwyg/Extensiondata/Pub/pdf/agguides/hort/g06005.pdf",
+        "licence": "Facts cited; © Curators of the University of Missouri"
+      },
+      {
+        "id": "mu-mg6",
+        "title": "Fruit Production (University of Missouri Extension Master Gardener, MG6)",
+        "url": "https://extension.missouri.edu/media/wysiwyg/Extensiondata/Pub/pdf/mastergardener/mg0006.pdf",
+        "licence": "Facts cited; © Curators of the University of Missouri"
+      },
+      {
+        "id": "mu-trellis",
+        "title": "Using trellises for home vineyards (University of Missouri Extension)",
+        "url": "https://extension.missouri.edu/news/using-trellises-for-home-vineyards",
+        "licence": "Facts cited; © Curators of the University of Missouri"
+      },
+      {
+        "id": "unh-grapes",
+        "title": "Growing Grapes in New Hampshire (UNH Extension)",
+        "url": "https://extension.unh.edu/resource/growing-grapes-new-hampshire-fact-sheet",
+        "licence": "Facts cited; © University of New Hampshire"
+      },
+      {
+        "id": "csu-grapes",
+        "title": "CMG GardenNotes #764 Growing Grapes in Colorado Gardens (Colorado State University Extension)",
+        "url": "https://cmg.extension.colostate.edu/Gardennotes/764.pdf",
+        "licence": "Facts cited; © Colorado State University"
+      },
+      {
+        "id": "rhs-grape",
+        "title": "Vitis vinifera 'Lakemont' (RHS plant profile)",
+        "url": "https://rhs.org.uk/plants/154997/vitis-vinifera-lakemont-(o-w-s)/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "rhs-vitis-labrusca-profile",
+        "title": "Vitis labrusca (RHS plant profile)",
+        "url": "https://www.rhs.org.uk/plants/19033/vitis-labrusca/details",
+        "licence": "Facts cited; © Royal Horticultural Society"
+      },
+      {
+        "id": "huwiki-othello-szolofajta",
+        "title": "Othello (szőlőfajta) (Hungarian Wikipedia)",
+        "url": "https://hu.wikipedia.org/wiki/Othello_(szőlőfajta)",
+        "licence": "Facts cited; name only, no text copied; Wikipedia text is CC BY-SA 4.0"
+      }
+    ],
+    "fieldSources": {
+      "commonNames": [
+        "umn-grapes"
+      ],
+      "commonNamesHu": [
+        "huwiki-othello-szolofajta"
+      ],
+      "latinName": [
+        "mu-g6005"
+      ],
+      "layer": [
+        "mu-trellis",
+        "unh-grapes"
+      ],
+      "sunNeed": [
+        "umn-grapes"
+      ],
+      "phMin": [
+        "umn-grapes"
+      ],
+      "phMax": [
+        "umn-grapes"
+      ],
+      "minWinterC": [
+        "mu-g6005",
+        "mu-mg6"
+      ],
+      "edibleParts": [
+        "mu-mg6"
+      ],
+      "calendar": [
+        "umn-grapes",
+        "unh-grapes",
+        "mu-g6005"
+      ],
+      "firstHarvestYears": [
+        "mu-mg6"
+      ],
+      "variants.trellised": [
+        "mu-trellis",
+        "csu-grapes",
+        "rhs-grape"
+      ],
+      "origin": [
+        "rhs-vitis-labrusca-profile"
+      ]
+    },
+    "origin": [
+      "north-america"
+    ]
+  }
+]
